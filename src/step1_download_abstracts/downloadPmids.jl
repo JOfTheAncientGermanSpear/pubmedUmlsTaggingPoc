@@ -48,5 +48,7 @@ function savePmid!(pmid::Dict, dest_dir="../../data/step1/")
   if :abstract_xml in keys(pmid)
     abstract_f = joinpath(dest_dir, "$(id)_abstract.xml")
     save_file(pmid[:abstract_xml], abstract_f)
+  else
+    warn("$id does not have abstract")
   end
 end

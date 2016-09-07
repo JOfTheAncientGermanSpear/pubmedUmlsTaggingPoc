@@ -1,0 +1,402 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2016//EN" "http://www.ncbi.nlm.nih.gov/corehtml/query/DTD/pubmed_160101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="MEDLINE">
+        <PMID Version="1">25292181</PMID>
+        <DateCreated>
+            <Year>2014</Year>
+            <Month>11</Month>
+            <Day>01</Day>
+        </DateCreated>
+        <DateCompleted>
+            <Year>2015</Year>
+            <Month>02</Month>
+            <Day>17</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2015</Year>
+            <Month>12</Month>
+            <Day>01</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1521-0103</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>351</Volume>
+                    <Issue>3</Issue>
+                    <PubDate>
+                        <Year>2014</Year>
+                        <Month>Dec</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>The Journal of pharmacology and experimental therapeutics</Title>
+                <ISOAbbreviation>J. Pharmacol. Exp. Ther.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Atomoxetine prevents dexamethasone-induced skeletal muscle atrophy in mice.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>663-73</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1124/jpet.114.217380</ELocationID>
+            <Abstract>
+                <AbstractText>Skeletal muscle atrophy remains a clinical problem in numerous pathologic conditions. β2-Adrenergic receptor agonists, such as formoterol, can induce mitochondrial biogenesis (MB) to prevent such atrophy. Additionally, atomoxetine, an FDA-approved norepinephrine reuptake inhibitor, was positive in a cellular assay for MB. We used a mouse model of dexamethasone-induced skeletal muscle atrophy to investigate the potential role of atomoxetine and formoterol to prevent muscle mass loss. Mice were administered dexamethasone once daily in the presence or absence of formoterol (0.3 mg/kg), atomoxetine (0.1 mg/kg), or sterile saline. Animals were euthanized at 8, 16, and 24 hours or 8 days later. Gastrocnemius muscle weights, changes in mRNA and protein expression of peroxisome proliferator-activated receptor-γ coactivator-1 α (PGC-1α) isoforms, ATP synthase β, cytochrome c oxidase subunit I, NADH dehydrogenase (ubiquinone) 1 β subcomplex, 8, ND1, insulin-like growth factor 1 (IGF-1), myostatin, muscle Ring-finger protein-1 (muscle atrophy), phosphorylated forkhead box protein O 3a (p-FoxO3a), Akt, mammalian target of rapamycin (mTOR), and ribosomal protein S6 (rp-S6; muscle hypertrophy) in naive and muscle-atrophied mice were measured. Atomoxetine increased p-mTOR 24 hours after treatment in naïve mice, but did not change any other biomarkers. Formoterol robustly activated the PGC-1α-4-IGF1-Akt-mTOR-rp-S6 pathway and increased p-FoxO3a as early as 8 hours and repressed myostatin at 16 hours. In contrast to what was observed with acute treatment, chronic treatment (7 days) with atomoxetine increased p-Akt and p-FoxO3a, and sustained PGC-1α expression and skeletal muscle mass in dexamethasone-treated mice, in a manner comparable to formoterol. In conclusion, chronic treatment with a low dose of atomoxetine prevented dexamethasone-induced skeletal muscle wasting and supports a potential role in preventing muscle atrophy.</AbstractText>
+                <CopyrightInformation>U.S. Government work not protected by U.S. copyright.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Jesinkey</LastName>
+                    <ForeName>Sean R</ForeName>
+                    <Initials>SR</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Drug Discovery and Biomedical Sciences, Medical University of South Carolina, Charleston, South Carolina (S.R.J., M.C.K., K.A.R., C.C.B., R.G.S.); and Ralph H. Johnson Veterans Administration Medical Center, Charleston, South Carolina (R.G.S.).</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Korrapati</LastName>
+                    <ForeName>Midhun C</ForeName>
+                    <Initials>MC</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Drug Discovery and Biomedical Sciences, Medical University of South Carolina, Charleston, South Carolina (S.R.J., M.C.K., K.A.R., C.C.B., R.G.S.); and Ralph H. Johnson Veterans Administration Medical Center, Charleston, South Carolina (R.G.S.).</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Rasbach</LastName>
+                    <ForeName>Kyle A</ForeName>
+                    <Initials>KA</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Drug Discovery and Biomedical Sciences, Medical University of South Carolina, Charleston, South Carolina (S.R.J., M.C.K., K.A.R., C.C.B., R.G.S.); and Ralph H. Johnson Veterans Administration Medical Center, Charleston, South Carolina (R.G.S.).</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Beeson</LastName>
+                    <ForeName>Craig C</ForeName>
+                    <Initials>CC</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Drug Discovery and Biomedical Sciences, Medical University of South Carolina, Charleston, South Carolina (S.R.J., M.C.K., K.A.R., C.C.B., R.G.S.); and Ralph H. Johnson Veterans Administration Medical Center, Charleston, South Carolina (R.G.S.).</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Schnellmann</LastName>
+                    <ForeName>Rick G</ForeName>
+                    <Initials>RG</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Drug Discovery and Biomedical Sciences, Medical University of South Carolina, Charleston, South Carolina (S.R.J., M.C.K., K.A.R., C.C.B., R.G.S.); and Ralph H. Johnson Veterans Administration Medical Center, Charleston, South Carolina (R.G.S.) schnell@musc.edu.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <GrantList CompleteYN="Y">
+                <Grant>
+                    <GrantID>C06-RR015455</GrantID>
+                    <Acronym>RR</Acronym>
+                    <Agency>NCRR NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>P20 GM103542-02</GrantID>
+                    <Acronym>GM</Acronym>
+                    <Agency>NIGMS NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>R01 GM084147</GrantID>
+                    <Acronym>GM</Acronym>
+                    <Agency>NIGMS NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>R01-GM084147</GrantID>
+                    <Acronym>GM</Acronym>
+                    <Agency>NIGMS NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>UL1 RR029882</GrantID>
+                    <Acronym>RR</Acronym>
+                    <Agency>NCRR NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>UL1-RR029882</GrantID>
+                    <Acronym>RR</Acronym>
+                    <Agency>NCRR NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+            </GrantList>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D052061">Research Support, N.I.H., Extramural</PublicationType>
+                <PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2014</Year>
+                <Month>10</Month>
+                <Day>07</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>J Pharmacol Exp Ther</MedlineTA>
+            <NlmUniqueID>0376362</NlmUniqueID>
+            <ISSNLinking>0022-3565</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D011437">Propylamines</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>57WVB6I2W0</RegistryNumber>
+                <NameOfSubstance UI="D000069445">Atomoxetine Hydrochloride</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>7S5I7G3JQL</RegistryNumber>
+                <NameOfSubstance UI="D003907">Dexamethasone</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <CommentsCorrectionsList>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Int J Biochem Cell Biol. 2013 Oct;45(10):2163-72</RefSource>
+                <PMID Version="1">23806868</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>FEBS J. 2013 Sep;280(17):4294-314</RefSource>
+                <PMID Version="1">23517348</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Bioorg Med Chem Lett. 2013 Oct 1;23(19):5376-81</RefSource>
+                <PMID Version="1">23954364</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Int J Biochem Cell Biol. 2013 Nov;45(11):2444-55</RefSource>
+                <PMID Version="1">23916784</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Clin Invest. 2013 Nov;123(11):4821-35</RefSource>
+                <PMID Version="1">24084740</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Genet. 2001 Feb;27(2):195-200</RefSource>
+                <PMID Version="1">11175789</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Science. 2001 Nov 23;294(5547):1704-8</RefSource>
+                <PMID Version="1">11679633</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Proc Natl Acad Sci U S A. 2001 Dec 4;98(25):14440-5</RefSource>
+                <PMID Version="1">11717410</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Appl Physiol (1985). 2002 Sep;93(3):1159-67</RefSource>
+                <PMID Version="1">12183514</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Gerontol A Biol Sci Med Sci. 2002 Oct;57(10):B359-65</RefSource>
+                <PMID Version="1">12242311</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Clin Orthop Relat Res. 2002 Oct;(403 Suppl):S188-96</RefSource>
+                <PMID Version="1">12394468</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Neuropsychopharmacology. 2002 Nov;27(5):699-711</RefSource>
+                <PMID Version="1">12431845</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cell. 2004 Apr 30;117(3):399-412</RefSource>
+                <PMID Version="1">15109499</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Proc Natl Acad Sci U S A. 2004 Apr 27;101(17):6472-7</RefSource>
+                <PMID Version="1">15087503</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Proc Natl Acad Sci U S A. 2004 Apr 27;101(17):6570-5</RefSource>
+                <PMID Version="1">15100410</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Annu Rev Cell Dev Biol. 2004;20:61-86</RefSource>
+                <PMID Version="1">15473835</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Urol. 1994 Aug;152(2 Pt 1):515-9</RefSource>
+                <PMID Version="1">8015105</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cancer Lett. 1997 May 1;115(1):113-8</RefSource>
+                <PMID Version="1">9097986</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nature. 1997 May 1;387(6628):83-90</RefSource>
+                <PMID Version="1">9139826</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cell. 1999 Jul 9;98(1):115-24</RefSource>
+                <PMID Version="1">10412986</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Am J Physiol Heart Circ Physiol. 2005 Mar;288(3):H1468-76</RefSource>
+                <PMID Version="1">15528231</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Br J Pharmacol. 2006 Mar;147(6):587-95</RefSource>
+                <PMID Version="1">16432501</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Exp Biol. 2006 Jun;209(Pt 12):2239-48</RefSource>
+                <PMID Version="1">16731801</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Proc Natl Acad Sci U S A. 2006 Oct 31;103(44):16260-5</RefSource>
+                <PMID Version="1">17053067</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Biol Chem. 2006 Dec 22;281(51):39128-34</RefSource>
+                <PMID Version="1">17074751</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>FASEB J. 2007 Jan;21(1):140-55</RefSource>
+                <PMID Version="1">17116744</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Appl Physiol (1985). 2007 Feb;102(2):740-7</RefSource>
+                <PMID Version="1">17068216</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Endocrinology. 2008 Jun;149(6):2853-65</RefSource>
+                <PMID Version="1">18325999</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Eur Heart J. 2008 Nov;29(21):2641-50</RefSource>
+                <PMID Version="1">18819960</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>BMC Genomics. 2009;10:448</RefSource>
+                <PMID Version="1">19772666</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Am J Physiol Cell Physiol. 2010 Jan;298(1):C38-45</RefSource>
+                <PMID Version="1">19864323</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Biol Chem. 2010 Jun 18;285(25):19460-71</RefSource>
+                <PMID Version="1">20404331</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Physiol. 2010 Dec 1;588(Pt 23):4811-23</RefSource>
+                <PMID Version="1">20937713</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Biochem Biophys Res Commun. 2010 Dec 17;403(3-4):473-8</RefSource>
+                <PMID Version="1">21094144</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Biol Chem. 2011 Nov 4;286(44):38456-65</RefSource>
+                <PMID Version="1">21926429</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Biomed Biotechnol. 2011;2011:729598</RefSource>
+                <PMID Version="1">22190857</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Pharmacol Exp Ther. 2012 Jul;342(1):106-18</RefSource>
+                <PMID Version="1">22490378</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Dis Model Mech. 2013 Jan;6(1):25-39</RefSource>
+                <PMID Version="1">23268536</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Synapse. 2013 Feb;67(2):79-93</RefSource>
+                <PMID Version="1">23080264</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cell. 2012 Dec 7;151(6):1319-31</RefSource>
+                <PMID Version="1">23217713</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Int J Biochem Cell Biol. 2013 Oct;45(10):2309-21</RefSource>
+                <PMID Version="1">23845739</PMID>
+            </CommentsCorrections>
+        </CommentsCorrectionsList>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D000818">Animals</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D000069445">Atomoxetine Hydrochloride</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D003907">Dexamethasone</DescriptorName>
+                <QualifierName MajorTopicYN="Y" UI="Q000633">toxicity</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D008297">Male</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D051379">Mice</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D008810">Mice, Inbred C57BL</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D018482">Muscle, Skeletal</DescriptorName>
+                <QualifierName MajorTopicYN="N" UI="Q000187">drug effects</QualifierName>
+                <QualifierName MajorTopicYN="N" UI="Q000473">pathology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D009133">Muscular Atrophy</DescriptorName>
+                <QualifierName MajorTopicYN="Y" UI="Q000139">chemically induced</QualifierName>
+                <QualifierName MajorTopicYN="N" UI="Q000473">pathology</QualifierName>
+                <QualifierName MajorTopicYN="Y" UI="Q000517">prevention &amp; control</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D011437">Propylamines</DescriptorName>
+                <QualifierName MajorTopicYN="N" UI="Q000494">pharmacology</QualifierName>
+                <QualifierName MajorTopicYN="Y" UI="Q000627">therapeutic use</QualifierName>
+            </MeshHeading>
+        </MeshHeadingList>
+        <OtherID Source="NLM">PMC4244586</OtherID>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="aheadofprint">
+                <Year>2014</Year>
+                <Month>10</Month>
+                <Day>7</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2014</Year>
+                <Month>10</Month>
+                <Day>9</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2014</Year>
+                <Month>10</Month>
+                <Day>9</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2015</Year>
+                <Month>2</Month>
+                <Day>18</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pii">jpet.114.217380</ArticleId>
+            <ArticleId IdType="doi">10.1124/jpet.114.217380</ArticleId>
+            <ArticleId IdType="pubmed">25292181</ArticleId>
+            <ArticleId IdType="pmc">PMC4244586</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

@@ -1,0 +1,492 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2016//EN" "http://www.ncbi.nlm.nih.gov/corehtml/query/DTD/pubmed_160101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="MEDLINE">
+        <PMID Version="1">22736507</PMID>
+        <DateCreated>
+            <Year>2012</Year>
+            <Month>09</Month>
+            <Day>17</Day>
+        </DateCreated>
+        <DateCompleted>
+            <Year>2012</Year>
+            <Month>11</Month>
+            <Day>26</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2015</Year>
+            <Month>11</Month>
+            <Day>19</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1521-0103</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>343</Volume>
+                    <Issue>1</Issue>
+                    <PubDate>
+                        <Year>2012</Year>
+                        <Month>Oct</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>The Journal of pharmacology and experimental therapeutics</Title>
+                <ISOAbbreviation>J. Pharmacol. Exp. Ther.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Diabetes-induced renal injury in rats is attenuated by suramin.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>34-43</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1124/jpet.112.196964</ELocationID>
+            <Abstract>
+                <AbstractText>Progression of hyperglycemia-induced renal injury is a contributing factor for diabetic nephropathy (DN)-induced end-stage renal disease (ESRD), and development of novel therapeutic strategies that act early to prevent progression of DN and ESRD are important. We examined the efficacy and mechanism(s) of suramin on hyperglycemia-induced renal injury before development of overt histological damage. Two groups of male Sprague-Dawley rats received streptozotocin (STZ) and one group received saline. Three weeks later, one STZ group received suramin (10 mg/kg). All animals were euthanized 1 week later (4 weeks). Although there was a decrease in creatinine clearance between control and STZ ± suramin rats, there was no difference in creatinine clearance between STZ rats ± suramin intervention. Liquid chromatography-tandem mass spectroscopy-based analysis revealed increases in urinary proteins that are early indicators of DN (e.g., cystatin C, clusterin, cathepsin B, retinol binding protein 4, and peroxiredoxin-1) in the STZ group, which were blocked by suramin. Endothelial intracellular adhesion molecule-1 (ICAM-1) activation, leukocyte infiltration, and inflammation; transforming growth factor-β1 (TGF-β1) signaling; TGF-β1/SMAD-3-activated fibrogenic markers fibronectin-1, α-smooth muscle actin, and collagen 1A2; activation of proinflammatory and profibrotic transcription factors nuclear factor-κB (NF-κB) and signal transducer and activator of transcription factor-3 (STAT-3), respectively, were all increased in STZ rats and suramin blocked these changes. In conclusion, delayed administration of suramin attenuated 1) urinary markers of DN, 2) inflammation by blocking NF-κB activation and ICAM-1-mediated leukocyte infiltration, and 3) fibrosis by blocking STAT-3 and TGF-β1/SMAD-3 signaling. These results support the potential use of suramin in DN.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Korrapati</LastName>
+                    <ForeName>Midhun C</ForeName>
+                    <Initials>MC</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Pharmaceutical and Biomedical Sciences, Medical University of South Carolina, Charleston, SC 29425, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Shaner</LastName>
+                    <ForeName>Brooke E</ForeName>
+                    <Initials>BE</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Neely</LastName>
+                    <ForeName>Benjamin A</ForeName>
+                    <Initials>BA</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Alge</LastName>
+                    <ForeName>Joseph L</ForeName>
+                    <Initials>JL</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Arthur</LastName>
+                    <ForeName>John M</ForeName>
+                    <Initials>JM</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Schnellmann</LastName>
+                    <ForeName>Rick G</ForeName>
+                    <Initials>RG</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <GrantList CompleteYN="Y">
+                <Grant>
+                    <GrantID>C06-RR015455</GrantID>
+                    <Acronym>RR</Acronym>
+                    <Agency>NCRR NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>GM084147</GrantID>
+                    <Acronym>GM</Acronym>
+                    <Agency>NIGMS NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>TL1 RR029881</GrantID>
+                    <Acronym>RR</Acronym>
+                    <Agency>NCRR NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>UL1 RR029882</GrantID>
+                    <Acronym>RR</Acronym>
+                    <Agency>NCRR NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>UL1 TR000062</GrantID>
+                    <Acronym>TR</Acronym>
+                    <Agency>NCATS NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>UL1-RR029882</GrantID>
+                    <Acronym>RR</Acronym>
+                    <Agency>NCRR NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+            </GrantList>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D052061">Research Support, N.I.H., Extramural</PublicationType>
+                <PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+                <PublicationType UI="D013486">Research Support, U.S. Gov't, Non-P.H.S.</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2012</Year>
+                <Month>06</Month>
+                <Day>26</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>J Pharmacol Exp Ther</MedlineTA>
+            <NlmUniqueID>0376362</NlmUniqueID>
+            <ISSNLinking>0022-3565</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D015415">Biomarkers</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D016328">NF-kappa B</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D053773">Transforming Growth Factor beta1</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>126547-89-5</RegistryNumber>
+                <NameOfSubstance UI="D018799">Intercellular Adhesion Molecule-1</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>6032D45BEM</RegistryNumber>
+                <NameOfSubstance UI="D013498">Suramin</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <CommentsCorrectionsList>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Clin Pharmacol. 1986 Jan;26(1):22-6</RefSource>
+                <PMID Version="1">3005375</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>PLoS One. 2012;7(4):e36194</RefSource>
+                <PMID Version="1">22558380</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Diabetes Res Clin Pract. 1994 May;24(1):33-9</RefSource>
+                <PMID Version="1">7924884</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Diabetes. 1996 Apr;45(4):522-30</RefSource>
+                <PMID Version="1">8603776</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Diabetes Complications. 1998 Jan-Feb;12(1):43-60</RefSource>
+                <PMID Version="1">9442815</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Indian J Ophthalmol. 2005 Mar;53(1):1-3</RefSource>
+                <PMID Version="1">15829740</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Clin Chim Acta. 2005 Nov;361(1-2):10-9</RefSource>
+                <PMID Version="1">15996650</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cytokine. 2006 Jan 7;33(1):28-35</RefSource>
+                <PMID Version="1">16413198</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nephrol Dial Transplant. 2006 Mar;21(3):683-9</RefSource>
+                <PMID Version="1">16330466</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Am J Physiol Renal Physiol. 2006 Apr;290(4):F762-8</RefSource>
+                <PMID Version="1">16527921</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Radiat Res. 2007 Jan;48(1):39-44</RefSource>
+                <PMID Version="1">17229997</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Am J Physiol Renal Physiol. 2007 Mar;292(3):F905-11</RefSource>
+                <PMID Version="1">17190907</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Am J Physiol Renal Physiol. 2007 Apr;292(4):F1141-50</RefSource>
+                <PMID Version="1">17190910</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Semin Nephrol. 2007 Mar;27(2):130-43</RefSource>
+                <PMID Version="1">17418682</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Cell Biochem. 2007 Oct 15;102(3):593-608</RefSource>
+                <PMID Version="1">17729308</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Am J Physiol Renal Physiol. 2007 Oct;293(4):F1157-65</RefSource>
+                <PMID Version="1">17609286</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Pathol. 2008 Jan;214(2):199-210</RefSource>
+                <PMID Version="1">18161745</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Curr Diabetes Rev. 2008 Feb;4(1):10-7</RefSource>
+                <PMID Version="1">18220690</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Food Chem Toxicol. 2008 Jul;46(7):2376-83</RefSource>
+                <PMID Version="1">18474411</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Arch Med Res. 2008 Aug;39(6):560-6</RefSource>
+                <PMID Version="1">18662586</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Diabetes Res Clin Pract. 2008 Nov 13;82 Suppl 1:S75-9</RefSource>
+                <PMID Version="1">18994672</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Kidney Int. 2009 Feb;75(3):304-11</RefSource>
+                <PMID Version="1">18843260</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Braz J Med Biol Res. 2009 Jan;42(1):29-37</RefSource>
+                <PMID Version="1">18982195</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Clin J Am Soc Nephrol. 2009 Feb;4(2):337-44</RefSource>
+                <PMID Version="1">19176795</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Life Sci. 2009 Feb 27;84(9-10):296-301</RefSource>
+                <PMID Version="1">19162042</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Pharmacol Res. 2009 Jul;60(1):24-32</RefSource>
+                <PMID Version="1">19427582</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Kidney Blood Press Res. 2009;32(2):91-8</RefSource>
+                <PMID Version="1">19321980</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Drug Discov Today. 2010 Feb;15(3-4):142-7</RefSource>
+                <PMID Version="1">20026239</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Kidney Int. 2010 Apr;77(7):588-600</RefSource>
+                <PMID Version="1">20130530</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Int Med Res. 2010 Mar-Apr;38(2):473-83</RefSource>
+                <PMID Version="1">20515562</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cell Stress Chaperones. 2010 Jul;15(4):395-403</RefSource>
+                <PMID Version="1">19904630</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Kidney Int. 2010 Aug;78(3):257-68</RefSource>
+                <PMID Version="1">20520592</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Eur J Cancer. 2012 Jul;48(10):1550-7</RefSource>
+                <PMID Version="1">21798735</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Anal Chem. 2002 Oct 15;74(20):5383-92</RefSource>
+                <PMID Version="1">12403597</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>JAMA. 2003 Jan 1;289(1):76-9</RefSource>
+                <PMID Version="1">12503980</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Diabetes Complications. 2003 Sep-Oct;17(5):254-7</RefSource>
+                <PMID Version="1">12954153</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Anal Chem. 2003 Sep 1;75(17):4646-58</RefSource>
+                <PMID Version="1">14632076</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Diabetes Care. 2004 Jan;27 Suppl 1:S79-83</RefSource>
+                <PMID Version="1">14693934</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Arthritis Res Ther. 2004;6(4):159-68</RefSource>
+                <PMID Version="1">15225360</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Clin Exp Nephrol. 2004 Sep;8(3):188-95</RefSource>
+                <PMID Version="1">15480895</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Annu Rev Pathol. 2011;6:395-423</RefSource>
+                <PMID Version="1">21261520</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Korean Med Sci. 2011 Feb;26(2):258-63</RefSource>
+                <PMID Version="1">21286018</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Diabetes Care. 2011 Apr;34(4):975-81</RefSource>
+                <PMID Version="1">21307379</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nephron Clin Pract. 2011;118(2):c130-5</RefSource>
+                <PMID Version="1">21160226</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Am Soc Nephrol. 2011 Jun;22(6):1064-75</RefSource>
+                <PMID Version="1">21617121</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Free Radic Res. 2011 Jul;45(7):810-9</RefSource>
+                <PMID Version="1">21545264</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Curr Clin Pharmacol. 2011 May;6(2):137-42</RefSource>
+                <PMID Version="1">21470104</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Contrib Nephrol. 2011;170:36-47</RefSource>
+                <PMID Version="1">21659756</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Contrib Nephrol. 2011;170:124-34</RefSource>
+                <PMID Version="1">21659765</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Contrib Nephrol. 2011;170:217-27</RefSource>
+                <PMID Version="1">21659774</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Pharmacol Exp Ther. 2011 Sep;338(3):758-66</RefSource>
+                <PMID Version="1">21622732</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Exp Diabetes Res. 2011;2011:514738</RefSource>
+                <PMID Version="1">22028700</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Ann Biol Clin (Paris). 2011 Nov-Dec;69(6):629-36</RefSource>
+                <PMID Version="1">22123561</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Am Soc Nephrol. 2012 Jan;23(1):86-102</RefSource>
+                <PMID Version="1">22021706</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Kidney Int. 2012 Feb;81(4):391-400</RefSource>
+                <PMID Version="1">22012129</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Pharmacol Exp Ther. 2012 Apr;341(1):126-36</RefSource>
+                <PMID Version="1">22228809</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Mod Pathol. 2012 May;25(5):709-21</RefSource>
+                <PMID Version="1">22282304</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Diabetes Res Clin Pract. 1992 Dec;18(3):207-10</RefSource>
+                <PMID Version="1">1289022</PMID>
+            </CommentsCorrections>
+        </CommentsCorrectionsList>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D000818">Animals</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D015415">Biomarkers</DescriptorName>
+                <QualifierName MajorTopicYN="N" UI="Q000652">urine</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D003921">Diabetes Mellitus, Experimental</DescriptorName>
+                <QualifierName MajorTopicYN="N" UI="Q000150">complications</QualifierName>
+                <QualifierName MajorTopicYN="Y" UI="Q000188">drug therapy</QualifierName>
+                <QualifierName MajorTopicYN="Y" UI="Q000652">urine</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D003928">Diabetic Nephropathies</DescriptorName>
+                <QualifierName MajorTopicYN="Y" UI="Q000188">drug therapy</QualifierName>
+                <QualifierName MajorTopicYN="N" UI="Q000209">etiology</QualifierName>
+                <QualifierName MajorTopicYN="Y" UI="Q000652">urine</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D018799">Intercellular Adhesion Molecule-1</DescriptorName>
+                <QualifierName MajorTopicYN="N" UI="Q000652">urine</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D007676">Kidney Failure, Chronic</DescriptorName>
+                <QualifierName MajorTopicYN="N" UI="Q000188">drug therapy</QualifierName>
+                <QualifierName MajorTopicYN="N" UI="Q000209">etiology</QualifierName>
+                <QualifierName MajorTopicYN="N" UI="Q000652">urine</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D008297">Male</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D016328">NF-kappa B</DescriptorName>
+                <QualifierName MajorTopicYN="N" UI="Q000652">urine</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D011897">Random Allocation</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D051381">Rats</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D017207">Rats, Sprague-Dawley</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D013498">Suramin</DescriptorName>
+                <QualifierName MajorTopicYN="Y" UI="Q000627">therapeutic use</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D053773">Transforming Growth Factor beta1</DescriptorName>
+                <QualifierName MajorTopicYN="N" UI="Q000652">urine</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D016896">Treatment Outcome</DescriptorName>
+            </MeshHeading>
+        </MeshHeadingList>
+        <OtherID Source="NLM">PMC3464039</OtherID>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="aheadofprint">
+                <Year>2012</Year>
+                <Month>6</Month>
+                <Day>26</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2012</Year>
+                <Month>6</Month>
+                <Day>28</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2012</Year>
+                <Month>6</Month>
+                <Day>28</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2012</Year>
+                <Month>12</Month>
+                <Day>10</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pii">jpet.112.196964</ArticleId>
+            <ArticleId IdType="doi">10.1124/jpet.112.196964</ArticleId>
+            <ArticleId IdType="pubmed">22736507</ArticleId>
+            <ArticleId IdType="pmc">PMC3464039</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

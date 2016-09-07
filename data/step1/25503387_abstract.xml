@@ -1,0 +1,523 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2016//EN" "http://www.ncbi.nlm.nih.gov/corehtml/query/DTD/pubmed_160101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="MEDLINE">
+        <PMID Version="1">25503387</PMID>
+        <DateCreated>
+            <Year>2015</Year>
+            <Month>01</Month>
+            <Day>07</Day>
+        </DateCreated>
+        <DateCompleted>
+            <Year>2015</Year>
+            <Month>07</Month>
+            <Day>08</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2016</Year>
+            <Month>02</Month>
+            <Day>02</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1521-0103</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>352</Volume>
+                    <Issue>2</Issue>
+                    <PubDate>
+                        <Year>2015</Year>
+                        <Month>Feb</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>The Journal of pharmacology and experimental therapeutics</Title>
+                <ISOAbbreviation>J. Pharmacol. Exp. Ther.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Suppression of mitochondrial biogenesis through toll-like receptor 4-dependent mitogen-activated protein kinase kinase/extracellular signal-regulated kinase signaling in endotoxin-induced acute kidney injury.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>346-57</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1124/jpet.114.221085</ELocationID>
+            <Abstract>
+                <AbstractText>Although disruption of mitochondrial homeostasis and biogenesis (MB) is a widely accepted pathophysiologic feature of sepsis-induced acute kidney injury (AKI), the molecular mechanisms responsible for this phenomenon are unknown. In this study, we examined the signaling pathways responsible for the suppression of MB in a mouse model of lipopolysaccharide (LPS)-induced AKI. Downregulation of peroxisome proliferator-activated receptor γ coactivator-1α (PGC-1α), a master regulator of MB, was noted at the mRNA level at 3 hours and protein level at 18 hours in the renal cortex, and was associated with loss of renal function after LPS treatment. LPS-mediated suppression of PGC-1α led to reduced expression of downstream regulators of MB and electron transport chain proteins along with a reduction in renal cortical mitochondrial DNA content. Mechanistically, Toll-like receptor 4 (TLR4) knockout mice were protected from renal injury and disruption of MB after LPS exposure. Immunoblot analysis revealed activation of tumor progression locus 2/mitogen-activated protein kinase kinase/extracellular signal-regulated kinase (TPL-2/MEK/ERK) signaling in the renal cortex by LPS. Pharmacologic inhibition of MEK/ERK signaling attenuated renal dysfunction and loss of PGC-1α, and was associated with a reduction in proinflammatory cytokine (e.g., tumor necrosis factor-α [TNF-α], interleukin-1β) expression at 3 hours after LPS exposure. Neutralization of TNF-α also blocked PGC-1α suppression, but not renal dysfunction, after LPS-induced AKI. Finally, systemic administration of recombinant tumor necrosis factor-α alone was sufficient to produce AKI and disrupt mitochondrial homeostasis. These findings indicate an important role for the TLR4/MEK/ERK pathway in both LPS-induced renal dysfunction and suppression of MB. TLR4/MEK/ERK/TNF-α signaling may represent a novel therapeutic target to prevent mitochondrial dysfunction and AKI produced by sepsis.</AbstractText>
+                <CopyrightInformation>U.S. Government work not protected by U.S. copyright.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Smith</LastName>
+                    <ForeName>Joshua A</ForeName>
+                    <Initials>JA</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Drug Discovery and Biomedical Sciences (J.A.S., L.J.S., J.B.C., R.G.S.) and Division of Transplant Surgery, Department of Surgery (K.D.C.), Medical University of South Carolina, Charleston, South Carolina ; and Ralph H. Johnson Veterans Administration Medical Center, Charleston, South Carolina (R.G.S.).</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Stallons</LastName>
+                    <ForeName>L Jay</ForeName>
+                    <Initials>LJ</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Drug Discovery and Biomedical Sciences (J.A.S., L.J.S., J.B.C., R.G.S.) and Division of Transplant Surgery, Department of Surgery (K.D.C.), Medical University of South Carolina, Charleston, South Carolina ; and Ralph H. Johnson Veterans Administration Medical Center, Charleston, South Carolina (R.G.S.).</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Collier</LastName>
+                    <ForeName>Justin B</ForeName>
+                    <Initials>JB</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Drug Discovery and Biomedical Sciences (J.A.S., L.J.S., J.B.C., R.G.S.) and Division of Transplant Surgery, Department of Surgery (K.D.C.), Medical University of South Carolina, Charleston, South Carolina ; and Ralph H. Johnson Veterans Administration Medical Center, Charleston, South Carolina (R.G.S.).</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Chavin</LastName>
+                    <ForeName>Kenneth D</ForeName>
+                    <Initials>KD</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Drug Discovery and Biomedical Sciences (J.A.S., L.J.S., J.B.C., R.G.S.) and Division of Transplant Surgery, Department of Surgery (K.D.C.), Medical University of South Carolina, Charleston, South Carolina ; and Ralph H. Johnson Veterans Administration Medical Center, Charleston, South Carolina (R.G.S.).</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Schnellmann</LastName>
+                    <ForeName>Rick G</ForeName>
+                    <Initials>RG</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Drug Discovery and Biomedical Sciences (J.A.S., L.J.S., J.B.C., R.G.S.) and Division of Transplant Surgery, Department of Surgery (K.D.C.), Medical University of South Carolina, Charleston, South Carolina ; and Ralph H. Johnson Veterans Administration Medical Center, Charleston, South Carolina (R.G.S.) schnell@musc.edu.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <GrantList CompleteYN="Y">
+                <Grant>
+                    <GrantID>C06-RR015455</GrantID>
+                    <Acronym>RR</Acronym>
+                    <Agency>NCRR NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>GM084147</GrantID>
+                    <Acronym>GM</Acronym>
+                    <Agency>NIGMS NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>P20-GM103542-02</GrantID>
+                    <Acronym>GM</Acronym>
+                    <Agency>NIGMS NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>R01 GM084147</GrantID>
+                    <Acronym>GM</Acronym>
+                    <Agency>NIGMS NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>UL1 RR029882</GrantID>
+                    <Acronym>RR</Acronym>
+                    <Agency>NCRR NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>UL1-RR029882</GrantID>
+                    <Acronym>RR</Acronym>
+                    <Agency>NCRR NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+            </GrantList>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D052061">Research Support, N.I.H., Extramural</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2014</Year>
+                <Month>12</Month>
+                <Day>12</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>J Pharmacol Exp Ther</MedlineTA>
+            <NlmUniqueID>0376362</NlmUniqueID>
+            <ISSNLinking>0022-3565</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D004272">DNA, Mitochondrial</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D004731">Endotoxins</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="C485290">Ppargc1a protein, mouse</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="C493487">Tlr4 protein, mouse</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D051197">Toll-Like Receptor 4</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D014157">Transcription Factors</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>67924-63-4</RegistryNumber>
+                <NameOfSubstance UI="C044101">endotoxin, Escherichia coli</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>EC 2.7.11.24</RegistryNumber>
+                <NameOfSubstance UI="D048049">Extracellular Signal-Regulated MAP Kinases</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>EC 2.7.12.2</RegistryNumber>
+                <NameOfSubstance UI="D020929">Mitogen-Activated Protein Kinase Kinases</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <CommentsCorrectionsList>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Shock. 2014 Jan;41(1):3-11</RefSource>
+                <PMID Version="1">24346647</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Am J Physiol Renal Physiol. 2012 Apr 1;302(7):F853-64</RefSource>
+                <PMID Version="1">22160772</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Toxicol Lett. 2014 Jan 30;224(3):326-32</RefSource>
+                <PMID Version="1">24275386</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Am J Physiol Renal Physiol. 2014 Feb 15;306(4):F367-78</RefSource>
+                <PMID Version="1">24305473</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nephrol Dial Transplant. 2014 Apr;29(4):746-54</RefSource>
+                <PMID Version="1">24203812</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Am J Physiol Renal Physiol. 2014 Apr 1;306(7):F734-43</RefSource>
+                <PMID Version="1">24500690</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Am Soc Nephrol. 2014 Jun;25(6):1157-62</RefSource>
+                <PMID Version="1">24511124</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Interferon Cytokine Res. 2014 Jul;34(7):526-36</RefSource>
+                <PMID Version="1">24605772</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Crit Care Med. 2001 Oct;29(10):1910-5</RefSource>
+                <PMID Version="1">11588450</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Blood. 2001 Sep 1;98(5):1429-39</RefSource>
+                <PMID Version="1">11520792</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Curr Pharm Des. 2014;20(35):5619-33</RefSource>
+                <PMID Version="1">24606801</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Immunol. 2002 Jun 1;168(11):5817-23</RefSource>
+                <PMID Version="1">12023385</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Kidney Int. 2002 Oct;62(4):1208-18</RefSource>
+                <PMID Version="1">12234291</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Immunol. 2004 Feb 15;172(4):2629-35</RefSource>
+                <PMID Version="1">14764737</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>N Engl J Med. 2004 Jul 8;351(2):159-69</RefSource>
+                <PMID Version="1">15247356</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Inflamm Res. 2012 May;61(5):445-54</RefSource>
+                <PMID Version="1">22245957</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Behav Brain Res. 2012 Jun 15;232(1):165-73</RefSource>
+                <PMID Version="1">22510382</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Pharmacol Exp Ther. 2012 Jul;342(1):106-18</RefSource>
+                <PMID Version="1">22490378</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Am J Respir Crit Care Med. 2013 Mar 1;187(5):509-17</RefSource>
+                <PMID Version="1">23348975</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Biochim Biophys Acta. 2013 Aug;1832(8):1313-25</RefSource>
+                <PMID Version="1">23563317</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Am J Physiol Renal Physiol. 2013 Aug 15;305(4):F451-62</RefSource>
+                <PMID Version="1">23698118</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Science. 2013 Sep 13;341(6151):1246-9</RefSource>
+                <PMID Version="1">23887873</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Science. 2013 Sep 13;341(6151):1250-3</RefSource>
+                <PMID Version="1">24031018</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>PLoS One. 2013;8(11):e79037</RefSource>
+                <PMID Version="1">24265742</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Toxicol Appl Pharmacol. 2013 Dec 1;273(2):345-54</RefSource>
+                <PMID Version="1">24096033</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Annu Rev Physiol. 1986;48:9-31</RefSource>
+                <PMID Version="1">3010834</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>N Engl J Med. 1996 May 30;334(22):1448-60</RefSource>
+                <PMID Version="1">8618585</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cell. 1998 Mar 20;92(6):829-39</RefSource>
+                <PMID Version="1">9529258</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Am J Physiol. 1998 Mar;274(3 Pt 2):F509-15</RefSource>
+                <PMID Version="1">9530267</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Prog Clin Biol Res. 1998;397:119-36</RefSource>
+                <PMID Version="1">9575553</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Am Soc Nephrol. 2004 Dec;15(12):3093-102</RefSource>
+                <PMID Version="1">15579512</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Clin Invest. 2005 Aug;115(8):2223-33</RefSource>
+                <PMID Version="1">16025156</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>JAMA. 2005 Aug 17;294(7):813-8</RefSource>
+                <PMID Version="1">16106006</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Clin Invest. 2006 Mar;116(3):615-22</RefSource>
+                <PMID Version="1">16511594</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Proc Natl Acad Sci U S A. 2006 Feb 28;103(9):3274-9</RefSource>
+                <PMID Version="1">16484370</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Diabetes. 2006 Oct;55(10):2779-87</RefSource>
+                <PMID Version="1">17003343</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Am J Physiol Renal Physiol. 2007 Jan;292(1):F261-8</RefSource>
+                <PMID Version="1">16926442</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Am Soc Nephrol. 2007 Jun;18(6):1807-15</RefSource>
+                <PMID Version="1">17494883</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Clin J Am Soc Nephrol. 2007 Jan;2(1):22-30</RefSource>
+                <PMID Version="1">17699383</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Clin J Am Soc Nephrol. 2007 May;2(3):431-9</RefSource>
+                <PMID Version="1">17699448</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Crit Care Med. 2008 Apr;36(4 Suppl):S198-203</RefSource>
+                <PMID Version="1">18382194</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Clin J Am Soc Nephrol. 2008 May;3(3):844-61</RefSource>
+                <PMID Version="1">18337550</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Crit Care. 2008;12(2):R38</RefSource>
+                <PMID Version="1">18325092</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nephrology (Carlton). 2008 Oct;13(5):397-404</RefSource>
+                <PMID Version="1">18518937</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Liver Transpl. 2009 Sep;15(9):1101-9</RefSource>
+                <PMID Version="1">19718644</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cardiovasc Res. 2010 Aug 1;87(3):449-58</RefSource>
+                <PMID Version="1">20211864</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>PLoS One. 2010;5(7):e11606</RefSource>
+                <PMID Version="1">20657826</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cell Mol Life Sci. 2010 Dec;67(24):4109-34</RefSource>
+                <PMID Version="1">20680392</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cell. 2000 Dec 22;103(7):1071-83</RefSource>
+                <PMID Version="1">11163183</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Kidney Int. 2001 Jun;59(6):2243-9</RefSource>
+                <PMID Version="1">11380827</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Shock. 2011 Feb;35(2):141-7</RefSource>
+                <PMID Version="1">20577148</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Clin Cancer Res. 2011 Mar 1;17(5):989-1000</RefSource>
+                <PMID Version="1">21245089</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Am Soc Nephrol. 2011 Mar;22(3):431-6</RefSource>
+                <PMID Version="1">21355058</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Int J Oncol. 2011 Jul;39(1):23-31</RefSource>
+                <PMID Version="1">21523318</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Biochim Biophys Acta. 2011 Jul;1813(7):1269-78</RefSource>
+                <PMID Version="1">20933024</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Biochim Biophys Acta. 2011 Jul;1813(7):1295-301</RefSource>
+                <PMID Version="1">21147177</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Clin Invest. 2011 Oct;121(10):4003-14</RefSource>
+                <PMID Version="1">21881206</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Kidney Int. 2014 Jan;85(1):72-81</RefSource>
+                <PMID Version="1">23903370</PMID>
+            </CommentsCorrections>
+        </CommentsCorrectionsList>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D058186">Acute Kidney Injury</DescriptorName>
+                <QualifierName MajorTopicYN="N" UI="Q000139">chemically induced</QualifierName>
+                <QualifierName MajorTopicYN="N" UI="Q000201">enzymology</QualifierName>
+                <QualifierName MajorTopicYN="Y" UI="Q000378">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D000818">Animals</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D004272">DNA, Mitochondrial</DescriptorName>
+                <QualifierName MajorTopicYN="Y" UI="Q000378">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D004195">Disease Models, Animal</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D004305">Dose-Response Relationship, Drug</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D004731">Endotoxins</DescriptorName>
+                <QualifierName MajorTopicYN="Y" UI="Q000633">toxicity</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D048049">Extracellular Signal-Regulated MAP Kinases</DescriptorName>
+                <QualifierName MajorTopicYN="N" UI="Q000037">antagonists &amp; inhibitors</QualifierName>
+                <QualifierName MajorTopicYN="Y" UI="Q000378">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D007672">Kidney Cortex</DescriptorName>
+                <QualifierName MajorTopicYN="N" UI="Q000187">drug effects</QualifierName>
+                <QualifierName MajorTopicYN="N" UI="Q000201">enzymology</QualifierName>
+                <QualifierName MajorTopicYN="N" UI="Q000378">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D007677">Kidney Function Tests</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D020935">MAP Kinase Signaling System</DescriptorName>
+                <QualifierName MajorTopicYN="N" UI="Q000187">drug effects</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D008297">Male</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D008810">Mice, Inbred C57BL</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D018345">Mice, Knockout</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D020929">Mitogen-Activated Protein Kinase Kinases</DescriptorName>
+                <QualifierName MajorTopicYN="N" UI="Q000037">antagonists &amp; inhibitors</QualifierName>
+                <QualifierName MajorTopicYN="Y" UI="Q000378">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D051197">Toll-Like Receptor 4</DescriptorName>
+                <QualifierName MajorTopicYN="N" UI="Q000235">genetics</QualifierName>
+                <QualifierName MajorTopicYN="Y" UI="Q000378">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D014157">Transcription Factors</DescriptorName>
+                <QualifierName MajorTopicYN="N" UI="Q000037">antagonists &amp; inhibitors</QualifierName>
+                <QualifierName MajorTopicYN="N" UI="Q000235">genetics</QualifierName>
+            </MeshHeading>
+        </MeshHeadingList>
+        <OtherID Source="NLM">PMC4293437</OtherID>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="aheadofprint">
+                <Year>2014</Year>
+                <Month>12</Month>
+                <Day>12</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2014</Year>
+                <Month>12</Month>
+                <Day>16</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2014</Year>
+                <Month>12</Month>
+                <Day>17</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2015</Year>
+                <Month>7</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pii">jpet.114.221085</ArticleId>
+            <ArticleId IdType="doi">10.1124/jpet.114.221085</ArticleId>
+            <ArticleId IdType="pubmed">25503387</ArticleId>
+            <ArticleId IdType="pmc">PMC4293437</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

@@ -1,0 +1,362 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2016//EN" "http://www.ncbi.nlm.nih.gov/corehtml/query/DTD/pubmed_160101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="MEDLINE">
+        <PMID Version="1">24609852</PMID>
+        <DateCreated>
+            <Year>2014</Year>
+            <Month>03</Month>
+            <Day>10</Day>
+        </DateCreated>
+        <DateCompleted>
+            <Year>2015</Year>
+            <Month>01</Month>
+            <Day>05</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2016</Year>
+            <Month>01</Month>
+            <Day>09</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Electronic">1538-7755</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>23</Volume>
+                    <Issue>3</Issue>
+                    <PubDate>
+                        <Year>2014</Year>
+                        <Month>Mar</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Cancer epidemiology, biomarkers &amp; prevention : a publication of the American Association for Cancer Research, cosponsored by the American Society of Preventive Oncology</Title>
+                <ISOAbbreviation>Cancer Epidemiol. Biomarkers Prev.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Is a personal history of nonmelanoma skin cancer associated with increased or decreased risk of other cancers?</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>433-6</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1158/1055-9965.EPI-13-1309</ELocationID>
+            <Abstract>
+                <AbstractText>Two conflicting hypotheses have been tested concerning the association between a personal history of nonmelanoma skin cancer (NMSC) and risk of other malignancies. One hypothesis is that as a marker of extensive sunlight exposure and hence vitamin D status, NMSC should be inversely associated with risk of other cancers. Alternatively, under the multiple primary cancer model, NMSC is postulated to be an informative first cancer to study as a marker of increased risk of subsequent primary cancer diagnoses. In this journal issue, Ong and colleagues report the results of a large-scale study in the United Kingdom with findings that NMSC was significantly associated with increased risk of a broad spectrum of other malignancies, with the associations stronger the younger the age of onset of NMSC. These results are consistent with the larger body of evidence on this topic, which is highly asymmetrical in favor of the multiple primary cancer hypothesis. Two divergent hypotheses have been tested, with the empirical evidence unequivocally indicating that NMSC is a marker of a high cancer risk phenotype. Future research is warranted to better characterize this association, to understand why NMSC is a marker of excess risk of other cancers, and to determine whether this association is clinically relevant.</AbstractText>
+                <CopyrightInformation>©2014 AACR.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Alberg</LastName>
+                    <ForeName>Anthony J</ForeName>
+                    <Initials>AJ</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Authors' Affiliations: Hollings Cancer Center and Department of Public Health Sciences, Medical University of South Carolina, Charleston, South Carolina; and Johns Hopkins University School of Medicine, Baltimore, Maryland.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Fischer</LastName>
+                    <ForeName>Alexander H</ForeName>
+                    <Initials>AH</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <GrantList CompleteYN="Y">
+                <Grant>
+                    <GrantID>P30 CA138313</GrantID>
+                    <Acronym>CA</Acronym>
+                    <Agency>NCI NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>R01 CA105069</GrantID>
+                    <Acronym>CA</Acronym>
+                    <Agency>NCI NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>R01CA105069</GrantID>
+                    <Acronym>CA</Acronym>
+                    <Agency>NCI NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>UL1 RR029882</GrantID>
+                    <Acronym>RR</Acronym>
+                    <Agency>NCRR NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>UL1 RR029882</GrantID>
+                    <Acronym>RR</Acronym>
+                    <Agency>NCRR NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+            </GrantList>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D052061">Research Support, N.I.H., Extramural</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>Cancer Epidemiol Biomarkers Prev</MedlineTA>
+            <NlmUniqueID>9200608</NlmUniqueID>
+            <ISSNLinking>1055-9965</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>1406-16-2</RegistryNumber>
+                <NameOfSubstance UI="D014807">Vitamin D</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <CommentsCorrectionsList>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Arch Dermatol. 2000 May;136(5):647-51</RefSource>
+                <PMID Version="1">10815858</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Am Acad Dermatol. 2000 Jun;42(6):988-91</RefSource>
+                <PMID Version="1">10827401</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Int J Cancer. 2000 Jul 15;87(2):283-8</RefSource>
+                <PMID Version="1">10861488</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cancer Causes Control. 2000 Dec;11(10):891-7</RefSource>
+                <PMID Version="1">11142523</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Int J Cancer. 2001 Jul 15;93(2):294-8</RefSource>
+                <PMID Version="1">11410880</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Eur J Cancer. 2001 Dec;37(18):2449-56</RefSource>
+                <PMID Version="1">11720842</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Ann Epidemiol. 2002 Oct;12(7):469-75</RefSource>
+                <PMID Version="1">12377424</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Eur J Cancer. 2003 Jan;39(2):223-9</RefSource>
+                <PMID Version="1">12509955</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Am Acad Dermatol. 2003 Mar;48(3):425-9</RefSource>
+                <PMID Version="1">12637924</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Am Acad Dermatol. 1991 Aug;25(2 Pt 1):245-8</RefSource>
+                <PMID Version="1">1918460</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Am J Epidemiol. 1995 May 15;141(10):916-22</RefSource>
+                <PMID Version="1">7741121</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Ann Intern Med. 1996 Nov 15;125(10):815-21</RefSource>
+                <PMID Version="1">8928988</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Am J Epidemiol. 1997 Nov 1;146(9):734-9</RefSource>
+                <PMID Version="1">9366621</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cancer Epidemiol Biomarkers Prev. 1998 Feb;7(2):157-61</RefSource>
+                <PMID Version="1">9488591</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Am J Epidemiol. 1998 Apr 15;147(8):722-6</RefSource>
+                <PMID Version="1">9554413</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Arch Dermatol. 1999 Jul;135(7):790-3</RefSource>
+                <PMID Version="1">10411153</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Br J Cancer. 2005 Feb 14;92(3):570-1</RefSource>
+                <PMID Version="1">15611792</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cancer Epidemiol Biomarkers Prev. 2005 Nov;14(11 Pt 1):2584-90</RefSource>
+                <PMID Version="1">16284382</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Steroid Biochem Mol Biol. 2007 Mar;103(3-5):668-74</RefSource>
+                <PMID Version="1">17208438</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Am J Epidemiol. 2007 Apr 15;165(8):966-72</RefSource>
+                <PMID Version="1">17255116</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Eur J Cancer. 2007 Jul;43(11):1701-12</RefSource>
+                <PMID Version="1">17540555</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Am J Epidemiol. 2008 Jun 15;167(12):1421-9</RefSource>
+                <PMID Version="1">18424428</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Natl Cancer Inst. 2008 Sep 3;100(17):1215-22</RefSource>
+                <PMID Version="1">18728282</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Int J Cancer. 2008 Dec 15;123(12):2899-901</RefSource>
+                <PMID Version="1">18770862</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Br J Cancer. 2009 Jan 13;100(1):174-7</RefSource>
+                <PMID Version="1">19127269</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Ann Epidemiol. 2009 Jul;19(7):468-83</RefSource>
+                <PMID Version="1">19523595</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Arch Dermatol. 2010 Mar;146(3):283-7</RefSource>
+                <PMID Version="1">20231499</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cancer Causes Control. 2010 Mar;21(3):387-91</RefSource>
+                <PMID Version="1">19921445</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Invest Dermatol. 2010 May;130(5):1438-43</RefSource>
+                <PMID Version="1">20043012</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cancer Epidemiol Biomarkers Prev. 2010 Jul;19(7):1686-95</RefSource>
+                <PMID Version="1">20570907</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Arch Dermatol. 2011 Dec;147(12):1379-84</RefSource>
+                <PMID Version="1">21844426</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>PLoS One. 2012;7(4):e35211</RefSource>
+                <PMID Version="1">22493740</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Eur J Cancer. 2012 May;48(8):1154-8</RefSource>
+                <PMID Version="1">21788128</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Dermatol. 2012 Jun;39(6):541-4</RefSource>
+                <PMID Version="1">22380519</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Invest Dermatol. 2012 Sep;132(9):2176-83</RefSource>
+                <PMID Version="1">22534875</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Eur Acad Dermatol Venereol. 2012 Nov;26(11):1384-8</RefSource>
+                <PMID Version="1">21995613</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Clin Transplant. 2012 Nov-Dec;26(6):E617-23</RefSource>
+                <PMID Version="1">23083399</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Am J Epidemiol. 2013 Feb 1;177(3):202-12</RefSource>
+                <PMID Version="1">23299695</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Invest Dermatol. 2013 Mar;133(3):637-41</RefSource>
+                <PMID Version="1">23076499</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Invest Dermatol. 2013 Mar;133(3):629-36</RefSource>
+                <PMID Version="1">23190899</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>PLoS Med. 2013;10(4):e1001433</RefSource>
+                <PMID Version="1">23630459</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Br J Dermatol. 2014 Jan;170(1):136-43</RefSource>
+                <PMID Version="1">24443913</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cancer Epidemiol Biomarkers Prev. 2014 Mar;23(3):490-8</RefSource>
+                <PMID Version="1">24609853</PMID>
+            </CommentsCorrections>
+        </CommentsCorrectionsList>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D005260">Female</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D008297">Male</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D009381">Neoplasms, Radiation-Induced</DescriptorName>
+                <QualifierName MajorTopicYN="N" UI="Q000209">etiology</QualifierName>
+                <QualifierName MajorTopicYN="N" UI="Q000378">metabolism</QualifierName>
+                <QualifierName MajorTopicYN="N" UI="Q000473">pathology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D016609">Neoplasms, Second Primary</DescriptorName>
+                <QualifierName MajorTopicYN="N" UI="Q000209">etiology</QualifierName>
+                <QualifierName MajorTopicYN="N" UI="Q000378">metabolism</QualifierName>
+                <QualifierName MajorTopicYN="Y" UI="Q000473">pathology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D012307">Risk Factors</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D012878">Skin Neoplasms</DescriptorName>
+                <QualifierName MajorTopicYN="N" UI="Q000209">etiology</QualifierName>
+                <QualifierName MajorTopicYN="N" UI="Q000378">metabolism</QualifierName>
+                <QualifierName MajorTopicYN="Y" UI="Q000473">pathology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D013472">Sunlight</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D014807">Vitamin D</DescriptorName>
+                <QualifierName MajorTopicYN="N" UI="Q000378">metabolism</QualifierName>
+            </MeshHeading>
+        </MeshHeadingList>
+        <OtherID Source="NLM">NIHMS557490</OtherID>
+        <OtherID Source="NLM">PMC3979589</OtherID>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2014</Year>
+                <Month>3</Month>
+                <Day>11</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2014</Year>
+                <Month>3</Month>
+                <Day>13</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2015</Year>
+                <Month>1</Month>
+                <Day>6</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pii">23/3/433</ArticleId>
+            <ArticleId IdType="doi">10.1158/1055-9965.EPI-13-1309</ArticleId>
+            <ArticleId IdType="pubmed">24609852</ArticleId>
+            <ArticleId IdType="pmc">PMC3979589</ArticleId>
+            <ArticleId IdType="mid">NIHMS557490</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

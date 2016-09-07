@@ -1,0 +1,273 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2016//EN" "http://www.ncbi.nlm.nih.gov/corehtml/query/DTD/pubmed_160101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="MEDLINE">
+        <PMID Version="1">23791324</PMID>
+        <DateCreated>
+            <Year>2013</Year>
+            <Month>06</Month>
+            <Day>24</Day>
+        </DateCreated>
+        <DateCompleted>
+            <Year>2013</Year>
+            <Month>10</Month>
+            <Day>22</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2015</Year>
+            <Month>04</Month>
+            <Day>24</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Electronic">1943-7676</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>67</Volume>
+                    <Issue>4</Issue>
+                    <PubDate>
+                        <MedlineDate>2013 Jul-Aug</MedlineDate>
+                    </PubDate>
+                </JournalIssue>
+                <Title>The American journal of occupational therapy : official publication of the American Occupational Therapy Association</Title>
+                <ISOAbbreviation>Am J Occup Ther</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Self-reported versus objectively assessed exercise adherence.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>484-9</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.5014/ajot.2013.007575</ELocationID>
+            <Abstract>
+                <AbstractText>OBJECTIVE. We examined agreement of data between self-reported and objectively assessed exercise adherence among women with systemic lupus erythematosus. METHOD. Eleven participants completed weekly exercise logs on date and duration of exercise during a 10-wk Wii Fit™ home-based program. Afterward, exercise data from the log were compared with those recorded in the Wii console. RESULTS. Of the paired data, the mean duration of exercise recorded in the Wii was 29.5 min and that recorded in the log was 33.3 min. The composite intraclass correlation for exercise duration between exercise log and the Wii Fit was 0.4. The 95% limits of agreement indicated large between-subjects variability. CONCLUSION. Exercise logs exhibit a marginally acceptable agreement with Wii estimation of exercise duration at a group level. However, caution should be applied when using the exercise log as a measure of a person's exercise behavior because of the tendency to overreport.</AbstractText>
+                <CopyrightInformation>Copyright © 2013 by the American Occupational Therapy Association, Inc.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Yuen</LastName>
+                    <ForeName>Hon K</ForeName>
+                    <Initials>HK</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Occupational Therapy, School of Health Professions, University of Alabama at Birmingham, 1530 Third Avenue South, Birmingham, AL 35294, USA. yuen@uab.edu</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Wang</LastName>
+                    <ForeName>Ed</ForeName>
+                    <Initials>E</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Holthaus</LastName>
+                    <ForeName>Katy</ForeName>
+                    <Initials>K</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Vogtle</LastName>
+                    <ForeName>Laura K</ForeName>
+                    <Initials>LK</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Sword</LastName>
+                    <ForeName>David</ForeName>
+                    <Initials>D</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Breland</LastName>
+                    <ForeName>Hazel L</ForeName>
+                    <Initials>HL</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Kamen</LastName>
+                    <ForeName>Diane L</ForeName>
+                    <Initials>DL</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <GrantList CompleteYN="Y">
+                <Grant>
+                    <GrantID>UL1RR029882</GrantID>
+                    <Acronym>RR</Acronym>
+                    <Agency>NCRR NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+            </GrantList>
+            <PublicationTypeList>
+                <PublicationType UI="D003160">Comparative Study</PublicationType>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D052061">Research Support, N.I.H., Extramural</PublicationType>
+                <PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>Am J Occup Ther</MedlineTA>
+            <NlmUniqueID>7705978</NlmUniqueID>
+            <ISSNLinking>0272-9490</ISSNLinking>
+        </MedlineJournalInfo>
+        <CitationSubset>IM</CitationSubset>
+        <CommentsCorrectionsList>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Lancet. 1986 Feb 8;1(8476):307-10</RefSource>
+                <PMID Version="1">2868172</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Psychiatr Res. 1975 Nov;12(3):189-98</RefSource>
+                <PMID Version="1">1202204</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Clin Immunol Immunopathol. 1997 Sep;84(3):223-43</RefSource>
+                <PMID Version="1">9281381</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Arthritis Rheum. 1997 Sep;40(9):1725</RefSource>
+                <PMID Version="1">9324032</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cochrane Database Syst Rev. 2005;(1):CD004017</RefSource>
+                <PMID Version="1">15674925</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Med Sci Sports Exerc. 2005 Nov;37(11 Suppl):S531-43</RefSource>
+                <PMID Version="1">16294116</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Curr Opin Rheumatol. 2007 Mar;19(2):197-203</RefSource>
+                <PMID Version="1">17278938</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Lupus. 2007;16(1):5-9</RefSource>
+                <PMID Version="1">17283578</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Biopharm Stat. 2007;17(4):571-82</RefSource>
+                <PMID Version="1">17613642</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Med Sci Sports Exerc. 2007 Aug;39(8):1267-74</RefSource>
+                <PMID Version="1">17762359</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Arthritis Rheum. 2008 May;58(5):1237-47</RefSource>
+                <PMID Version="1">18438839</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Clin J Oncol Nurs. 2008 Oct;12(5 Suppl):37-47</RefSource>
+                <PMID Version="1">18842523</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Appl Ergon. 2010 May;41(3):469-76</RefSource>
+                <PMID Version="1">19875099</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Stud Health Technol Inform. 2010;154:229-34</RefSource>
+                <PMID Version="1">20543303</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Lupus. 2011 Mar;20(3):231-42</RefSource>
+                <PMID Version="1">21183562</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Circulation. 2011 May 31;123(21):2507-16</RefSource>
+                <PMID Version="1">21518980</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Lupus. 2011 Oct;20(12):1293-9</RefSource>
+                <PMID Version="1">21700656</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Cardiopulm Rehabil. 2000 Jan-Feb;20(1):50-6</RefSource>
+                <PMID Version="1">10680098</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Res Q Exerc Sport. 2000 Jun;71(2 Suppl):S1-14</RefSource>
+                <PMID Version="1">10925819</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Rheumatology (Oxford). 2000 Nov;39(11):1249-54</RefSource>
+                <PMID Version="1">11085805</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Ultrasound Obstet Gynecol. 2003 Jul;22(1):85-93</RefSource>
+                <PMID Version="1">12858311</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Am J Cardiol. 1988 Mar 1;61(8):628-32</RefSource>
+                <PMID Version="1">3344690</PMID>
+            </CommentsCorrections>
+        </CommentsCorrectionsList>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D000328">Adult</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D001741">African Americans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D003201">Computers</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="Y" UI="D015444">Exercise</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D005260">Female</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="Y" UI="D015438">Health Behavior</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D008180">Lupus Erythematosus, Systemic</DescriptorName>
+                <QualifierName MajorTopicYN="N" UI="Q000208">ethnology</QualifierName>
+                <QualifierName MajorTopicYN="Y" UI="Q000517">prevention &amp; control</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D008297">Male</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D008875">Middle Aged</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D010349">Patient Compliance</DescriptorName>
+                <QualifierName MajorTopicYN="Y" UI="Q000706">statistics &amp; numerical data</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D057566">Self Report</DescriptorName>
+            </MeshHeading>
+        </MeshHeadingList>
+        <OtherID Source="NLM">PMC3722661</OtherID>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2013</Year>
+                <Month>6</Month>
+                <Day>25</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2013</Year>
+                <Month>6</Month>
+                <Day>26</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2013</Year>
+                <Month>10</Month>
+                <Day>23</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="doi">10.5014/ajot.2013.007575</ArticleId>
+            <ArticleId IdType="pubmed">23791324</ArticleId>
+            <ArticleId IdType="pmc">PMC3722661</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

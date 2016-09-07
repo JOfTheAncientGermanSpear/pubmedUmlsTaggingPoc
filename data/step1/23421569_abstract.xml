@@ -1,0 +1,394 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2016//EN" "http://www.ncbi.nlm.nih.gov/corehtml/query/DTD/pubmed_160101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="MEDLINE">
+        <PMID Version="1">23421569</PMID>
+        <DateCreated>
+            <Year>2013</Year>
+            <Month>02</Month>
+            <Day>20</Day>
+        </DateCreated>
+        <DateCompleted>
+            <Year>2014</Year>
+            <Month>01</Month>
+            <Day>17</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2016</Year>
+            <Month>03</Month>
+            <Day>04</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Electronic">1097-9891</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>39</Volume>
+                    <Issue>2</Issue>
+                    <PubDate>
+                        <Year>2013</Year>
+                        <Month>Mar</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>The American journal of drug and alcohol abuse</Title>
+                <ISOAbbreviation>Am J Drug Alcohol Abuse</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Resisting the urge to smoke and craving during a smoking quit attempt on varenicline: results from a pilot fMRI study.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>92-8</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.3109/00952990.2012.750665</ELocationID>
+            <Abstract>
+                <AbstractText Label="BACKGROUND" NlmCategory="BACKGROUND">Varenicline has been shown to reduce cigarette craving during a quit attempt.</AbstractText>
+                <AbstractText Label="OBJECTIVES" NlmCategory="OBJECTIVE">Use BOLD fMRI to explore differences in smoking cue reactivity at baseline and after five weeks of varenicline smoking cessation treatment.</AbstractText>
+                <AbstractText Label="METHODS" NlmCategory="METHODS">Treatment-seeking nicotine-dependent adult smokers underwent BOLD fMRI scans with block presentation of visual smoking, neutral, and rest cues under two conditions: craving or resisting the urge to smoke at baseline and following 5 weeks of standard varenicline therapy. Data were analyzed using FMRI Expert Analysis Tool, version 5.98 of Functional Magnetic Imaging of the Brain Software Library focused on the smoking vs. neutral cue contrast at the individual and group level, Z&gt;2.3 with cluster threshold p=0.05.</AbstractText>
+                <AbstractText Label="RESULTS" NlmCategory="RESULTS">Twenty-one participants were scanned at baseline and 16 completed the study; 10 were abstinent at the 2(nd) session, confirmed with urinary cotinine. In the Crave Condition no significant differences were found between the abstinent and non-abstinent groups at either time point. During the baseline Resist Condition, the abstinent group compared to the non-abstinent group demonstrated activation in a distributed network involved in alertness, learning and memory. Additionally, within the abstinent group, increased activation of the superior frontal gyrus was found at baseline compared to week 5.</AbstractText>
+                <AbstractText Label="CONCLUSION" NlmCategory="CONCLUSIONS">Successful smoking cessation with varenicline is associated with increased activation, prior to a quit attempt, in brain areas related to attentiveness and memory while resisting the urge to smoke Scientific Significance: Varenicline may exert effects by both reducing craving and enhancing resistance to smoking urges during cue-elicited craving.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Hartwell</LastName>
+                    <ForeName>Karen J</ForeName>
+                    <Initials>KJ</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Psychiatry and Behavioral Sciences, Medical University of South Carolina, Charleston, SC 29425, USA. hartwelk@musc.edu</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Lematty</LastName>
+                    <ForeName>Todd</ForeName>
+                    <Initials>T</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>McRae-Clark</LastName>
+                    <ForeName>Aimee L</ForeName>
+                    <Initials>AL</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Gray</LastName>
+                    <ForeName>Kevin M</ForeName>
+                    <Initials>KM</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>George</LastName>
+                    <ForeName>Mark S</ForeName>
+                    <Initials>MS</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Brady</LastName>
+                    <ForeName>Kathleen T</ForeName>
+                    <Initials>KT</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <GrantList CompleteYN="Y">
+                <Grant>
+                    <GrantID>5R21DA026085-02</GrantID>
+                    <Acronym>DA</Acronym>
+                    <Agency>NIDA NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>K12HD055885</GrantID>
+                    <Acronym>HD</Acronym>
+                    <Agency>NICHD NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>R21 DA026085</GrantID>
+                    <Acronym>DA</Acronym>
+                    <Agency>NIDA NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>UL1 RR029882</GrantID>
+                    <Acronym>RR</Acronym>
+                    <Agency>NCRR NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>UL1 RR029882</GrantID>
+                    <Acronym>RR</Acronym>
+                    <Agency>NCRR NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+            </GrantList>
+            <PublicationTypeList>
+                <PublicationType UI="D016430">Clinical Trial</PublicationType>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D052061">Research Support, N.I.H., Extramural</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>England</Country>
+            <MedlineTA>Am J Drug Alcohol Abuse</MedlineTA>
+            <NlmUniqueID>7502510</NlmUniqueID>
+            <ISSNLinking>0095-2990</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D001552">Benzazepines</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D018722">Nicotinic Agonists</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D011810">Quinoxalines</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>W6HS99O8ZO</RegistryNumber>
+                <NameOfSubstance UI="D000068580">Varenicline</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <CommentsCorrectionsList>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Ethn Dis. 2008 Winter;18(1):59-64</RefSource>
+                <PMID Version="1">18447101</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Psychopharmacology (Berl). 2008 Apr;197(3):371-7</RefSource>
+                <PMID Version="1">18084743</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Biol Psychiatry. 2009 Jan 15;65(2):144-9</RefSource>
+                <PMID Version="1">18842256</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Subst Abuse Treat. 2009 Apr;36(3):235-43</RefSource>
+                <PMID Version="1">18715743</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Exp Clin Psychopharmacol. 2009 Apr;17(2):70-7</RefSource>
+                <PMID Version="1">19331483</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Psychopharmacology (Berl). 2009 May;204(1):25-35</RefSource>
+                <PMID Version="1">19107465</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Clin Ther. 2009 Mar;31(3):463-91</RefSource>
+                <PMID Version="1">19393839</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Curr Pharm Des. 2010 Jan;16(3):323-43</RefSource>
+                <PMID Version="1">20109142</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nicotine Tob Res. 2010 Jun;12(6):647-57</RefSource>
+                <PMID Version="1">20439385</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Arch Gen Psychiatry. 2011 May;68(5):516-26</RefSource>
+                <PMID Version="1">21199958</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Addict Biol. 2011 Oct;16(4):654-66</RefSource>
+                <PMID Version="1">21790899</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Biol Psychiatry. 2011 Oct 15;70(8):794-9</RefSource>
+                <PMID Version="1">21762878</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Consult Clin Psychol. 2000 Apr;68(2):233-40</RefSource>
+                <PMID Version="1">10780123</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Addiction. 1999 Mar;94(3):327-40</RefSource>
+                <PMID Version="1">10605857</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nicotine Tob Res. 2012 Nov;14(11):1362-71</RefSource>
+                <PMID Version="1">22492085</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nicotine Tob Res. 2001 Feb;3(1):7-16</RefSource>
+                <PMID Version="1">11260806</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Neuroimage. 2001 Dec;14(6):1370-86</RefSource>
+                <PMID Version="1">11707093</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Pharmacol Biochem Behav. 2001 Dec;70(4):551-9</RefSource>
+                <PMID Version="1">11796153</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Am J Psychiatry. 2002 Jun;159(6):954-60</RefSource>
+                <PMID Version="1">12042183</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Neuroimage. 2002 Oct;17(2):825-41</RefSource>
+                <PMID Version="1">12377157</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Neuroimage. 2003 Oct;20(2):1052-63</RefSource>
+                <PMID Version="1">14568475</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Addict Behav. 1978;3(3-4):235-41</RefSource>
+                <PMID Version="1">735910</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Health Psychol. 1996 Nov;15(6):455-61</RefSource>
+                <PMID Version="1">8973926</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Exp Clin Psychopharmacol. 1997 May;5(2):137-42</RefSource>
+                <PMID Version="1">9234050</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Med Chem. 2005 May 19;48(10):3474-7</RefSource>
+                <PMID Version="1">15887955</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Neuropsychopharmacology. 2005 Oct;30(10):1940-7</RefSource>
+                <PMID Version="1">15920499</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Psychopharmacology (Berl). 2006 Mar;184(3-4):577-88</RefSource>
+                <PMID Version="1">16133128</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Addict Behav. 2007 May;32(5):912-23</RefSource>
+                <PMID Version="1">16875787</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Trends Pharmacol Sci. 2007 Jul;28(7):316-25</RefSource>
+                <PMID Version="1">17573127</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Biol Psychiatry. 2007 Sep 15;62(6):642-51</RefSource>
+                <PMID Version="1">17217932</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Neuropsychopharmacology. 2008 Feb;33(3):588-98</RefSource>
+                <PMID Version="1">17443125</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Am J Prev Med. 2008 Dec;35(6 Suppl):S442-8</RefSource>
+                <PMID Version="1">19012837</PMID>
+            </CommentsCorrections>
+        </CommentsCorrectionsList>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D000328">Adult</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D001143">Arousal</DescriptorName>
+                <QualifierName MajorTopicYN="N" UI="Q000502">physiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D016739">Behavior, Addictive</DescriptorName>
+                <QualifierName MajorTopicYN="Y" UI="Q000188">drug therapy</QualifierName>
+                <QualifierName MajorTopicYN="N" UI="Q000503">physiopathology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D001552">Benzazepines</DescriptorName>
+                <QualifierName MajorTopicYN="Y" UI="Q000627">therapeutic use</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D003463">Cues</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D005260">Female</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D005625">Frontal Lobe</DescriptorName>
+                <QualifierName MajorTopicYN="N" UI="Q000503">physiopathology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D059907">Functional Neuroimaging</DescriptorName>
+                <QualifierName MajorTopicYN="Y" UI="Q000523">psychology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D007858">Learning</DescriptorName>
+                <QualifierName MajorTopicYN="N" UI="Q000502">physiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D008297">Male</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D008568">Memory</DescriptorName>
+                <QualifierName MajorTopicYN="N" UI="Q000502">physiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D009434">Neural Pathways</DescriptorName>
+                <QualifierName MajorTopicYN="N" UI="Q000503">physiopathology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D018722">Nicotinic Agonists</DescriptorName>
+                <QualifierName MajorTopicYN="N" UI="Q000627">therapeutic use</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D010865">Pilot Projects</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D011810">Quinoxalines</DescriptorName>
+                <QualifierName MajorTopicYN="Y" UI="Q000627">therapeutic use</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D012907">Smoking</DescriptorName>
+                <QualifierName MajorTopicYN="N" UI="Q000188">drug therapy</QualifierName>
+                <QualifierName MajorTopicYN="N" UI="Q000503">physiopathology</QualifierName>
+                <QualifierName MajorTopicYN="Y" UI="Q000523">psychology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D016540">Smoking Cessation</DescriptorName>
+                <QualifierName MajorTopicYN="Y" UI="Q000523">psychology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D014029">Tobacco Use Disorder</DescriptorName>
+                <QualifierName MajorTopicYN="N" UI="Q000188">drug therapy</QualifierName>
+                <QualifierName MajorTopicYN="N" UI="Q000503">physiopathology</QualifierName>
+                <QualifierName MajorTopicYN="Y" UI="Q000523">psychology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D000068580">Varenicline</DescriptorName>
+            </MeshHeading>
+        </MeshHeadingList>
+        <OtherID Source="NLM">NIHMS621209</OtherID>
+        <OtherID Source="NLM">PMC4501024</OtherID>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2013</Year>
+                <Month>2</Month>
+                <Day>21</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2013</Year>
+                <Month>2</Month>
+                <Day>21</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2014</Year>
+                <Month>1</Month>
+                <Day>18</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="doi">10.3109/00952990.2012.750665</ArticleId>
+            <ArticleId IdType="pubmed">23421569</ArticleId>
+            <ArticleId IdType="pmc">PMC4501024</ArticleId>
+            <ArticleId IdType="mid">NIHMS621209</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

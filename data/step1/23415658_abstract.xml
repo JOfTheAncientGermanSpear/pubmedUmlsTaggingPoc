@@ -1,0 +1,563 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2016//EN" "http://www.ncbi.nlm.nih.gov/corehtml/query/DTD/pubmed_160101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="MEDLINE">
+        <PMID Version="1">23415658</PMID>
+        <DateCreated>
+            <Year>2013</Year>
+            <Month>03</Month>
+            <Day>07</Day>
+        </DateCreated>
+        <DateCompleted>
+            <Year>2013</Year>
+            <Month>09</Month>
+            <Day>10</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2015</Year>
+            <Month>03</Month>
+            <Day>29</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1879-1379</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>47</Volume>
+                    <Issue>5</Issue>
+                    <PubDate>
+                        <Year>2013</Year>
+                        <Month>May</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Journal of psychiatric research</Title>
+                <ISOAbbreviation>J Psychiatr Res</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Association of elevated cytokines with childhood adversity in a sample of healthy adults.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>604-10</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1016/j.jpsychires.2013.01.008</ELocationID>
+            <ELocationID EIdType="pii" ValidYN="Y">S0022-3956(13)00014-9</ELocationID>
+            <Abstract>
+                <AbstractText Label="OBJECTIVE" NlmCategory="OBJECTIVE">Childhood trauma has been associated adult stress-related disorders. However, little is known about physiologic alterations in adults with a history of early life trauma that do not have current psychiatric or medical diagnoses. In this study, the relationships between childhood adversity and cytokine and C-reactive protein (CRP) levels in healthy adults were examined.</AbstractText>
+                <AbstractText Label="METHOD" NlmCategory="METHODS">Participants included men (n = 18) and women (n = 20) who did not meet DSM-IV criteria for Axis I psychiatric disorders or any major medical illness. Cytokine and CRP levels were obtained from baseline blood samples. Subjects completed the Early Trauma Inventory Self Report (ETI-SR). The primary outcomes included serum interleukin-6 (IL-6), tumor necrosis factor-α (TNF-α), interleukin-1β (IL1-β), and CRP levels. In addition, the mean numbers of traumatic experiences (sexual, physical, emotional, general, and the summed total) were measured.</AbstractText>
+                <AbstractText Label="RESULTS" NlmCategory="RESULTS">Significant positive associations were found between the total ETI score and IL-6 (p = 0.05), IL1-β (p &lt; 0.05), and TNF-α (p = 0.01). Significant positive correlations were found between the number of general traumas and IL1-β (p &lt; 0.05), TNF-α (p &lt; 0.05), and IL-6 (p &lt; 0.01). Neither the total number of traumas nor any of the trauma subscales were significantly associated with CRP levels.</AbstractText>
+                <AbstractText Label="CONCLUSIONS" NlmCategory="CONCLUSIONS">The positive association between childhood trauma and basal cytokine levels supports the extant literature demonstrating the long-term impact of childhood trauma and stress on homeostatic systems. Importantly, this association was found in healthy adults, suggesting that these alterations may precede the development of significant stress-related psychiatric disorder or disease.</AbstractText>
+                <CopyrightInformation>Copyright © 2013 Elsevier Ltd. All rights reserved.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Hartwell</LastName>
+                    <ForeName>Karen J</ForeName>
+                    <Initials>KJ</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Psychiatry and Behavioral Neurosciences, Clinical Neuroscience Division, Medical University of South Carolina, 125 Doughty Street, Charleston, SC 29425, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Moran-Santa Maria</LastName>
+                    <ForeName>Megan M</ForeName>
+                    <Initials>MM</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Twal</LastName>
+                    <ForeName>Waleed O</ForeName>
+                    <Initials>WO</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Shaftman</LastName>
+                    <ForeName>Stephanie</ForeName>
+                    <Initials>S</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>DeSantis</LastName>
+                    <ForeName>Stacia M</ForeName>
+                    <Initials>SM</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>McRae-Clark</LastName>
+                    <ForeName>Aimee L</ForeName>
+                    <Initials>AL</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Brady</LastName>
+                    <ForeName>Kathleen T</ForeName>
+                    <Initials>KT</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <GrantList CompleteYN="Y">
+                <Grant>
+                    <GrantID>K12 HD055885</GrantID>
+                    <Acronym>HD</Acronym>
+                    <Agency>NICHD NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>M01 RR01070-30</GrantID>
+                    <Acronym>RR</Acronym>
+                    <Agency>NCRR NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>P50 DA016511</GrantID>
+                    <Acronym>DA</Acronym>
+                    <Agency>NIDA NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>P50 DA016511-07</GrantID>
+                    <Acronym>DA</Acronym>
+                    <Agency>NIDA NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>UL1 TR000062</GrantID>
+                    <Acronym>TR</Acronym>
+                    <Agency>NCATS NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+            </GrantList>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D052061">Research Support, N.I.H., Extramural</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2013</Year>
+                <Month>02</Month>
+                <Day>14</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>England</Country>
+            <MedlineTA>J Psychiatr Res</MedlineTA>
+            <NlmUniqueID>0376331</NlmUniqueID>
+            <ISSNLinking>0022-3956</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D016207">Cytokines</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>9007-41-4</RegistryNumber>
+                <NameOfSubstance UI="D002097">C-Reactive Protein</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <CommentsCorrectionsList>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Brain Behav Immun. 2012 Nov;26(8):1249-55</RefSource>
+                <PMID Version="1">22902349</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Acta Psychiatr Scand. 2012 Dec;126(6):402-10</RefSource>
+                <PMID Version="1">22681496</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Int J Neurosci. 2013 Mar;123(3):191-5</RefSource>
+                <PMID Version="1">23110519</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Prog Brain Res. 2000;122:81-103</RefSource>
+                <PMID Version="1">10737052</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>JAMA. 2000 Aug 2;284(5):592-7</RefSource>
+                <PMID Version="1">10918705</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Psychiatr Res. 2010 Jan;44(1):15-21</RefSource>
+                <PMID Version="1">19628221</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Ann N Y Acad Sci. 2010 Feb;1186:56-68</RefSource>
+                <PMID Version="1">20201868</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Psychoneuroendocrinology. 2010 Jul;35(6):798-806</RefSource>
+                <PMID Version="1">20004523</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Psychosom Med. 2010 Sep;72(7):694-701</RefSource>
+                <PMID Version="1">20595419</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Psychoneuroendocrinology. 2010 Nov;35(10):1492-500</RefSource>
+                <PMID Version="1">20570051</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Depress Anxiety. 2000;12(1):1-12</RefSource>
+                <PMID Version="1">10999240</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Am J Psychiatry. 2001 Apr;158(4):575-81</RefSource>
+                <PMID Version="1">11282691</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Biol Psychiatry. 2001 Jun 15;49(12):1023-39</RefSource>
+                <PMID Version="1">11430844</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Invest Dermatol. 2001 Aug;117(2):309-17</RefSource>
+                <PMID Version="1">11511309</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Annu Rev Neurosci. 2001;24:1161-92</RefSource>
+                <PMID Version="1">11520931</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>JAMA. 2001 Oct 3;286(13):1621-7</RefSource>
+                <PMID Version="1">11585486</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>JAMA. 2001 Dec 26;286(24):3089-96</RefSource>
+                <PMID Version="1">11754674</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Neuroimmunomodulation. 2001;9(4):209-17</RefSource>
+                <PMID Version="1">11847483</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Proc Natl Acad Sci U S A. 2003 Jul 22;100(15):9090-5</RefSource>
+                <PMID Version="1">12840146</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Affect Disord. 2004 Oct 15;82(2):217-25</RefSource>
+                <PMID Version="1">15488250</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Subst Abuse Treat. 1986;3(3):173-9</RefSource>
+                <PMID Version="1">3806730</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Arthritis Rheum. 1988 Aug;31(8):1041-5</RefSource>
+                <PMID Version="1">3136775</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Physiol Behav. 1990 May;47(5):957-61</RefSource>
+                <PMID Version="1">2388952</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Endocrinology. 1993 Dec;133(6):2523-30</RefSource>
+                <PMID Version="1">8243274</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Int J Cardiol. 1993 Dec 31;42(3):231-8</RefSource>
+                <PMID Version="1">8138331</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Brain Res. 1994 Apr 18;643(1-2):40-9</RefSource>
+                <PMID Version="1">7518332</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Affect Disord. 1995 Aug 18;34(4):301-9</RefSource>
+                <PMID Version="1">8550956</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Child Abuse Negl. 1996 Jan;20(1):7-21</RefSource>
+                <PMID Version="1">8640429</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Psychiatry Res. 1996 Oct 16;64(3):161-7</RefSource>
+                <PMID Version="1">8944394</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Biol Psychiatry. 1997 Sep 1;42(5):345-8</RefSource>
+                <PMID Version="1">9276074</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Neurosci. 1998 Mar 15;18(6):2239-46</RefSource>
+                <PMID Version="1">9482808</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cytokine. 1998 Apr;10(4):313-8</RefSource>
+                <PMID Version="1">9617578</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Am J Prev Med. 1998 May;14(4):245-58</RefSource>
+                <PMID Version="1">9635069</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Biol Psychiatry. 1999 Apr 1;45(7):833-9</RefSource>
+                <PMID Version="1">10202570</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Am J Psychiatry. 1999 Aug;156(8):1223-9</RefSource>
+                <PMID Version="1">10450264</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Prev Chronic Dis. 2005 Jan;2(1):A14</RefSource>
+                <PMID Version="1">15670467</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Brain Res. 2005 Feb 9;1034(1-2):11-24</RefSource>
+                <PMID Version="1">15713255</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Arch Gen Psychiatry. 2005 Mar;62(3):273-81</RefSource>
+                <PMID Version="1">15753240</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Arch Gen Psychiatry. 2005 Jun;62(6):593-602</RefSource>
+                <PMID Version="1">15939837</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Brain Behav Immun. 2005 Nov;19(6):540-6</RefSource>
+                <PMID Version="1">16214025</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Brain Behav Immun. 2006 Jan;20(1):40-8</RefSource>
+                <PMID Version="1">15890495</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Brain Behav Immun. 2006 Jan;20(1):37-9</RefSource>
+                <PMID Version="1">16102937</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Psychosom Med. 2006 May-Jun;68(3):408-13</RefSource>
+                <PMID Version="1">16738072</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Biol Psychiatry. 2006 Jun 15;59(12):1116-27</RefSource>
+                <PMID Version="1">16631126</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Atherosclerosis. 2006 Aug;187(2):415-22</RefSource>
+                <PMID Version="1">16257408</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Brain Behav Immun. 2006 Sep;20(5):498-504</RefSource>
+                <PMID Version="1">16330181</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Brain Behav Immun. 2006 Sep;20(5):456-9</RefSource>
+                <PMID Version="1">16488574</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Biol Chem. 2006 Oct 6;281(40):30212-22</RefSource>
+                <PMID Version="1">16887807</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Biol Psychiatry. 2006 Oct 15;60(8):819-24</RefSource>
+                <PMID Version="1">16712805</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Proc Natl Acad Sci U S A. 2007 Jan 23;104(4):1319-24</RefSource>
+                <PMID Version="1">17229839</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Biol Psychiatry. 2007 May 1;61(9):1109-11</RefSource>
+                <PMID Version="1">17141739</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Neurosci Res. 2007 Aug 1;85(10):2059-70</RefSource>
+                <PMID Version="1">17497670</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Brain Behav Immun. 2007 Oct;21(7):901-12</RefSource>
+                <PMID Version="1">17475444</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Am J Prev Med. 2008 May;34(5):396-403</RefSource>
+                <PMID Version="1">18407006</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>PLoS Med. 2008 Apr 8;5(4):e78</RefSource>
+                <PMID Version="1">18399716</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Behav Brain Res. 2008 Nov 21;193(2):183-91</RefSource>
+                <PMID Version="1">18573547</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Brain Behav Immun. 2008 Oct;22(7):1078-86</RefSource>
+                <PMID Version="1">18468841</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Dev Psychobiol. 2008 Sep;50(6):588-99</RefSource>
+                <PMID Version="1">18683181</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Eur Psychiatry. 2008 Sep;23(6):421-9</RefSource>
+                <PMID Version="1">18504118</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Eur J Neurosci. 2008 Dec;28(12):2499-510</RefSource>
+                <PMID Version="1">19087175</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Trauma Stress. 2008 Dec;21(6):530-9</RefSource>
+                <PMID Version="1">19107725</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Psychosom Med. 2009 Feb;71(2):171-86</RefSource>
+                <PMID Version="1">19188531</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Psychosom Med. 2009 Feb;71(2):243-50</RefSource>
+                <PMID Version="1">19188532</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Arch Gen Psychiatry. 2009 Apr;66(4):422-30</RefSource>
+                <PMID Version="1">19349312</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Int Angiol. 2009 Apr;28(2):92-9</RefSource>
+                <PMID Version="1">19367238</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Mol Psychiatry. 2009 Oct;14(10):954-8</RefSource>
+                <PMID Version="1">18957940</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Transl Med. 2009;7:96</RefSource>
+                <PMID Version="1">19909538</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Clin Invest. 2008 Feb;118(2):560-70</RefSource>
+                <PMID Version="1">18219394</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Neuropsychopharmacology. 2010 Dec;35(13):2617-23</RefSource>
+                <PMID Version="1">20881945</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Physiol Behav. 2011 Aug 3;104(2):187-98</RefSource>
+                <PMID Version="1">21406198</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Biol Psychiatry. 2012 Feb 15;71(4):286-93</RefSource>
+                <PMID Version="1">22112927</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Neurosci Biobehav Rev. 2012 Feb;36(2):764-85</RefSource>
+                <PMID Version="1">22197082</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Depress Anxiety. 2012 Jan;29(1):32-8</RefSource>
+                <PMID Version="1">21898706</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Psychother Psychosom. 2012;81(5):286-95</RefSource>
+                <PMID Version="1">22832503</PMID>
+            </CommentsCorrections>
+        </CommentsCorrectionsList>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D000328">Adult</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D002097">C-Reactive Protein</DescriptorName>
+                <QualifierName MajorTopicYN="N" UI="Q000378">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D002648">Child</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D002649">Child Abuse</DescriptorName>
+                <QualifierName MajorTopicYN="N" UI="Q000523">psychology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D016207">Cytokines</DescriptorName>
+                <QualifierName MajorTopicYN="Y" UI="Q000097">blood</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D003865">Depressive Disorder, Major</DescriptorName>
+                <QualifierName MajorTopicYN="Y" UI="Q000097">blood</QualifierName>
+                <QualifierName MajorTopicYN="N" UI="Q000503">physiopathology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D005260">Female</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="Y" UI="D008016">Life Change Events</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D016014">Linear Models</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D008137">Longitudinal Studies</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D008297">Male</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D010808">Physical Examination</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D013313">Stress Disorders, Post-Traumatic</DescriptorName>
+                <QualifierName MajorTopicYN="Y" UI="Q000097">blood</QualifierName>
+                <QualifierName MajorTopicYN="N" UI="Q000503">physiopathology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D013315">Stress, Psychological</DescriptorName>
+                <QualifierName MajorTopicYN="Y" UI="Q000097">blood</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D055815">Young Adult</DescriptorName>
+            </MeshHeading>
+        </MeshHeadingList>
+        <OtherID Source="NLM">NIHMS437590</OtherID>
+        <OtherID Source="NLM">PMC3594625</OtherID>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2012</Year>
+                <Month>9</Month>
+                <Day>4</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2012</Year>
+                <Month>12</Month>
+                <Day>8</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2013</Year>
+                <Month>1</Month>
+                <Day>11</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="aheadofprint">
+                <Year>2013</Year>
+                <Month>2</Month>
+                <Day>14</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2013</Year>
+                <Month>2</Month>
+                <Day>19</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2013</Year>
+                <Month>2</Month>
+                <Day>19</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2013</Year>
+                <Month>9</Month>
+                <Day>11</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pii">S0022-3956(13)00014-9</ArticleId>
+            <ArticleId IdType="doi">10.1016/j.jpsychires.2013.01.008</ArticleId>
+            <ArticleId IdType="pubmed">23415658</ArticleId>
+            <ArticleId IdType="pmc">PMC3594625</ArticleId>
+            <ArticleId IdType="mid">NIHMS437590</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

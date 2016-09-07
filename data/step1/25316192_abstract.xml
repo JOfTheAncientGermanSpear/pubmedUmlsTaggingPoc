@@ -1,0 +1,347 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2016//EN" "http://www.ncbi.nlm.nih.gov/corehtml/query/DTD/pubmed_160101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="MEDLINE">
+        <PMID Version="1">25316192</PMID>
+        <DateCreated>
+            <Year>2014</Year>
+            <Month>11</Month>
+            <Day>25</Day>
+        </DateCreated>
+        <DateCompleted>
+            <Year>2015</Year>
+            <Month>07</Month>
+            <Day>27</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2015</Year>
+            <Month>10</Month>
+            <Day>29</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Electronic">1468-2869</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>91</Volume>
+                    <Issue>6</Issue>
+                    <PubDate>
+                        <Year>2014</Year>
+                        <Month>Dec</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Journal of urban health : bulletin of the New York Academy of Medicine</Title>
+                <ISOAbbreviation>J Urban Health</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>The association of individual and neighborhood social cohesion, stressors, and crime on smoking status among African-American women in southeastern US subsidized housing neighborhoods.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>1158-74</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1007/s11524-014-9911-6</ELocationID>
+            <Abstract>
+                <AbstractText>The purpose of this study was to examine the associations between individual and neighborhood social contextual factors and smoking prevalence among African-American women in subsidized neighborhoods. We randomly sampled 663 adult women in 17 subsidized neighborhoods in two Southeastern US states. The smoking prevalence among participants was 37.6%, with an estimated neighborhood household prevalence ranging from 30 to 68%. Smokers were more likely to be older, have lower incomes, have lower BMI, and live with other smokers. Women with high social cohesion were less likely to smoke, although living in neighborhoods with higher social cohesion was not associated with smoking prevalence. Women with higher social cohesion were more likely to be older and had lived in the neighborhood longer. Women with high stress (related to violence and disorder) and who lived in neighborhoods with higher stress were more likely to smoke. Younger women were more likely to have higher stress than older women. There were no statistically significant associations with objective neighborhood crime data in any model. This is the first study to examine both individual and neighborhood social contextual correlates among African-American women in subsidized neighborhoods. This study extends findings about smoking behaviors and neighborhood social contexts in this high-risk, urban population. Future research is needed to explore age and residential stability differences and perceptions of social cohesion, neighborhood disorder, and perceived violence in subsidized housing. Further research is also warranted on African-American women, subsidized housing, smoking, social context, health disparities' effective strategies to address these individual and contextual factors to better inform future ecological-based multilevel prevention, and cessation intervention strategies.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Andrews</LastName>
+                    <ForeName>Jeannette O</ForeName>
+                    <Initials>JO</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>University of South Carolina, Columbia, SC, USA, j.andrews@sc.edu.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Mueller</LastName>
+                    <ForeName>Martina</ForeName>
+                    <Initials>M</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Newman</LastName>
+                    <ForeName>Susan D</ForeName>
+                    <Initials>SD</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Magwood</LastName>
+                    <ForeName>Gayenell</ForeName>
+                    <Initials>G</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Ahluwalia</LastName>
+                    <ForeName>Jasjit S</ForeName>
+                    <Initials>JS</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>White</LastName>
+                    <ForeName>Kellee</ForeName>
+                    <Initials>K</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Tingen</LastName>
+                    <ForeName>Martha S</ForeName>
+                    <Initials>MS</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <GrantList CompleteYN="Y">
+                <Grant>
+                    <GrantID>1P60MD003422</GrantID>
+                    <Acronym>MD</Acronym>
+                    <Agency>NIMHD NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>5K01NR013195-02</GrantID>
+                    <Acronym>NR</Acronym>
+                    <Agency>NINR NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>R01 HL090951</GrantID>
+                    <Acronym>HL</Acronym>
+                    <Agency>NHLBI NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>UL1 RR029882</GrantID>
+                    <Acronym>RR</Acronym>
+                    <Agency>NCRR NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>UL1 RR029882</GrantID>
+                    <Acronym>RR</Acronym>
+                    <Agency>NCRR NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>UL1 TR000062</GrantID>
+                    <Acronym>TR</Acronym>
+                    <Agency>NCATS NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>UL1 TR000062</GrantID>
+                    <Acronym>TR</Acronym>
+                    <Agency>NCATS NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+            </GrantList>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D052061">Research Support, N.I.H., Extramural</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>J Urban Health</MedlineTA>
+            <NlmUniqueID>9809909</NlmUniqueID>
+            <ISSNLinking>1099-3460</ISSNLinking>
+        </MedlineJournalInfo>
+        <CitationSubset>IM</CitationSubset>
+        <CommentsCorrectionsList>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Soc Sci Med. 2000 Jul;51(2):265-74</RefSource>
+                <PMID Version="1">10832573</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Prev Chronic Dis. 2013;10:E108; quiz E108</RefSource>
+                <PMID Version="1">23806803</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Health Aff (Millwood). 2002 Mar-Apr;21(2):60-76</RefSource>
+                <PMID Version="1">11900187</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Health Psychol. 2002 May;21(3):254-62</RefSource>
+                <PMID Version="1">12027031</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Am J Epidemiol. 2003 Feb 15;157(4):315-26</RefSource>
+                <PMID Version="1">12578802</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Epidemiol Community Health. 2004 Aug;58(8):692-7</RefSource>
+                <PMID Version="1">15252073</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Am J Prev Med. 1998 Feb;14(2):130-7</RefSource>
+                <PMID Version="1">9631165</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Prev Med. 1999 Aug;29(2):126-32</RefSource>
+                <PMID Version="1">10446039</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Tob Control. 1999 Spring;8(1):45-52</RefSource>
+                <PMID Version="1">10465815</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Soc Sci Med. 2006 Aug;63(4):1034-44</RefSource>
+                <PMID Version="1">16650514</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Public Health Rep. 2006 Sep-Oct;121(5):563-77</RefSource>
+                <PMID Version="1">16972510</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Soc Sci Med. 2006 Nov;63(9):2464-75</RefSource>
+                <PMID Version="1">16904800</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Addict Behav. 2007 Feb;32(2):332-41</RefSource>
+                <PMID Version="1">16828978</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Soc Sci Med. 2007 May;64(9):1904-13</RefSource>
+                <PMID Version="1">17324492</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Health Place. 2008 Dec;14(4):853-65</RefSource>
+                <PMID Version="1">18328772</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Am J Health Promot. 2008 Jul-Aug;22(6):433-6</RefSource>
+                <PMID Version="1">18677884</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Am J Public Health. 2009 May;99(5):885-92</RefSource>
+                <PMID Version="1">19299683</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Addict Behav. 2010 May;35(5):383-91</RefSource>
+                <PMID Version="1">20061090</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nurs Outlook. 2010 Mar-Apr;58(2):104-10</RefSource>
+                <PMID Version="1">20362779</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>MMWR Morb Mortal Wkly Rep. 2010 Sep 10;59(35):1135-40</RefSource>
+                <PMID Version="1">20829747</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Urban Health. 2010 Sep;87(5):827-38</RefSource>
+                <PMID Version="1">20585883</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>BMC Public Health. 2011;11:877</RefSource>
+                <PMID Version="1">22103960</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Prev Chronic Dis. 2012;9:E05</RefSource>
+                <PMID Version="1">22172172</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>BMC Public Health. 2011;11:930</RefSource>
+                <PMID Version="1">22168151</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Addict Behav. 2012 Aug;37(8):978-81</RefSource>
+                <PMID Version="1">22503437</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Addict Behav. 2012 Oct;37(10):1132-7</RefSource>
+                <PMID Version="1">22688344</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nicotine Tob Res. 2012 Jul;14(7):786-93</RefSource>
+                <PMID Version="1">22180596</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Am J Community Psychol. 2012 Sep;50(1-2):129-40</RefSource>
+                <PMID Version="1">22124619</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Am J Public Health. 2001 Nov;91(11):1847-50</RefSource>
+                <PMID Version="1">11684614</PMID>
+            </CommentsCorrections>
+        </CommentsCorrectionsList>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D000293">Adolescent</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D000328">Adult</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D001741">African Americans</DescriptorName>
+                <QualifierName MajorTopicYN="Y" UI="Q000523">psychology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D000368">Aged</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D003415">Crime</DescriptorName>
+                <QualifierName MajorTopicYN="Y" UI="Q000523">psychology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D005260">Female</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" Type="Geographic" UI="D005845">Georgia</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D008875">Middle Aged</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="Y" UI="D011638">Public Housing</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D012907">Smoking</DescriptorName>
+                <QualifierName MajorTopicYN="Y" UI="Q000208">ethnology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="Y" UI="D012931">Social Environment</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" Type="Geographic" UI="D013022">South Carolina</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="Y" UI="D013315">Stress, Psychological</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D014505">Urban Population</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D055815">Young Adult</DescriptorName>
+            </MeshHeading>
+        </MeshHeadingList>
+        <OtherID Source="NLM">PMC4242849</OtherID>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2014</Year>
+                <Month>10</Month>
+                <Day>16</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2014</Year>
+                <Month>10</Month>
+                <Day>16</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2015</Year>
+                <Month>7</Month>
+                <Day>28</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="doi">10.1007/s11524-014-9911-6</ArticleId>
+            <ArticleId IdType="pubmed">25316192</ArticleId>
+            <ArticleId IdType="pmc">PMC4242849</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

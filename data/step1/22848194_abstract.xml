@@ -1,0 +1,527 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2016//EN" "http://www.ncbi.nlm.nih.gov/corehtml/query/DTD/pubmed_160101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="PubMed-not-MEDLINE">
+        <PMID Version="1">22848194</PMID>
+        <DateCreated>
+            <Year>2012</Year>
+            <Month>07</Month>
+            <Day>31</Day>
+        </DateCreated>
+        <DateCompleted>
+            <Year>2012</Year>
+            <Month>10</Month>
+            <Day>02</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2013</Year>
+            <Month>08</Month>
+            <Day>13</Day>
+        </DateRevised>
+        <Article PubModel="Electronic-eCollection">
+            <Journal>
+                <ISSN IssnType="Electronic">1662-5153</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>6</Volume>
+                    <PubDate>
+                        <Year>2012</Year>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Frontiers in behavioral neuroscience</Title>
+                <ISOAbbreviation>Front Behav Neurosci</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>The emerging role of norepinephrine in cognitive dysfunctions of Parkinson's disease.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>48</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.3389/fnbeh.2012.00048</ELocationID>
+            <Abstract>
+                <AbstractText>Parkinson's disease (PD) is the second most common neurodegenerative disorder, affecting 1% of the population over age 60. In those patients cognitive dysfunction is a persistent issue that impairs quality of life and productivity. Neuropathological studies demonstrate significant damage in brain regions outside the nigral dopamine (DA) system, including early degeneration of locus coeruleus norepinephrine (LC-NE) neurons, yet discussion of PD and treatment focus has remained dopaminergic-based. Motor symptoms benefit from DA replacement for many years, but other symptoms including several cognitive deficits continue unabated. Recent interest in non-DA substrates of PD highlights early involvement of LC-NE neurons and provides evidence for a prodromal phase, with cognitive disturbance, even in sporadic PD. We outline insights from basic research in LC-NE function to clinical and pathological evidence highlighting a role for NE in PD cognitive dysfunction. We propose that loss of LC-NE regulation, particularly in higher cortical regions, critically underlies certain cognitive dysfunctions in early PD. As a major unmet need for patients, research and use of NE drugs in PD may provide significant benefits for cognitive processing.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Vazey</LastName>
+                    <ForeName>Elena M</ForeName>
+                    <Initials>EM</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Laboratory of Neuromodulation and Behavior, Department of Neurosciences, Medical University of South Carolina Charleston, SC, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Aston-Jones</LastName>
+                    <ForeName>Gary</ForeName>
+                    <Initials>G</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <GrantList CompleteYN="Y">
+                <Grant>
+                    <GrantID>R01 MH092868</GrantID>
+                    <Acronym>MH</Acronym>
+                    <Agency>NIMH NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>UL1 RR029882</GrantID>
+                    <Acronym>RR</Acronym>
+                    <Agency>NCRR NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>UL1 TR000062</GrantID>
+                    <Acronym>TR</Acronym>
+                    <Agency>NCATS NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+            </GrantList>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2012</Year>
+                <Month>07</Month>
+                <Day>25</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>Switzerland</Country>
+            <MedlineTA>Front Behav Neurosci</MedlineTA>
+            <NlmUniqueID>101477952</NlmUniqueID>
+            <ISSNLinking>1662-5153</ISSNLinking>
+        </MedlineJournalInfo>
+        <CommentsCorrectionsList>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Proc Natl Acad Sci U S A. 2010 Mar 30;107(13):6058-63</RefSource>
+                <PMID Version="1">20231476</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Neurology. 2010 Aug 3;75(5):448-55</RefSource>
+                <PMID Version="1">20679638</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Mov Disord. 2010 Oct 15;25(13):2136-41</RefSource>
+                <PMID Version="1">20725913</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Proc Natl Acad Sci U S A. 2010 Sep 7;107(36):15992-4</RefSource>
+                <PMID Version="1">20733075</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Neuropsychopharmacology. 2011 Jan;36(1):227-50</RefSource>
+                <PMID Version="1">20844477</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Lancet Neurol. 2010 Dec;9(12):1200-13</RefSource>
+                <PMID Version="1">20880750</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Eur J Neurol. 2011 May;18(5):703-10</RefSource>
+                <PMID Version="1">21073636</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Proc Natl Acad Sci U S A. 2007 Aug 21;104(34):13804-9</RefSource>
+                <PMID Version="1">17702867</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Psychopharmacology (Berl). 1992;107(2-3):394-404</RefSource>
+                <PMID Version="1">1615139</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Neuroscience. 1991;41(2-3):507-23</RefSource>
+                <PMID Version="1">1870701</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Science. 1990 Aug 24;249(4971):892-5</RefSource>
+                <PMID Version="1">2392679</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Comp Neurol. 1989 Sep 15;287(3):373-92</RefSource>
+                <PMID Version="1">2570794</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Neuropsychologia. 1989;27(11-12):1329-43</RefSource>
+                <PMID Version="1">2615934</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nature. 1988 Jul 28;334(6180):345-8</RefSource>
+                <PMID Version="1">2899295</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Neurology. 1967 May;17(5):427-42</RefSource>
+                <PMID Version="1">6067254</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Physiol Rev. 1983 Jul;63(3):844-914</RefSource>
+                <PMID Version="1">6308694</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Brain. 1983 Jun;106 (Pt 2):257-70</RefSource>
+                <PMID Version="1">6850270</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Neurosci. 1994 May;14(5 Pt 1):2531-44</RefSource>
+                <PMID Version="1">8182426</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Neurology. 1993 May;43(5):986-91</RefSource>
+                <PMID Version="1">8492957</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Neurology. 1996 Jun;46(6):1548-51</RefSource>
+                <PMID Version="1">8649546</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Brain Res. 1996 Dec 2;742(1-2):89-97</RefSource>
+                <PMID Version="1">9117425</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Adv Pharmacol. 1998;42:749-54</RefSource>
+                <PMID Version="1">9328007</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Clin Neuropharmacol. 1998 Mar-Apr;21(2):108-17</RefSource>
+                <PMID Version="1">9579297</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Neuroscience. 1999;93(4):1263-70</RefSource>
+                <PMID Version="1">10501450</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cereb Cortex. 1999 Oct-Nov;9(7):745-53</RefSource>
+                <PMID Version="1">10554997</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Behav Neurosci. 2000 Feb;114(1):3-17</RefSource>
+                <PMID Version="1">10718258</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Neurosci. 2000 Jun 1;20(11):4320-4</RefSource>
+                <PMID Version="1">10818167</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Neurosci Biobehav Rev. 2000 Aug;24(6):655-68</RefSource>
+                <PMID Version="1">10940440</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Annu Rev Neurosci. 2001;24:167-202</RefSource>
+                <PMID Version="1">11283309</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Mov Disord. 2001 Jul;16(4):708-13</RefSource>
+                <PMID Version="1">11481696</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cereb Cortex. 2001 Nov;11(11):1015-26</RefSource>
+                <PMID Version="1">11590111</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Learn Mem. 2002 Jan-Feb;9(1):18-28</RefSource>
+                <PMID Version="1">11917003</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Neuropsychopharmacology. 2006 Feb;31(2):297-309</RefSource>
+                <PMID Version="1">16012531</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Neuroscience. 2006 Feb;137(3):1039-49</RefSource>
+                <PMID Version="1">16298081</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Neurology. 2005 Dec 13;65(11):1716-22</RefSource>
+                <PMID Version="1">16344512</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Gen Hosp Psychiatry. 2006 Jan-Feb;28(1):59-64</RefSource>
+                <PMID Version="1">16377367</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Comp Neurol. 2006 Jun 10;496(5):668-83</RefSource>
+                <PMID Version="1">16615125</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Neurobiol Dis. 2006 Sep;23(3):522-32</RefSource>
+                <PMID Version="1">16806952</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Neural Transm Suppl. 2006;(70):99-103</RefSource>
+                <PMID Version="1">17017515</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Neuropsychopharmacology. 2007 May;32(5):1000-10</RefSource>
+                <PMID Version="1">17077810</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Network. 2006 Dec;17(4):335-50</RefSource>
+                <PMID Version="1">17162459</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Brain Res. 2007 Mar 2;1135(1):219-29</RefSource>
+                <PMID Version="1">17222394</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Biochem Pharmacol. 2007 Jul 15;74(2):177-90</RefSource>
+                <PMID Version="1">17416354</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Eur J Neurosci. 2007 Jun;25(12):3719-24</RefSource>
+                <PMID Version="1">17610591</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Fed Proc. 1979 Jun;38(7):2109-16</RefSource>
+                <PMID Version="1">446766</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Ann Neurol. 1992 Nov;32(5):667-76</RefSource>
+                <PMID Version="1">1449247</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Brain. 1992 Dec;115 ( Pt 6):1727-51</RefSource>
+                <PMID Version="1">1486458</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Neurosci. 1981 Aug;1(8):876-86</RefSource>
+                <PMID Version="1">7346592</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Brain. 1993 Oct;116 ( Pt 5):1159-75</RefSource>
+                <PMID Version="1">8221053</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Prog Brain Res. 1996;107:379-402</RefSource>
+                <PMID Version="1">8782532</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Science. 1999 Jan 22;283(5401):549-54</RefSource>
+                <PMID Version="1">9915705</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Neurology. 2002 Nov 12;59(9):1320-4</RefSource>
+                <PMID Version="1">12427877</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Neurobiol Aging. 2003 Mar-Apr;24(2):197-211</RefSource>
+                <PMID Version="1">12498954</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Brain Res Brain Res Rev. 2003 Apr;42(1):33-84</RefSource>
+                <PMID Version="1">12668290</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Mov Disord. 2003 May;18(5):467-86</RefSource>
+                <PMID Version="1">12722160</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Eur J Neurosci. 2003 Jun;17(12):2586-92</RefSource>
+                <PMID Version="1">12823465</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Prog Brain Res. 2004;145:157-69</RefSource>
+                <PMID Version="1">14650914</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Arch Neurol. 2003 Dec;60(12):1745-8</RefSource>
+                <PMID Version="1">14676050</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Neurosci. 2004 Jan 21;24(3):702-10</RefSource>
+                <PMID Version="1">14736856</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Eur J Neurosci. 2004 Aug;20(3):791-802</RefSource>
+                <PMID Version="1">15255989</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cell Tissue Res. 2004 Oct;318(1):121-34</RefSource>
+                <PMID Version="1">15338272</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Neurosci. 2004 Nov 3;24(44):9914-20</RefSource>
+                <PMID Version="1">15525776</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Annu Rev Neurosci. 2005;28:403-50</RefSource>
+                <PMID Version="1">16022602</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Trends Neurosci. 2005 Nov;28(11):574-82</RefSource>
+                <PMID Version="1">16165227</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Biol Psychol. 2006 Jul;73(1):19-38</RefSource>
+                <PMID Version="1">16546312</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Neurol Sci. 2006 Oct 25;248(1-2):167-72</RefSource>
+                <PMID Version="1">16797594</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Lancet Neurol. 2006 Nov;5(11):974-83</RefSource>
+                <PMID Version="1">17052664</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Brain. 2007 Jul;130(Pt 7):1787-98</RefSource>
+                <PMID Version="1">17535834</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cereb Cortex. 2007 Sep;17 Suppl 1:i151-60</RefSource>
+                <PMID Version="1">17725997</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Curr Med Chem. 2007;14(22):2330-4</RefSource>
+                <PMID Version="1">17896981</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Acta Neuropathol. 2008 Apr;115(4):409-15</RefSource>
+                <PMID Version="1">18231798</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Proc Natl Acad Sci U S A. 2008 Mar 25;105(12):4898-903</RefSource>
+                <PMID Version="1">18347342</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Neuroscience. 2008 Apr 22;153(1):63-71</RefSource>
+                <PMID Version="1">18355972</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Behav Brain Res. 2008 Jun 26;190(1):85-96</RefSource>
+                <PMID Version="1">18359099</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Neurosci. 2008 Apr 2;28(14):3697-706</RefSource>
+                <PMID Version="1">18385328</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Neuron. 2008 May 8;58(3):306-24</RefSource>
+                <PMID Version="1">18466742</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Curr Alzheimer Res. 2008 Jun;5(3):342-5</RefSource>
+                <PMID Version="1">18537547</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Psychopharmacology (Berl). 2008 Sep;200(1):39-50</RefSource>
+                <PMID Version="1">18568443</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Mov Disord. 2008 Oct 15;23(13):1799-807</RefSource>
+                <PMID Version="1">18759359</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Mov Disord. 2009 Jan 30;24(2):277-82</RefSource>
+                <PMID Version="1">19025777</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Behav Brain Res. 2009 Dec 7;204(2):396-409</RefSource>
+                <PMID Version="1">19110006</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Neurol Sci. 2009 Sep 15;284(1-2):177-8</RefSource>
+                <PMID Version="1">19361809</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Proc Natl Acad Sci U S A. 2009 May 5;106(18):7351-6</RefSource>
+                <PMID Version="1">19380750</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Annu Rev Neurosci. 2009;32:267-87</RefSource>
+                <PMID Version="1">19555290</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>PLoS One. 2009;4(7):e6154</RefSource>
+                <PMID Version="1">19584921</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Eur J Neurosci. 2009 Jul;30(2):207-16</RefSource>
+                <PMID Version="1">19659923</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Curr Top Med Chem. 2009;9(10):903-12</RefSource>
+                <PMID Version="1">19754405</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Neurol Neurosurg Psychiatry. 2010 Feb;81(2):160-5</RefSource>
+                <PMID Version="1">19770163</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Parkinsonism Relat Disord. 2010 Feb;16(2):79-84</RefSource>
+                <PMID Version="1">19846332</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Lancet Neurol. 2009 Dec;8(12):1150-7</RefSource>
+                <PMID Version="1">19909913</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Expert Rev Neurother. 2009 Dec;9(12):1781-9</RefSource>
+                <PMID Version="1">19951137</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Eur J Neurol. 2010 Mar;17(3):364-76</RefSource>
+                <PMID Version="1">20050885</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Parkinsonism Relat Disord. 2009 Dec;15 Suppl 3:S6-12</RefSource>
+                <PMID Version="1">20083010</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Curr Opin Neurobiol. 2010 Apr;20(2):199-204</RefSource>
+                <PMID Version="1">20167474</PMID>
+            </CommentsCorrections>
+        </CommentsCorrectionsList>
+        <OtherID Source="NLM">PMC3404393</OtherID>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">Parkinson's disease</Keyword>
+            <Keyword MajorTopicYN="N">executive dysfunction</Keyword>
+            <Keyword MajorTopicYN="N">locus coeruleus</Keyword>
+            <Keyword MajorTopicYN="N">norepinephrine</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2012</Year>
+                <Month>4</Month>
+                <Day>09</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2012</Year>
+                <Month>7</Month>
+                <Day>09</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="epublish">
+                <Year>2012</Year>
+                <Month>7</Month>
+                <Day>25</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2012</Year>
+                <Month>8</Month>
+                <Day>1</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2012</Year>
+                <Month>8</Month>
+                <Day>1</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2012</Year>
+                <Month>8</Month>
+                <Day>1</Day>
+                <Hour>6</Hour>
+                <Minute>1</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>epublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="doi">10.3389/fnbeh.2012.00048</ArticleId>
+            <ArticleId IdType="pubmed">22848194</ArticleId>
+            <ArticleId IdType="pmc">PMC3404393</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

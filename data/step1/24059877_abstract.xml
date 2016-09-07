@@ -1,0 +1,361 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2016//EN" "http://www.ncbi.nlm.nih.gov/corehtml/query/DTD/pubmed_160101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="MEDLINE">
+        <PMID Version="1">24059877</PMID>
+        <DateCreated>
+            <Year>2013</Year>
+            <Month>09</Month>
+            <Day>24</Day>
+        </DateCreated>
+        <DateCompleted>
+            <Year>2013</Year>
+            <Month>11</Month>
+            <Day>26</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2015</Year>
+            <Month>04</Month>
+            <Day>22</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Electronic">1943-2755</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>25</Volume>
+                    <Issue>5</Issue>
+                    <PubDate>
+                        <Year>2013</Year>
+                        <Month>Oct</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>AIDS education and prevention : official publication of the International Society for AIDS Education</Title>
+                <ISOAbbreviation>AIDS Educ Prev</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Feasibility of delivering evidence-based HIV/STI prevention programming to a community sample of African American teen girls via the internet.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>394-404</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1521/aeap.2013.25.5.394</ELocationID>
+            <Abstract>
+                <AbstractText>The current study examined the feasibility of an HIV/STI prevention intervention for African American female adolescents. The intervention SiHLEWeb is a web-based adaptation of the evidence-based intervention, Sistas, Informing, Healing, Living, and Empowering (SiHLE). Participants were 41 African American girls aged 13 to 18 years, recruited in collaboration with community partners (local high schools, Department of Juvenile Justice, child advocacy center, medical university). Results support the feasibility of recruitment, screening, and follow-up retention methods. The majority (63.4%) of recruited participants completed the intervention, taking an average of 4.5 (SD = 3.63) site visits. Completers of SiHLEWeb demonstrated increases in knowledge regarding HIV/STI risks and risk reduction behavior [t(18) = 4.74, p &lt; .001], as well as significant increases in condom use self-efficacy [t(16) = 2.41, p = .03]. Findings provide preliminary support for the large-scale, randomized-controlled trial of the efficacy of SiHLEWeb to reduce high-risk sexual behavior among female African American adolescents.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Danielson</LastName>
+                    <ForeName>Carla Kmett</ForeName>
+                    <Initials>CK</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>McCauley</LastName>
+                    <ForeName>Jenna L</ForeName>
+                    <Initials>JL</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Jones</LastName>
+                    <ForeName>Andrea M</ForeName>
+                    <Initials>AM</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Borkman</LastName>
+                    <ForeName>April L</ForeName>
+                    <Initials>AL</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Miller</LastName>
+                    <ForeName>Stephanie</ForeName>
+                    <Initials>S</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Ruggiero</LastName>
+                    <ForeName>Kenneth J</ForeName>
+                    <Initials>KJ</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <GrantList CompleteYN="Y">
+                <Grant>
+                    <GrantID>1U79SP015156</GrantID>
+                    <Acronym>SP</Acronym>
+                    <Agency>CSAP SAMHSA HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>P50 AA010761</GrantID>
+                    <Acronym>AA</Acronym>
+                    <Agency>NIAAA NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>R01 DA031285</GrantID>
+                    <Acronym>DA</Acronym>
+                    <Agency>NIDA NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>R01DA031285</GrantID>
+                    <Acronym>DA</Acronym>
+                    <Agency>NIDA NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>UL1 RR029882</GrantID>
+                    <Acronym>RR</Acronym>
+                    <Agency>NCRR NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>UL1 TR000062</GrantID>
+                    <Acronym>TR</Acronym>
+                    <Agency>NCATS NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>UL1 TR000062</GrantID>
+                    <Acronym>TR</Acronym>
+                    <Agency>NCATS NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>UL1RR029882</GrantID>
+                    <Acronym>RR</Acronym>
+                    <Agency>NCRR NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+            </GrantList>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D052061">Research Support, N.I.H., Extramural</PublicationType>
+                <PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+                <PublicationType UI="D013487">Research Support, U.S. Gov't, P.H.S.</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>AIDS Educ Prev</MedlineTA>
+            <NlmUniqueID>9002873</NlmUniqueID>
+            <ISSNLinking>0899-9546</ISSNLinking>
+        </MedlineJournalInfo>
+        <CitationSubset>IM</CitationSubset>
+        <CitationSubset>X</CitationSubset>
+        <CommentsCorrectionsList>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Adolesc Health. 2001 Sep;29(3):208-16</RefSource>
+                <PMID Version="1">11524220</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>AIDS Educ Prev. 2011 Feb;23(1):1-12</RefSource>
+                <PMID Version="1">21341956</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>JAMA. 2004 Jul 14;292(2):171-9</RefSource>
+                <PMID Version="1">15249566</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Soc Sci Med. 2004 Oct;59(8):1561-72</RefSource>
+                <PMID Version="1">15279915</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Consult Clin Psychol. 1995 Apr;63(2):221-37</RefSource>
+                <PMID Version="1">7751483</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Arch Pediatr Adolesc Med. 1996 Apr;150(4):363-72</RefSource>
+                <PMID Version="1">8634730</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>AIDS Educ Prev. 1996 Dec;8(6):499-515</RefSource>
+                <PMID Version="1">9010510</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Am J Community Psychol. 1998 Feb;26(1):29-51</RefSource>
+                <PMID Version="1">9574497</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Arch Pediatr Adolesc Med. 2005 May;159(5):440-9</RefSource>
+                <PMID Version="1">15867118</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Am J Public Health. 2007 Jun;97(6):1027-30</RefSource>
+                <PMID Version="1">16670219</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>AIDS. 2008 Jun 19;22(10):1177-94</RefSource>
+                <PMID Version="1">18525264</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>AIDS. 2009 Jan 2;23(1):107-15</RefSource>
+                <PMID Version="1">19050392</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Med Internet Res. 2009;11(2):e13</RefSource>
+                <PMID Version="1">19403466</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Acquir Immune Defic Syndr. 2009 Aug 1;51(4):492-501</RefSource>
+                <PMID Version="1">19436218</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Arch Pediatr Adolesc Med. 2009 Dec;163(12):1112-21</RefSource>
+                <PMID Version="1">19996048</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Pediatr Adolesc Gynecol. 2010 Feb;23(1):32-8</RefSource>
+                <PMID Version="1">19643646</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Am J Public Health. 2010 Apr;100(4):720-6</RefSource>
+                <PMID Version="1">20167903</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Br J Clin Psychol. 2010 Nov;49(Pt 4):455-71</RefSource>
+                <PMID Version="1">19799804</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Psychol Health. 2011 Feb;26(2):223-34</RefSource>
+                <PMID Version="1">21318931</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>AIDS Behav. 2011 Jul;15(5):976-91</RefSource>
+                <PMID Version="1">20635131</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Health Informatics J. 2011 Sep;17(3):224-43</RefSource>
+                <PMID Version="1">21937464</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>AIDS Educ Prev. 2011 Dec;23(6):564-76</RefSource>
+                <PMID Version="1">22201239</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Health Psychol. 2012 Jan;31(1):63-9</RefSource>
+                <PMID Version="1">21843001</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>MMWR Morb Mortal Wkly Rep. 2012 Jun 15;61 Suppl:57-64</RefSource>
+                <PMID Version="1">22695465</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Psychiatr Res. 2011 May;45(5):626-9</RefSource>
+                <PMID Version="1">21035130</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>AIDS Educ Prev. 2011 Apr;23(2):159-74</RefSource>
+                <PMID Version="1">21517664</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Health Educ Res. 2011 Jun;26(3):393-406</RefSource>
+                <PMID Version="1">21257676</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Gen Intern Med. 2012 Aug;27(8):1047-67</RefSource>
+                <PMID Version="1">22798215</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Psychiatry. 2012 Fall;75(3):267-84</RefSource>
+                <PMID Version="1">22913502</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>AIDS Educ Prev. 2002 Jun;14(3 Suppl A):27-37</RefSource>
+                <PMID Version="1">12092934</PMID>
+            </CommentsCorrections>
+        </CommentsCorrectionsList>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D000293">Adolescent</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D001741">African Americans</DescriptorName>
+                <QualifierName MajorTopicYN="Y" UI="Q000523">psychology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D017280">Condoms</DescriptorName>
+                <QualifierName MajorTopicYN="N" UI="Q000656">utilization</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D055317">Evidence-Based Practice</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D005240">Feasibility Studies</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D005260">Female</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D015658">HIV Infections</DescriptorName>
+                <QualifierName MajorTopicYN="N" UI="Q000208">ethnology</QualifierName>
+                <QualifierName MajorTopicYN="Y" UI="Q000517">prevention &amp; control</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D007722">Health Knowledge, Attitudes, Practice</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D006293">Health Promotion</DescriptorName>
+                <QualifierName MajorTopicYN="Y" UI="Q000379">methods</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="Y" UI="D020407">Internet</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D040242">Risk Reduction Behavior</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D020377">Self Efficacy</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D012725">Sexual Behavior</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D012749">Sexually Transmitted Diseases</DescriptorName>
+                <QualifierName MajorTopicYN="N" UI="Q000208">ethnology</QualifierName>
+                <QualifierName MajorTopicYN="Y" UI="Q000517">prevention &amp; control</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D012959">Socioeconomic Factors</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" Type="Geographic" UI="D014481">United States</DescriptorName>
+            </MeshHeading>
+        </MeshHeadingList>
+        <OtherID Source="NLM">NIHMS612468</OtherID>
+        <OtherID Source="NLM">PMC4115155</OtherID>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2013</Year>
+                <Month>9</Month>
+                <Day>25</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2013</Year>
+                <Month>9</Month>
+                <Day>26</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2013</Year>
+                <Month>12</Month>
+                <Day>16</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="doi">10.1521/aeap.2013.25.5.394</ArticleId>
+            <ArticleId IdType="pubmed">24059877</ArticleId>
+            <ArticleId IdType="pmc">PMC4115155</ArticleId>
+            <ArticleId IdType="mid">NIHMS612468</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

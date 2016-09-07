@@ -1,0 +1,466 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2016//EN" "http://www.ncbi.nlm.nih.gov/corehtml/query/DTD/pubmed_160101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="MEDLINE">
+        <PMID Version="1">25056757</PMID>
+        <DateCreated>
+            <Year>2015</Year>
+            <Month>03</Month>
+            <Day>26</Day>
+        </DateCreated>
+        <DateCompleted>
+            <Year>2016</Year>
+            <Month>01</Month>
+            <Day>08</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2015</Year>
+            <Month>05</Month>
+            <Day>08</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1099-1263</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>35</Volume>
+                    <Issue>5</Issue>
+                    <PubDate>
+                        <Year>2015</Year>
+                        <Month>May</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Journal of applied toxicology : JAT</Title>
+                <ISOAbbreviation>J Appl Toxicol</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>In vitro evaluation of the effects of perfluorooctanesulfonic acid (PFOS) and perfluorooctanoic acid (PFOA) on IL-2 production in human T-cells.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>459-65</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1002/jat.3037</ELocationID>
+            <Abstract>
+                <AbstractText>Perfluorinated compounds, such as perfluorooctane sulfonate (PFOS) and perfluorooctanoic acid (PFOA), have been shown to alter various immune functions suggesting they are immunotoxic. This study assessed the effects of PFOS and PFOA on interleukin (IL)-2 production in the human Jurkat T-cell line and PFOS in healthy human primary T cells. Jurkat cells were stimulated with phytohemagglutinin (PHA)/phorbol myristate acetate (PMA), anti CD-3/anti CD-28, or anti CD-3, and dosed with 0, 0.05, 0.1, 0.5, 1, 5, 10, 50, 75, or 100 µg ml(-1) PFOS or 0, 0.005, 0.01, 0.05, 0.1, 0.5, 1, 5, or 10 µg ml(-1) PFOA. Jurkat cells stimulated with PHA/PMA or anti CD-3 exhibited decreased IL-2 production beginning at 50 µg PFOS ml(-1) and 5 µg PFOS ml(-1) respectively, but stimulation with anti-CD3/anti-CD28 resulted in no changes compared with the control. Addition of the PPAR-alpha antagonist GW6471 to PFOS-dosed cells stimulated with PHA/PMA resulted in decreases in IL-2 production starting at 50 µg PFOS ml(-1), which suggests PFOS affected T-cell IL-2 production via PPAR-alpha-independent mechanisms. Exposure to PFOA, PFOA + GW6471, or PFOS + PFOA in Jurkat cells resulted in no significant differences in IL-2 production. In vitro dosing studies using healthy primary human CD4+ T cells were consistent with the Jurkat results. These data demonstrated that PFOA did not impact IL-2 production, but PFOS suppressed IL-2 production in both a human cell line and human primary cells at dose levels within the high end of the human exposure range. A decrease in IL-2 production is characteristic of autoimmune diseases such as systemic lupus erythematosus and should be further investigated.</AbstractText>
+                <CopyrightInformation>Copyright © 2014 John Wiley &amp; Sons, Ltd.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Midgett</LastName>
+                    <ForeName>Kristin</ForeName>
+                    <Initials>K</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Natural Sciences, Northwest Florida State College.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Peden-Adams</LastName>
+                    <ForeName>Margie M</ForeName>
+                    <Initials>MM</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Gilkeson</LastName>
+                    <ForeName>Gary S</ForeName>
+                    <Initials>GS</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Kamen</LastName>
+                    <ForeName>Diane L</ForeName>
+                    <Initials>DL</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <GrantList CompleteYN="Y">
+                <Grant>
+                    <GrantID>P60 AR062755</GrantID>
+                    <Acronym>AR</Acronym>
+                    <Agency>NIAMS NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>P60 AR062755</GrantID>
+                    <Acronym>AR</Acronym>
+                    <Agency>NIAMS NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>R21 ES017934</GrantID>
+                    <Acronym>ES</Acronym>
+                    <Agency>NIEHS NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>R21 ES017934</GrantID>
+                    <Acronym>ES</Acronym>
+                    <Agency>NIEHS NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>TL1 TR000061</GrantID>
+                    <Acronym>TR</Acronym>
+                    <Agency>NCATS NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>TL1 TR000061</GrantID>
+                    <Acronym>TR</Acronym>
+                    <Agency>NCATS NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>UL1 RR029881</GrantID>
+                    <Acronym>RR</Acronym>
+                    <Agency>NCRR NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>UL1 RR029882</GrantID>
+                    <Acronym>RR</Acronym>
+                    <Agency>NCRR NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>UL1 TR000062</GrantID>
+                    <Acronym>TR</Acronym>
+                    <Agency>NCATS NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+            </GrantList>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D052061">Research Support, N.I.H., Extramural</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2014</Year>
+                <Month>07</Month>
+                <Day>23</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>England</Country>
+            <MedlineTA>J Appl Toxicol</MedlineTA>
+            <NlmUniqueID>8109495</NlmUniqueID>
+            <ISSNLinking>0260-437X</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D017738">Alkanesulfonic Acids</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D002210">Caprylates</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D005466">Fluorocarbons</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D007376">Interleukin-2</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D047493">PPAR alpha</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D010835">Phytohemagglutinins</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>1763-23-1</RegistryNumber>
+                <NameOfSubstance UI="C076994">perfluorooctane sulfonic acid</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>947VD76D3L</RegistryNumber>
+                <NameOfSubstance UI="C023036">perfluorooctanoic acid</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>NI40JAQ945</RegistryNumber>
+                <NameOfSubstance UI="D013755">Tetradecanoylphorbol Acetate</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <CommentsCorrectionsList>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Environ Sci Technol. 2003 Mar 1;37(5):888-91</RefSource>
+                <PMID Version="1">12666917</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Occup Environ Med. 2003 Mar;45(3):260-70</RefSource>
+                <PMID Version="1">12661183</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Environ Toxicol Chem. 2003 Nov;22(11):2639-49</RefSource>
+                <PMID Version="1">14587903</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Leukoc Biol. 2003 Dec;74(6):961-5</RefSource>
+                <PMID Version="1">12960253</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Occup Health. 2004 Mar;46(2):141-7</RefSource>
+                <PMID Version="1">15090689</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Toxicol Sci. 2004 Jul;80(1):151-60</RefSource>
+                <PMID Version="1">15071170</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Crit Rev Toxicol. 2004 Jul-Aug;34(4):351-84</RefSource>
+                <PMID Version="1">15328768</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Toxicol Appl Pharmacol. 1986 Oct;86(1):1-11</RefSource>
+                <PMID Version="1">3764929</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Biochem J. 1992 Aug 1;285 ( Pt 3):779-83</RefSource>
+                <PMID Version="1">1497616</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Occup Environ Med. 1999 Sep;41(9):799-806</RefSource>
+                <PMID Version="1">10491796</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Toxicol Sci. 2006 Aug;92(2):476-89</RefSource>
+                <PMID Version="1">16731579</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Toxicol Sci. 2007 Jan;95(1):108-17</RefSource>
+                <PMID Version="1">17047030</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Environ Health Perspect. 2007 Sep;115(9):1298-305</RefSource>
+                <PMID Version="1">17805419</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Toxicol Pathol. 2012;40(2):300-11</RefSource>
+                <PMID Version="1">22109712</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>JAMA. 2012 Jan 25;307(4):391-7</RefSource>
+                <PMID Version="1">22274686</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Toxicol Appl Pharmacol. 2012 Jan 15;258(2):248-55</RefSource>
+                <PMID Version="1">22119708</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Arch Otolaryngol Head Neck Surg. 2000 Apr;126(4):473-9</RefSource>
+                <PMID Version="1">10772300</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Eur Cytokine Netw. 2000 Jun;11(2):293-9</RefSource>
+                <PMID Version="1">10903809</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Toxicol Sci. 2013 Dec;136(2):308-27</RefSource>
+                <PMID Version="1">24046276</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Environ Health Perspect. 2012 Apr;120(4):590-4</RefSource>
+                <PMID Version="1">22182702</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Environ Sci Technol. 2011 Oct 1;45(19):8037-45</RefSource>
+                <PMID Version="1">21469664</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Arch Toxicol. 2011 Oct;85(10):1235-44</RefSource>
+                <PMID Version="1">21327619</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Immunotoxicol. 2011 Jan-Mar;8(1):30-8</RefSource>
+                <PMID Version="1">21299352</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Immunotoxicol. 2011 Jan-Mar;8(1):17-29</RefSource>
+                <PMID Version="1">21261439</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Toxicol Appl Pharmacol. 2011 Jan 15;250(2):108-16</RefSource>
+                <PMID Version="1">21075133</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Environ Health Perspect. 2010 Feb;118(2):222-8</RefSource>
+                <PMID Version="1">20123620</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Toxicol Sci. 2009 Dec;34(6):687-91</RefSource>
+                <PMID Version="1">19952504</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Int J Hyg Environ Health. 2009 May;212(3):239-70</RefSource>
+                <PMID Version="1">18565792</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>BMC Mol Biol. 2009;10:16</RefSource>
+                <PMID Version="1">19239717</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Crit Rev Toxicol. 2009;39(1):76-94</RefSource>
+                <PMID Version="1">18802816</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Environ Sci Technol. 2008 Jul 1;42(13):4618</RefSource>
+                <PMID Version="1">18677976</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Toxicol Sci. 2008 Jul;104(1):144-54</RefSource>
+                <PMID Version="1">18359764</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Environ Health Perspect. 2008 May;116(5):644-50</RefSource>
+                <PMID Version="1">18470313</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Curr Protoc Immunol. 2001 May;Appendix 3:Appendix 3B</RefSource>
+                <PMID Version="1">18432654</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Toxicol Sci. 2007 Oct;99(2):366-94</RefSource>
+                <PMID Version="1">17519394</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Clin Exp Immunol. 2000 Nov;122(2):219-26</RefSource>
+                <PMID Version="1">11091278</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Int Immunopharmacol. 2002 Feb;2(2-3):389-97</RefSource>
+                <PMID Version="1">11811941</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cytometry. 2002 Feb 15;50(1):14-8</RefSource>
+                <PMID Version="1">11857593</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Biochem Pharmacol. 2002 May 15;63(10):1893-900</RefSource>
+                <PMID Version="1">12034374</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Rev Immunol. 2002 Oct;2(10):748-59</RefSource>
+                <PMID Version="1">12360213</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>ScientificWorldJournal. 2001 Nov 6;1:627-9</RefSource>
+                <PMID Version="1">12805763</PMID>
+            </CommentsCorrections>
+        </CommentsCorrectionsList>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D017738">Alkanesulfonic Acids</DescriptorName>
+                <QualifierName MajorTopicYN="Y" UI="Q000633">toxicity</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D015496">CD4-Positive T-Lymphocytes</DescriptorName>
+                <QualifierName MajorTopicYN="Y" UI="Q000187">drug effects</QualifierName>
+                <QualifierName MajorTopicYN="N" UI="Q000378">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D002210">Caprylates</DescriptorName>
+                <QualifierName MajorTopicYN="Y" UI="Q000633">toxicity</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D002470">Cell Survival</DescriptorName>
+                <QualifierName MajorTopicYN="N" UI="Q000187">drug effects</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D005260">Female</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D005466">Fluorocarbons</DescriptorName>
+                <QualifierName MajorTopicYN="Y" UI="Q000633">toxicity</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D007376">Interleukin-2</DescriptorName>
+                <QualifierName MajorTopicYN="Y" UI="Q000378">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D019169">Jurkat Cells</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D008297">Male</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D047493">PPAR alpha</DescriptorName>
+                <QualifierName MajorTopicYN="N" UI="Q000378">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D010835">Phytohemagglutinins</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D013755">Tetradecanoylphorbol Acetate</DescriptorName>
+            </MeshHeading>
+        </MeshHeadingList>
+        <OtherID Source="NLM">NIHMS632447</OtherID>
+        <OtherID Source="NLM">PMC4305032</OtherID>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">IL-2 production</Keyword>
+            <Keyword MajorTopicYN="N">PFOA</Keyword>
+            <Keyword MajorTopicYN="N">PFOS</Keyword>
+            <Keyword MajorTopicYN="N">cytokine</Keyword>
+            <Keyword MajorTopicYN="N">human T cells</Keyword>
+            <Keyword MajorTopicYN="N">immunology</Keyword>
+            <Keyword MajorTopicYN="N">immunosuppression</Keyword>
+            <Keyword MajorTopicYN="N">in vitro</Keyword>
+            <Keyword MajorTopicYN="N">perfluorinated compounds</Keyword>
+            <Keyword MajorTopicYN="N">ppar-alpha</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2014</Year>
+                <Month>3</Month>
+                <Day>4</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2014</Year>
+                <Month>5</Month>
+                <Day>22</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2014</Year>
+                <Month>5</Month>
+                <Day>23</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="aheadofprint">
+                <Year>2014</Year>
+                <Month>7</Month>
+                <Day>23</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2014</Year>
+                <Month>7</Month>
+                <Day>25</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2014</Year>
+                <Month>7</Month>
+                <Day>25</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2016</Year>
+                <Month>1</Month>
+                <Day>9</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">25056757</ArticleId>
+            <ArticleId IdType="doi">10.1002/jat.3037</ArticleId>
+            <ArticleId IdType="pmc">PMC4305032</ArticleId>
+            <ArticleId IdType="mid">NIHMS632447</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

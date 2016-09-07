@@ -1,0 +1,428 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2016//EN" "http://www.ncbi.nlm.nih.gov/corehtml/query/DTD/pubmed_160101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="MEDLINE">
+        <PMID Version="1">24511124</PMID>
+        <DateCreated>
+            <Year>2014</Year>
+            <Month>06</Month>
+            <Day>02</Day>
+        </DateCreated>
+        <DateCompleted>
+            <Year>2014</Year>
+            <Month>08</Month>
+            <Day>20</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2015</Year>
+            <Month>11</Month>
+            <Day>19</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1533-3450</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>25</Volume>
+                    <Issue>6</Issue>
+                    <PubDate>
+                        <Year>2014</Year>
+                        <Month>Jun</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Journal of the American Society of Nephrology : JASN</Title>
+                <ISOAbbreviation>J. Am. Soc. Nephrol.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Formoterol restores mitochondrial and renal function after ischemia-reperfusion injury.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>1157-62</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1681/ASN.2013090952</ELocationID>
+            <Abstract>
+                <AbstractText>Mitochondrial biogenesis may be an adaptive response necessary for meeting the increased metabolic and energy demands during organ recovery after acute injury, and renal mitochondrial dysfunction has been implicated in the pathogenesis of AKI. We proposed that stimulation of mitochondrial biogenesis 24 hours after ischemia/reperfusion (I/R)-induced AKI, when renal dysfunction is maximal, would accelerate recovery of mitochondrial and renal function in mice. We recently showed that formoterol, a potent, highly specific, and long-acting β2-adrenergic agonist, induces renal mitochondrial biogenesis in naive mice. Animals were subjected to sham or I/R-induced AKI, followed by once-daily intraperitoneal injection with vehicle or formoterol beginning 24 hours after surgery and continuing through 144 hours after surgery. Treatment with formoterol restored renal function, rescued renal tubules from injury, and diminished necrosis after I/R-induced AKI. Concomitantly, formoterol stimulated mitochondrial biogenesis and restored the expression and function of mitochondrial proteins. Taken together, these results provide proof of principle that a novel drug therapy to treat AKI, and potentially other acute organ failures, works by restoring mitochondrial function and accelerating the recovery of renal function after injury has occurred.</AbstractText>
+                <CopyrightInformation>Copyright © 2014 by the American Society of Nephrology.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Jesinkey</LastName>
+                    <ForeName>Sean R</ForeName>
+                    <Initials>SR</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Center for Cell Death, Injury, and Regeneration, Department of Drug Discovery and Biomedical Sciences, Medical University of South Carolina, Charleston, South Carolina;</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Funk</LastName>
+                    <ForeName>Jason A</ForeName>
+                    <Initials>JA</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Center for Cell Death, Injury, and Regeneration, Department of Drug Discovery and Biomedical Sciences, Medical University of South Carolina, Charleston, South Carolina;</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Stallons</LastName>
+                    <ForeName>L Jay</ForeName>
+                    <Initials>LJ</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Center for Cell Death, Injury, and Regeneration, Department of Drug Discovery and Biomedical Sciences, Medical University of South Carolina, Charleston, South Carolina;</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Wills</LastName>
+                    <ForeName>Lauren P</ForeName>
+                    <Initials>LP</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Center for Cell Death, Injury, and Regeneration, Department of Drug Discovery and Biomedical Sciences, Medical University of South Carolina, Charleston, South Carolina;</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Megyesi</LastName>
+                    <ForeName>Judit K</ForeName>
+                    <Initials>JK</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Medicine, University of Arkansas for Medical Sciences, Little Rock, Arkansas; and.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Beeson</LastName>
+                    <ForeName>Craig C</ForeName>
+                    <Initials>CC</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Center for Cell Death, Injury, and Regeneration, Department of Drug Discovery and Biomedical Sciences, Medical University of South Carolina, Charleston, South Carolina;</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Schnellmann</LastName>
+                    <ForeName>Rick G</ForeName>
+                    <Initials>RG</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Center for Cell Death, Injury, and Regeneration, Department of Drug Discovery and Biomedical Sciences, Medical University of South Carolina, Charleston, South Carolina; Ralph H. Johnson Veterans Affairs Medical Center, Charleston, South Carolina.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <GrantList CompleteYN="Y">
+                <Grant>
+                    <GrantID>C06 RR015455</GrantID>
+                    <Acronym>RR</Acronym>
+                    <Agency>NCRR NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>F32DK098053</GrantID>
+                    <Acronym>DK</Acronym>
+                    <Agency>NIDDK NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>P20 GM103542-02</GrantID>
+                    <Acronym>GM</Acronym>
+                    <Agency>NIGMS NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>R01 GM084147</GrantID>
+                    <Acronym>GM</Acronym>
+                    <Agency>NIGMS NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>R01 GM084147</GrantID>
+                    <Acronym>GM</Acronym>
+                    <Agency>NIGMS NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>T32 HL007260</GrantID>
+                    <Acronym>HL</Acronym>
+                    <Agency>NHLBI NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>T32 HL007260-35</GrantID>
+                    <Acronym>HL</Acronym>
+                    <Agency>NHLBI NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>UL1 RR029882</GrantID>
+                    <Acronym>RR</Acronym>
+                    <Agency>NCRR NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>UL1 RR029882</GrantID>
+                    <Acronym>RR</Acronym>
+                    <Agency>NCRR NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+            </GrantList>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D052061">Research Support, N.I.H., Extramural</PublicationType>
+                <PublicationType UI="D013486">Research Support, U.S. Gov't, Non-P.H.S.</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2014</Year>
+                <Month>02</Month>
+                <Day>07</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>J Am Soc Nephrol</MedlineTA>
+            <NlmUniqueID>9013836</NlmUniqueID>
+            <ISSNLinking>1046-6673</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D058666">Adrenergic beta-2 Receptor Agonists</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D004983">Ethanolamines</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>W34SHF8J2K</RegistryNumber>
+                <NameOfSubstance UI="D000068759">Formoterol Fumarate</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <CommentsCorrectionsList>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Endocr Rev. 2003 Feb;24(1):78-90</RefSource>
+                <PMID Version="1">12588810</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Bioorg Med Chem Lett. 2013 Oct 1;23(19):5376-81</RefSource>
+                <PMID Version="1">23954364</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Am J Med. 1987 Jul;83(1):65-71</RefSource>
+                <PMID Version="1">3605183</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Kidney Int. 1997 Jul;52(1):140-51</RefSource>
+                <PMID Version="1">9211356</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cell. 1998 Mar 20;92(6):829-39</RefSource>
+                <PMID Version="1">9529258</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Am J Physiol. 1998 Mar;274(3 Pt 2):F509-15</RefSource>
+                <PMID Version="1">9530267</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cell. 1999 Jul 9;98(1):115-24</RefSource>
+                <PMID Version="1">10412986</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Am Soc Nephrol. 2005 Nov;16(11):3365-70</RefSource>
+                <PMID Version="1">16177006</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Biol Chem. 2007 Jan 26;282(4):2355-62</RefSource>
+                <PMID Version="1">17116659</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Biochem Biophys Res Commun. 2007 Apr 13;355(3):734-9</RefSource>
+                <PMID Version="1">17307137</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Pathol. 2007 Jun;212(2):209-17</RefSource>
+                <PMID Version="1">17471468</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nature. 2008 Feb 21;451(7181):1008-12</RefSource>
+                <PMID Version="1">18288196</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Physiol Rev. 2008 Apr;88(2):611-38</RefSource>
+                <PMID Version="1">18391175</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>PLoS One. 2008;3(6):e2264</RefSource>
+                <PMID Version="1">18523577</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Mol Endocrinol. 2008 Jul;22(7):1596-605</RefSource>
+                <PMID Version="1">18467525</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Stroke. 2008 Nov;39(11):3057-63</RefSource>
+                <PMID Version="1">18723421</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Physiol. 2009 Apr 1;587(Pt 7):1607-17</RefSource>
+                <PMID Version="1">19221126</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Am Soc Nephrol. 2009 Jun;20(6):1293-302</RefSource>
+                <PMID Version="1">19470684</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Pharmacol Exp Ther. 2010 May;333(2):593-601</RefSource>
+                <PMID Version="1">20103585</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Contrib Nephrol. 2011;169:37-50</RefSource>
+                <PMID Version="1">21252510</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Acta Biochim Biophys Sin (Shanghai). 2011 Apr;43(4):248-57</RefSource>
+                <PMID Version="1">21325336</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Rev Nephrol. 2011 Apr;7(4):189-200</RefSource>
+                <PMID Version="1">21364518</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Kidney Int. 2011 Jun;79(12):1361-9</RefSource>
+                <PMID Version="1">21430640</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Am Soc Nephrol. 2011 Jun;22(6):1041-52</RefSource>
+                <PMID Version="1">21546574</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Clin Invest. 2011 Oct;121(10):4003-14</RefSource>
+                <PMID Version="1">21881206</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Am J Physiol Renal Physiol. 2012 Apr 1;302(7):F853-64</RefSource>
+                <PMID Version="1">22160772</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Pharmacol Exp Ther. 2012 Jul;342(1):106-18</RefSource>
+                <PMID Version="1">22490378</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>JAMA. 2012 Jun 6;307(21):2265-6</RefSource>
+                <PMID Version="1">22572776</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Lancet. 2012 Aug 25;380(9843):756-66</RefSource>
+                <PMID Version="1">22617274</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Biol Chem. 2003 Oct 17;278(42):41510-8</RefSource>
+                <PMID Version="1">12902348</PMID>
+            </CommentsCorrections>
+        </CommentsCorrectionsList>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D058186">Acute Kidney Injury</DescriptorName>
+                <QualifierName MajorTopicYN="Y" UI="Q000188">drug therapy</QualifierName>
+                <QualifierName MajorTopicYN="N" UI="Q000378">metabolism</QualifierName>
+                <QualifierName MajorTopicYN="N" UI="Q000503">physiopathology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D058666">Adrenergic beta-2 Receptor Agonists</DescriptorName>
+                <QualifierName MajorTopicYN="N" UI="Q000494">pharmacology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D000818">Animals</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D004195">Disease Models, Animal</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D004734">Energy Metabolism</DescriptorName>
+                <QualifierName MajorTopicYN="N" UI="Q000187">drug effects</QualifierName>
+                <QualifierName MajorTopicYN="N" UI="Q000502">physiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D004847">Epithelial Cells</DescriptorName>
+                <QualifierName MajorTopicYN="N" UI="Q000187">drug effects</QualifierName>
+                <QualifierName MajorTopicYN="N" UI="Q000378">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D004983">Ethanolamines</DescriptorName>
+                <QualifierName MajorTopicYN="Y" UI="Q000494">pharmacology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D000068759">Formoterol Fumarate</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D007668">Kidney</DescriptorName>
+                <QualifierName MajorTopicYN="Y" UI="Q000187">drug effects</QualifierName>
+                <QualifierName MajorTopicYN="N" UI="Q000502">physiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D007687">Kidney Tubules, Proximal</DescriptorName>
+                <QualifierName MajorTopicYN="N" UI="Q000187">drug effects</QualifierName>
+                <QualifierName MajorTopicYN="N" UI="Q000378">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D008297">Male</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D051379">Mice</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D008810">Mice, Inbred C57BL</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D008928">Mitochondria</DescriptorName>
+                <QualifierName MajorTopicYN="Y" UI="Q000187">drug effects</QualifierName>
+                <QualifierName MajorTopicYN="N" UI="Q000378">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D015427">Reperfusion Injury</DescriptorName>
+                <QualifierName MajorTopicYN="Y" UI="Q000188">drug therapy</QualifierName>
+                <QualifierName MajorTopicYN="N" UI="Q000378">metabolism</QualifierName>
+                <QualifierName MajorTopicYN="N" UI="Q000503">physiopathology</QualifierName>
+            </MeshHeading>
+        </MeshHeadingList>
+        <OtherID Source="NLM">PMC4033382</OtherID>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">acute renal failure</Keyword>
+            <Keyword MajorTopicYN="N">ischemia-reperfusion</Keyword>
+            <Keyword MajorTopicYN="N">mitochondria</Keyword>
+            <Keyword MajorTopicYN="N">proximal tubule</Keyword>
+            <Keyword MajorTopicYN="N">renal function</Keyword>
+            <Keyword MajorTopicYN="N">renal tubular epithelial cells</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="aheadofprint">
+                <Year>2014</Year>
+                <Month>2</Month>
+                <Day>7</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2014</Year>
+                <Month>2</Month>
+                <Day>11</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2014</Year>
+                <Month>2</Month>
+                <Day>11</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2014</Year>
+                <Month>8</Month>
+                <Day>21</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">24511124</ArticleId>
+            <ArticleId IdType="pii">ASN.2013090952</ArticleId>
+            <ArticleId IdType="doi">10.1681/ASN.2013090952</ArticleId>
+            <ArticleId IdType="pmc">PMC4033382</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

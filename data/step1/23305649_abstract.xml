@@ -1,0 +1,423 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2016//EN" "http://www.ncbi.nlm.nih.gov/corehtml/query/DTD/pubmed_160101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="MEDLINE">
+        <PMID Version="1">23305649</PMID>
+        <DateCreated>
+            <Year>2013</Year>
+            <Month>01</Month>
+            <Day>11</Day>
+        </DateCreated>
+        <DateCompleted>
+            <Year>2013</Year>
+            <Month>06</Month>
+            <Day>24</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2015</Year>
+            <Month>11</Month>
+            <Day>19</Day>
+        </DateRevised>
+        <Article PubModel="Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1438-8871</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>15</Volume>
+                    <Issue>1</Issue>
+                    <PubDate>
+                        <Year>2013</Year>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Journal of medical Internet research</Title>
+                <ISOAbbreviation>J. Med. Internet Res.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Patient attitudes toward mobile phone-based health monitoring: questionnaire study among kidney transplant recipients.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>e6</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.2196/jmir.2284</ELocationID>
+            <Abstract>
+                <AbstractText Label="BACKGROUND" NlmCategory="BACKGROUND">Mobile phone based remote monitoring of medication adherence and physiological parameters has the potential of improving long-term graft outcomes in the recipients of kidney transplants. This technology is promising as it is relatively inexpensive, can include intuitive software and may offer the ability to conduct close patient monitoring in a non-intrusive manner. This includes the optimal management of comorbidities such as hypertension and diabetes. There is, however, a lack of data assessing the attitudes of renal transplant recipients toward this technology, especially among ethnic minorities.</AbstractText>
+                <AbstractText Label="OBJECTIVE" NlmCategory="OBJECTIVE">To assess the attitudes of renal transplant recipients toward mobile phone based remote monitoring and management of their medical regimen; and to identify demographic or clinical characteristics that impact on this attitude.</AbstractText>
+                <AbstractText Label="METHODS" NlmCategory="METHODS">After a 10 minute demonstration of a prototype mobile phone based monitoring system, a 10 item questionnaire regarding attitude toward remote monitoring and the technology was administered to the participants, along with the 10 item Perceived Stress Scale and the 7 item Morisky Medication Adherence Scale.</AbstractText>
+                <AbstractText Label="RESULTS" NlmCategory="RESULTS">Between February and April 2012, a total of 99 renal transplant recipients were identified and agreed to participate in the survey. The results of the survey indicate that while 90% (87/97) of respondents own a mobile phone, only 7% (7/98) had any prior knowledge of mobile phone based remote monitoring. Despite this, the majority of respondents, 79% (78/99), reported a positive attitude toward the use of a prototype system if it came at no cost to themselves. Blacks were more likely than whites to own smartphones (43.1%, 28/65 vs 20.6%, 7/34; P=.03) and held a more positive attitude toward free use of the prototype system than whites (4.25±0.88 vs 3.76±1.07; P=.02).</AbstractText>
+                <AbstractText Label="CONCLUSIONS" NlmCategory="CONCLUSIONS">The data demonstrates that kidney transplant recipients have a positive overall attitude toward mobile phone based health technology (mHealth). Additionally, the data demonstrates that most kidney transplant recipients own and are comfortable using mobile phones and that many of these patients already own and use smart mobile phones. The respondents felt that mHealth offers an opportunity for improved self-efficacy and improved provider driven medical management. Respondents were comfortable with the idea of being monitored using mobile technology and are confident that their privacy can be protected. The small subset of kidney transplant recipients who are less interested in mHealth may be less technologically adept as reflected by their lower mobile phone ownership rates. As a whole, kidney transplant recipients are receptive to the technology and believe in its utility.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>McGillicuddy</LastName>
+                    <ForeName>John William</ForeName>
+                    <Initials>JW</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Division of Transplant Surgery, Department of Surgery, Medical University of South Carolina, Charleston, SC, USA. mcgillij@musc.edu</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Weiland</LastName>
+                    <ForeName>Ana Katherine</ForeName>
+                    <Initials>AK</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Frenzel</LastName>
+                    <ForeName>Ronja Maximiliane</ForeName>
+                    <Initials>RM</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Mueller</LastName>
+                    <ForeName>Martina</ForeName>
+                    <Initials>M</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Brunner-Jackson</LastName>
+                    <ForeName>Brenda Marie</ForeName>
+                    <Initials>BM</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Taber</LastName>
+                    <ForeName>David James</ForeName>
+                    <Initials>DJ</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Baliga</LastName>
+                    <ForeName>Prabhakar Kalyanpur</ForeName>
+                    <Initials>PK</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Treiber</LastName>
+                    <ForeName>Frank Anton</ForeName>
+                    <Initials>FA</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <GrantList CompleteYN="Y">
+                <Grant>
+                    <GrantID>KL2 RR029880</GrantID>
+                    <Acronym>RR</Acronym>
+                    <Agency>NCRR NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>KL2 RR029880</GrantID>
+                    <Acronym>RR</Acronym>
+                    <Agency>NCRR NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>KL2 TR000060</GrantID>
+                    <Acronym>TR</Acronym>
+                    <Agency>NCATS NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>KL2 TR000060</GrantID>
+                    <Acronym>TR</Acronym>
+                    <Agency>NCATS NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>UL1 RR029882</GrantID>
+                    <Acronym>RR</Acronym>
+                    <Agency>NCRR NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>UL1 RR029882</GrantID>
+                    <Acronym>RR</Acronym>
+                    <Agency>NCRR NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>UL1 TR000062</GrantID>
+                    <Acronym>TR</Acronym>
+                    <Agency>NCATS NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>UL1 TR000062</GrantID>
+                    <Acronym>TR</Acronym>
+                    <Agency>NCATS NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+            </GrantList>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D052061">Research Support, N.I.H., Extramural</PublicationType>
+                <PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2013</Year>
+                <Month>01</Month>
+                <Day>08</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>Canada</Country>
+            <MedlineTA>J Med Internet Res</MedlineTA>
+            <NlmUniqueID>100959882</NlmUniqueID>
+            <ISSNLinking>1438-8871</ISSNLinking>
+        </MedlineJournalInfo>
+        <CitationSubset>IM</CitationSubset>
+        <CommentsCorrectionsList>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Acta Gastroenterol Belg. 2005 Jul-Sep;68(3):347-52</RefSource>
+                <PMID Version="1">16268422</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Am Soc Nephrol. 2005 Jun;16(6):1839-48</RefSource>
+                <PMID Version="1">15800121</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Transplantation. 2006 Jun 27;81(12):1640-4</RefSource>
+                <PMID Version="1">16794528</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Prim Care Respir J. 2006 Aug;15(4):237-45</RefSource>
+                <PMID Version="1">16843066</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Telemed Telecare. 2007;13(2):85-9</RefSource>
+                <PMID Version="1">17359572</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Am Coll Surg. 2007 May;204(5):894-902; discussion 902-3</RefSource>
+                <PMID Version="1">17481506</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Ambul Care Manage. 2007 Apr-Jun;30(2):126-33</RefSource>
+                <PMID Version="1">17495681</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Am J Hypertens. 2007 Sep;20(9):942-8</RefSource>
+                <PMID Version="1">17765133</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>JAMA. 2008 Jan 9;299(2):202-7</RefSource>
+                <PMID Version="1">18182602</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Clin Hypertens (Greenwich). 2008 May;10(5):348-54</RefSource>
+                <PMID Version="1">18453793</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Diabetes Technol Ther. 2008 Jun;10(3):160-8</RefSource>
+                <PMID Version="1">18473689</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Telemed J E Health. 2009 Apr;15(3):231-40</RefSource>
+                <PMID Version="1">19382860</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Health Qual Life Outcomes. 2009;7:36</RefSource>
+                <PMID Version="1">19397800</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Med Internet Res. 2009;11(3):e34</RefSource>
+                <PMID Version="1">19687005</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Am J Transplant. 2010 Apr;10(4 Pt 2):1090-107</RefSource>
+                <PMID Version="1">20420655</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Med Internet Res. 2010;12(2):e21</RefSource>
+                <PMID Version="1">20554500</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Med Internet Res. 2010;12(4):e55</RefSource>
+                <PMID Version="1">21115435</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Clin J Am Soc Nephrol. 2010 Dec;5(12):2276-88</RefSource>
+                <PMID Version="1">20798250</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Med Internet Res. 2010;12(5):e64</RefSource>
+                <PMID Version="1">21169174</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Telemed Telecare. 2012 Jan;18(1):1-6</RefSource>
+                <PMID Version="1">22101609</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Med Internet Res. 2012;14(1):e25</RefSource>
+                <PMID Version="1">22328237</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Med Internet Res. 2012;14(1):e31</RefSource>
+                <PMID Version="1">22356799</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Med Internet Res. 2012;14(3):e67</RefSource>
+                <PMID Version="1">22732135</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Diabetes Technol Ther. 2012 Dec;14(12):1178-82</RefSource>
+                <PMID Version="1">23013155</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>N Engl J Med. 1999 Dec 2;341(23):1725-30</RefSource>
+                <PMID Version="1">10580071</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Kidney Int. 2001 Oct;60(4):1565-70</RefSource>
+                <PMID Version="1">11576374</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Ann Surg. 2002 Dec;236(6):794-804; discussion 804-805</RefSource>
+                <PMID Version="1">12454518</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Am J Transplant. 2004 Sep;4(9):1509-13</RefSource>
+                <PMID Version="1">15307839</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Transplant Proc. 1977 Mar;9(1):137-42</RefSource>
+                <PMID Version="1">325754</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Health Soc Behav. 1983 Dec;24(4):385-96</RefSource>
+                <PMID Version="1">6668417</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>N Engl J Med. 1989 Mar 16;320(11):684-8</RefSource>
+                <PMID Version="1">2922014</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Transplant Proc. 1991 Feb;23(1 Pt 1):380-2</RefSource>
+                <PMID Version="1">1990558</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Am J Kidney Dis. 1992 May;19(5):411-3</RefSource>
+                <PMID Version="1">1585926</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Clin Transpl. 1991;:193-203</RefSource>
+                <PMID Version="1">1820116</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>N Engl J Med. 1992 Sep 17;327(12):840-5</RefSource>
+                <PMID Version="1">1508243</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Transplantation. 1994 Nov 27;58(10):1119-30</RefSource>
+                <PMID Version="1">7974720</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Transplantation. 1995 Feb 15;59(3):340-7</RefSource>
+                <PMID Version="1">7871562</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Kidney Int. 1996 Jul;50(1):235-42</RefSource>
+                <PMID Version="1">8807593</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Am Soc Nephrol. 2005 Jan;16(1):269-77</RefSource>
+                <PMID Version="1">15563568</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Telemed J E Health. 2006 Apr;12(2):114-21</RefSource>
+                <PMID Version="1">16620165</PMID>
+            </CommentsCorrections>
+        </CommentsCorrectionsList>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D000328">Adult</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D000368">Aged</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D001294">Attitude to Health</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="Y" UI="D040421">Cell Phones</DescriptorName>
+                <QualifierName MajorTopicYN="N" UI="Q000656">utilization</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D005260">Female</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D020407">Internet</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="Y" UI="D016030">Kidney Transplantation</DescriptorName>
+                <QualifierName MajorTopicYN="N" UI="Q000502">physiology</QualifierName>
+                <QualifierName MajorTopicYN="N" UI="Q000523">psychology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D008297">Male</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D008875">Middle Aged</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="Y" UI="D018670">Monitoring, Ambulatory</DescriptorName>
+                <QualifierName MajorTopicYN="N" UI="Q000523">psychology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D010349">Patient Compliance</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D011795">Surveys and Questionnaires</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D017216">Telemedicine</DescriptorName>
+                <QualifierName MajorTopicYN="Y" UI="Q000379">methods</QualifierName>
+            </MeshHeading>
+        </MeshHeadingList>
+        <OtherID Source="NLM">PMC3636312</OtherID>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2012</Year>
+                <Month>7</Month>
+                <Day>26</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2012</Year>
+                <Month>10</Month>
+                <Day>05</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2012</Year>
+                <Month>10</Month>
+                <Day>05</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2013</Year>
+                <Month>1</Month>
+                <Day>12</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2013</Year>
+                <Month>1</Month>
+                <Day>12</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2013</Year>
+                <Month>6</Month>
+                <Day>26</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>epublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pii">v15i1e6</ArticleId>
+            <ArticleId IdType="doi">10.2196/jmir.2284</ArticleId>
+            <ArticleId IdType="pubmed">23305649</ArticleId>
+            <ArticleId IdType="pmc">PMC3636312</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

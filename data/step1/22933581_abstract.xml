@@ -1,0 +1,339 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2016//EN" "http://www.ncbi.nlm.nih.gov/corehtml/query/DTD/pubmed_160101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="MEDLINE">
+        <PMID Version="1">22933581</PMID>
+        <DateCreated>
+            <Year>2012</Year>
+            <Month>10</Month>
+            <Day>23</Day>
+        </DateCreated>
+        <DateCompleted>
+            <Year>2013</Year>
+            <Month>01</Month>
+            <Day>03</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2015</Year>
+            <Month>02</Month>
+            <Day>23</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1524-4628</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>43</Volume>
+                    <Issue>11</Issue>
+                    <PubDate>
+                        <Year>2012</Year>
+                        <Month>Nov</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Stroke; a journal of cerebral circulation</Title>
+                <ISOAbbreviation>Stroke</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Stroke assessment with diffusional kurtosis imaging.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>2968-73</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1161/STROKEAHA.112.657742</ELocationID>
+            <Abstract>
+                <AbstractText Label="BACKGROUND AND PURPOSE" NlmCategory="OBJECTIVE">Despite being the gold standard technique for stroke assessment, conventional diffusion MRI provides only partial information about tissue microstructure. Diffusional kurtosis imaging is an advanced diffusion MRI method that yields, in addition to conventional diffusion information, the diffusional kurtosis, which may help improve characterization of tissue microstructure. In particular, this additional information permits the description of white matter (WM) in terms of WM-specific diffusion metrics. The goal of this study is to elucidate possible biophysical mechanisms underlying ischemia using these new WM metrics.</AbstractText>
+                <AbstractText Label="METHODS" NlmCategory="METHODS">We performed a retrospective review of clinical and diffusional kurtosis imaging data of 44 patients with acute/subacute ischemic stroke. Patients with a history of brain neoplasm or intracranial hemorrhages were excluded from this study. Region of interest analysis was performed to measure percent change of diffusion metrics in ischemic WM lesions compared with the contralateral hemisphere.</AbstractText>
+                <AbstractText Label="RESULTS" NlmCategory="RESULTS">Kurtosis maps exhibit distinct ischemic lesion heterogeneity that is not apparent on apparent diffusion coefficient maps. Kurtosis metrics also have significantly higher absolute percent change than complementary conventional diffusion metrics. Our WM metrics reveal an increase in axonal density and a larger decrease in the intra-axonal (Da) compared with extra-axonal diffusion microenvironment of the ischemic WM lesion.</AbstractText>
+                <AbstractText Label="CONCLUSIONS" NlmCategory="CONCLUSIONS">The well-known decrease in the apparent diffusion coefficient of WM after ischemia is found to be mainly driven by a significant drop in the intra-axonal diffusion microenvironment. Our results suggest that ischemia preferentially alters intra-axonal environment, consistent with a proposed mechanism of focal enlargement of axons known as axonal swelling or beading.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Hui</LastName>
+                    <ForeName>Edward S</ForeName>
+                    <Initials>ES</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Center for Biomedical Imaging, Department of Radiology and Radiological Science, Medical University of South Carolina, 68 President Street, MSC 120, Charleston, SC 29425, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Fieremans</LastName>
+                    <ForeName>Els</ForeName>
+                    <Initials>E</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Jensen</LastName>
+                    <ForeName>Jens H</ForeName>
+                    <Initials>JH</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Tabesh</LastName>
+                    <ForeName>Ali</ForeName>
+                    <Initials>A</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Feng</LastName>
+                    <ForeName>Wuwei</ForeName>
+                    <Initials>W</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Bonilha</LastName>
+                    <ForeName>Leonardo</ForeName>
+                    <Initials>L</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Spampinato</LastName>
+                    <ForeName>Maria V</ForeName>
+                    <Initials>MV</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Adams</LastName>
+                    <ForeName>Robert</ForeName>
+                    <Initials>R</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Helpern</LastName>
+                    <ForeName>Joseph A</ForeName>
+                    <Initials>JA</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <GrantList CompleteYN="Y">
+                <Grant>
+                    <GrantID>1R01AG027852</GrantID>
+                    <Acronym>AG</Acronym>
+                    <Agency>NIA NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>1R01EB007656</GrantID>
+                    <Acronym>EB</Acronym>
+                    <Agency>NIBIB NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>R01 AG027852</GrantID>
+                    <Acronym>AG</Acronym>
+                    <Agency>NIA NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>R01 EB007656</GrantID>
+                    <Acronym>EB</Acronym>
+                    <Agency>NIBIB NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>UL1 RR029882</GrantID>
+                    <Acronym>RR</Acronym>
+                    <Agency>NCRR NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>UL1 TR000062</GrantID>
+                    <Acronym>TR</Acronym>
+                    <Agency>NCATS NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>UL1RR029882</GrantID>
+                    <Acronym>RR</Acronym>
+                    <Agency>NCRR NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+            </GrantList>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D052061">Research Support, N.I.H., Extramural</PublicationType>
+                <PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2012</Year>
+                <Month>08</Month>
+                <Day>28</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>Stroke</MedlineTA>
+            <NlmUniqueID>0235266</NlmUniqueID>
+            <ISSNLinking>0039-2499</ISSNLinking>
+        </MedlineJournalInfo>
+        <CitationSubset>IM</CitationSubset>
+        <CommentsCorrectionsList>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Brain. 2007 Jan;130(Pt 1):170-80</RefSource>
+                <PMID Version="1">17148468</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Curr Opin Neurobiol. 2006 Dec;16(6):638-44</RefSource>
+                <PMID Version="1">17084614</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Radiology. 2010 Mar;254(3):876-81</RefSource>
+                <PMID Version="1">20089718</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Proc Natl Acad Sci U S A. 2010 Aug 10;107(32):14472-7</RefSource>
+                <PMID Version="1">20660718</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>NMR Biomed. 2010 Aug;23(7):698-710</RefSource>
+                <PMID Version="1">20632416</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>NMR Biomed. 2010 Aug;23(7):725-33</RefSource>
+                <PMID Version="1">20669147</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>NMR Biomed. 2010 Aug;23(7):711-24</RefSource>
+                <PMID Version="1">20882537</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Rev Neurol. 2010 Oct;6(10):560-71</RefSource>
+                <PMID Version="1">20842186</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Magn Reson Imaging. 2011 Jan;33(1):17-23</RefSource>
+                <PMID Version="1">21182116</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Magn Reson Med. 2011 Mar;65(3):823-36</RefSource>
+                <PMID Version="1">21337412</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Neuroimaging Clin N Am. 2011 Feb;21(1):51-69, vii</RefSource>
+                <PMID Version="1">21477751</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Neuroimaging Clin N Am. 2011 May;21(2):345-77, xi</RefSource>
+                <PMID Version="1">21640304</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>NMR Biomed. 2011 Jun;24(5):452-7</RefSource>
+                <PMID Version="1">20960579</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Neuroimage. 2011 Sep 1;58(1):177-88</RefSource>
+                <PMID Version="1">21699989</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Neuroimage. 2012 Jan 2;59(1):467-77</RefSource>
+                <PMID Version="1">21835250</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Brain Res. 2012 Apr 27;1451:100-9</RefSource>
+                <PMID Version="1">22444274</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Neurotrauma. 2012 Sep;29(13):2318-27</RefSource>
+                <PMID Version="1">21639753</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>AJNR Am J Neuroradiol. 2000 Nov-Dec;21(10):1821-9</RefSource>
+                <PMID Version="1">11110533</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Radiology. 2001 Oct;221(1):27-34</RefSource>
+                <PMID Version="1">11568317</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Neuroradiology. 2002 Apr;44(4):294-8</RefSource>
+                <PMID Version="1">11914803</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Magn Reson Med. 1990 May;14(2):330-46</RefSource>
+                <PMID Version="1">2345513</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Stroke. 1991 Jun;22(6):802-8</RefSource>
+                <PMID Version="1">2057981</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Stroke. 1993 Jan;24(1):35-41</RefSource>
+                <PMID Version="1">7678184</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Neurology. 1997 Jul;49(1):113-9</RefSource>
+                <PMID Version="1">9222178</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Cereb Blood Flow Metab. 1998 Jun;18(6):583-609</RefSource>
+                <PMID Version="1">9626183</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>AJNR Am J Neuroradiol. 2005 Feb;26(2):208-15</RefSource>
+                <PMID Version="1">15709115</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Magn Reson Med. 2005 Jun;53(6):1432-40</RefSource>
+                <PMID Version="1">15906300</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Neurosci. 2008 Feb 13;28(7):1756-72</RefSource>
+                <PMID Version="1">18272696</PMID>
+            </CommentsCorrections>
+        </CommentsCorrectionsList>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D038524">Diffusion Magnetic Resonance Imaging</DescriptorName>
+                <QualifierName MajorTopicYN="Y" UI="Q000379">methods</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D007090">Image Interpretation, Computer-Assisted</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D010865">Pilot Projects</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D012189">Retrospective Studies</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D020521">Stroke</DescriptorName>
+                <QualifierName MajorTopicYN="Y" UI="Q000175">diagnosis</QualifierName>
+            </MeshHeading>
+        </MeshHeadingList>
+        <OtherID Source="NLM">NIHMS405049</OtherID>
+        <OtherID Source="NLM">PMC3479373</OtherID>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="aheadofprint">
+                <Year>2012</Year>
+                <Month>8</Month>
+                <Day>28</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2012</Year>
+                <Month>8</Month>
+                <Day>31</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2012</Year>
+                <Month>8</Month>
+                <Day>31</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2013</Year>
+                <Month>1</Month>
+                <Day>4</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pii">STROKEAHA.112.657742</ArticleId>
+            <ArticleId IdType="doi">10.1161/STROKEAHA.112.657742</ArticleId>
+            <ArticleId IdType="pubmed">22933581</ArticleId>
+            <ArticleId IdType="pmc">PMC3479373</ArticleId>
+            <ArticleId IdType="mid">NIHMS405049</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

@@ -1,0 +1,388 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2016//EN" "http://www.ncbi.nlm.nih.gov/corehtml/query/DTD/pubmed_160101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="MEDLINE">
+        <PMID Version="1">22160772</PMID>
+        <DateCreated>
+            <Year>2012</Year>
+            <Month>04</Month>
+            <Day>02</Day>
+        </DateCreated>
+        <DateCompleted>
+            <Year>2012</Year>
+            <Month>05</Month>
+            <Day>22</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2015</Year>
+            <Month>01</Month>
+            <Day>29</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1522-1466</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>302</Volume>
+                    <Issue>7</Issue>
+                    <PubDate>
+                        <Year>2012</Year>
+                        <Month>Apr</Month>
+                        <Day>1</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>American journal of physiology. Renal physiology</Title>
+                <ISOAbbreviation>Am. J. Physiol. Renal Physiol.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Persistent disruption of mitochondrial homeostasis after acute kidney injury.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>F853-64</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1152/ajprenal.00035.2011</ELocationID>
+            <Abstract>
+                <AbstractText>While mitochondrial dysfunction is a pathological process that occurs after acute kidney injury (AKI), the state of mitochondrial homeostasis during the injury and recovery phases of AKI remains unclear. We examined markers of mitochondrial homeostasis in two nonlethal rodent AKI models. Myoglobinuric AKI was induced by glycerol injection into rats, and mice were subjected to ischemic AKI. Animals in both models had elevated serum creatinine, indicative of renal dysfunction, 24 h after injury which partially recovered over 144 h postinjury. Markers of proximal tubule function/injury, including neutrophil gelatinase-associated lipocalin and urine glucose, did not recover during this same period. The persistent pathological state was confirmed by sustained caspase 3 cleavage and evidence of tubule dilation and brush-border damage. Respiratory proteins NDUFB8, ATP synthase β, cytochrome c oxidase subunit I (COX I), and COX IV were decreased in both injury models and did not recover by 144 h. Immunohistochemical analysis confirmed that COX IV protein was progressively lost in proximal tubules of the kidney cortex after ischemia-reperfusion (I/R). Expression of mitochondrial fission protein Drp1 was elevated after injury in both models, whereas the fusion protein Mfn2 was elevated after glycerol injury but decreased after I/R AKI. LC3-I/II expression revealed that autophagy increased in both injury models at the later time points. Markers of mitochondrial biogenesis, such as PGC-1α and PRC, were elevated in both models. These findings reveal that there is persistent disruption of mitochondrial homeostasis and sustained tubular damage after AKI, even in the presence of mitochondrial recovery signals and improved glomerular filtration.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Funk</LastName>
+                    <ForeName>Jason A</ForeName>
+                    <Initials>JA</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Dept. of Pharmaceutical and Biomedical Sciences, Medical University of South Carolina, 280 Calhoun St., Charleston, SC 29425, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Schnellmann</LastName>
+                    <ForeName>Rick G</ForeName>
+                    <Initials>RG</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <GrantList CompleteYN="Y">
+                <Grant>
+                    <GrantID>C06 RR-015455</GrantID>
+                    <Acronym>RR</Acronym>
+                    <Agency>NCRR NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>GM 084147</GrantID>
+                    <Acronym>GM</Acronym>
+                    <Agency>NIGMS NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>T32ES012878-05</GrantID>
+                    <Acronym>ES</Acronym>
+                    <Agency>NIEHS NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>T32HL007260-34</GrantID>
+                    <Acronym>HL</Acronym>
+                    <Agency>NHLBI NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>UL1 RR029882</GrantID>
+                    <Acronym>RR</Acronym>
+                    <Agency>NCRR NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>UL1 TR000062</GrantID>
+                    <Acronym>TR</Acronym>
+                    <Agency>NCATS NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>UL1RR029882</GrantID>
+                    <Acronym>RR</Acronym>
+                    <Agency>NCRR NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+            </GrantList>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D052061">Research Support, N.I.H., Extramural</PublicationType>
+                <PublicationType UI="D013486">Research Support, U.S. Gov't, Non-P.H.S.</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2011</Year>
+                <Month>12</Month>
+                <Day>07</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>Am J Physiol Renal Physiol</MedlineTA>
+            <NlmUniqueID>100901990</NlmUniqueID>
+            <ISSNLinking>1522-1466</ISSNLinking>
+        </MedlineJournalInfo>
+        <CitationSubset>IM</CitationSubset>
+        <CommentsCorrectionsList>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Kidney Int. 2007 Dec;72(12):1493-502</RefSource>
+                <PMID Version="1">17914353</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Am Soc Nephrol. 2011 May;22(5):902-13</RefSource>
+                <PMID Version="1">21493778</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Mol Endocrinol. 2008 Jul;22(7):1596-605</RefSource>
+                <PMID Version="1">18467525</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cell Metab. 2008 Sep;8(3):249-56</RefSource>
+                <PMID Version="1">18762025</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Stroke. 2008 Nov;39(11):3057-63</RefSource>
+                <PMID Version="1">18723421</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Kidney Int. 2009 Feb;75(3):304-11</RefSource>
+                <PMID Version="1">18843260</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Pharmacol Rep. 2009 Jan-Feb;61(1):131-8</RefSource>
+                <PMID Version="1">19307701</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Proc Natl Acad Sci U S A. 2000 Mar 14;97(6):2826-31</RefSource>
+                <PMID Version="1">10717001</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Dev Cell. 2001 Oct;1(4):515-25</RefSource>
+                <PMID Version="1">11703942</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Transplantation. 2002 Feb 27;73(4):493-9</RefSource>
+                <PMID Version="1">11889418</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Am Soc Nephrol. 2003 Aug;14(8):2199-210</RefSource>
+                <PMID Version="1">12874476</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Am Soc Nephrol. 2003 Oct;14(10):2534-43</RefSource>
+                <PMID Version="1">14514731</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Kidney Int. 2004 Aug;66(2):514-7</RefSource>
+                <PMID Version="1">15253700</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Mol Biol Cell. 2004 Nov;15(11):5001-11</RefSource>
+                <PMID Version="1">15356267</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Kidney Int. 1974 Jul;6(1):24-37</RefSource>
+                <PMID Version="1">4421857</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nephron. 1978;22(4-6):538-43</RefSource>
+                <PMID Version="1">740115</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Proc Clin Dial Transplant Forum. 1979;9:184-8</RefSource>
+                <PMID Version="1">399505</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Exp Mol Pathol. 1984 Apr;40(2):155-68</RefSource>
+                <PMID Version="1">6705889</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Proc Natl Acad Sci U S A. 1986 Aug;83(16):6142-5</RefSource>
+                <PMID Version="1">3461481</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Arch Intern Med. 1987 Jul;147(7):1213-8</RefSource>
+                <PMID Version="1">3300586</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Am J Physiol. 1988 Sep;255(3 Pt 2):F438-43</RefSource>
+                <PMID Version="1">2843051</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Q J Med. 1988 Feb;66(250):97-115</RefSource>
+                <PMID Version="1">3051085</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Exp Pathol. 1989;4(1):29-36</RefSource>
+                <PMID Version="1">2778550</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Am Soc Nephrol. 1991 Oct;2(4):848-55</RefSource>
+                <PMID Version="1">1751788</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Clin Invest. 1992 Jul;90(1):267-70</RefSource>
+                <PMID Version="1">1634613</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Ren Fail. 1992;14(4):479-83</RefSource>
+                <PMID Version="1">1461998</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Kidney Int. 1993 May;43(5):1160-78</RefSource>
+                <PMID Version="1">8510397</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Investig Med. 1995 Oct;43(5):431-42</RefSource>
+                <PMID Version="1">8528754</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>N Engl J Med. 1996 May 30;334(22):1448-60</RefSource>
+                <PMID Version="1">8618585</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Kidney Int. 1996 Mar;49(3):741-51</RefSource>
+                <PMID Version="1">8648915</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Kidney Int. 1998 Jan;53(1):100-11</RefSource>
+                <PMID Version="1">9453005</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Biochem J. 1999 Jul 15;341 ( Pt 2):233-49</RefSource>
+                <PMID Version="1">10393078</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cell. 1999 Jul 9;98(1):115-24</RefSource>
+                <PMID Version="1">10412986</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Am J Physiol Renal Physiol. 2005 Jun;288(6):F1092-102</RefSource>
+                <PMID Version="1">15625081</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nephron Physiol. 2007;105(1):p1-10</RefSource>
+                <PMID Version="1">17095876</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Intern Med. 2007 Jan;261(1):32-43</RefSource>
+                <PMID Version="1">17222166</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Biol Chem. 2007 Jan 26;282(4):2355-62</RefSource>
+                <PMID Version="1">17116659</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Methods Cell Biol. 2007;80:155-71</RefSource>
+                <PMID Version="1">17445693</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Clin Invest. 2009 May;119(5):1275-85</RefSource>
+                <PMID Version="1">19349686</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>PLoS One. 2009;4(5):e5546</RefSource>
+                <PMID Version="1">19436752</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>N Engl J Med. 2009 Jul 2;361(1):62-72</RefSource>
+                <PMID Version="1">19571284</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Biochim Biophys Acta. 2009 Aug;1792(8):796-803</RefSource>
+                <PMID Version="1">19545623</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Pharmacol Exp Ther. 2010 May;333(2):593-601</RefSource>
+                <PMID Version="1">20103585</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>EMBO J. 2008 Jan 23;27(2):433-46</RefSource>
+                <PMID Version="1">18200046</PMID>
+            </CommentsCorrections>
+        </CommentsCorrectionsList>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D058186">Acute Kidney Injury</DescriptorName>
+                <QualifierName MajorTopicYN="N" UI="Q000209">etiology</QualifierName>
+                <QualifierName MajorTopicYN="Y" UI="Q000503">physiopathology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D000818">Animals</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D001343">Autophagy</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="Y" UI="D006706">Homeostasis</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D007511">Ischemia</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D007668">Kidney</DescriptorName>
+                <QualifierName MajorTopicYN="N" UI="Q000098">blood supply</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D008297">Male</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D051379">Mice</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D008810">Mice, Inbred C57BL</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D008928">Mitochondria</DescriptorName>
+                <QualifierName MajorTopicYN="Y" UI="Q000502">physiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D051381">Rats</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D017207">Rats, Sprague-Dawley</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D012206">Rhabdomyolysis</DescriptorName>
+                <QualifierName MajorTopicYN="N" UI="Q000150">complications</QualifierName>
+            </MeshHeading>
+        </MeshHeadingList>
+        <OtherID Source="NLM">PMC3340936</OtherID>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="aheadofprint">
+                <Year>2011</Year>
+                <Month>12</Month>
+                <Day>7</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2011</Year>
+                <Month>12</Month>
+                <Day>14</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2011</Year>
+                <Month>12</Month>
+                <Day>14</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2012</Year>
+                <Month>5</Month>
+                <Day>23</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pii">ajprenal.00035.2011</ArticleId>
+            <ArticleId IdType="doi">10.1152/ajprenal.00035.2011</ArticleId>
+            <ArticleId IdType="pubmed">22160772</ArticleId>
+            <ArticleId IdType="pmc">PMC3340936</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

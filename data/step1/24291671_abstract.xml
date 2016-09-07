@@ -1,0 +1,610 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2016//EN" "http://www.ncbi.nlm.nih.gov/corehtml/query/DTD/pubmed_160101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="MEDLINE">
+        <PMID Version="1">24291671</PMID>
+        <DateCreated>
+            <Year>2014</Year>
+            <Month>01</Month>
+            <Day>22</Day>
+        </DateCreated>
+        <DateCompleted>
+            <Year>2014</Year>
+            <Month>09</Month>
+            <Day>11</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2015</Year>
+            <Month>04</Month>
+            <Day>30</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1873-7544</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>259</Volume>
+                    <PubDate>
+                        <Year>2014</Year>
+                        <Month>Feb</Month>
+                        <Day>14</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Neuroscience</Title>
+                <ISOAbbreviation>Neuroscience</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Novel Vitamin K analogs suppress seizures in zebrafish and mouse models of epilepsy.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>142-54</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1016/j.neuroscience.2013.11.040</ELocationID>
+            <ELocationID EIdType="pii" ValidYN="Y">S0306-4522(13)00987-1</ELocationID>
+            <Abstract>
+                <AbstractText>Epilepsy is a debilitating disease affecting 1-2% of the world's population. Despite this high prevalence, 30% of patients suffering from epilepsy are not successfully managed by current medication suggesting a critical need for new anti-epileptic drugs (AEDs). In an effort to discover new therapeutics for the management of epilepsy, we began our study by screening drugs that, like some currently used AEDs, inhibit histone deacetylases (HDACs) using a well-established larval zebrafish model. In this model, 7-day post fertilization (dpf) larvae are treated with the widely used seizure-inducing compound pentylenetetrazol (PTZ) which stimulates a rapid increase in swimming behavior previously determined to be a measurable manifestation of seizures. In our first screen, we tested a number of different HDAC inhibitors and found that one, 2-benzamido-1 4-naphthoquinone (NQN1), significantly decreased swim activity to levels equal to that of valproic acid, 2-n-propylpentanoic acid (VPA). We continued to screen structurally related compounds including Vitamin K3 (VK3) and a number of novel Vitamin K (VK) analogs. We found that VK3 was a robust inhibitor of the PTZ-induced swim activity, as were several of our novel compounds. Three of these compounds were subsequently tested on mouse seizure models at the National Institute of Neurological Disorders and Stroke (NINDS) Anticonvulsant Screening Program. Compound 2h reduced seizures particularly well in the minimal clonic seizure (6Hz) and corneal-kindled mouse models of epilepsy, with no observable toxicity. As VK3 affects mitochondrial function, we tested the effects of our compounds on mitochondrial respiration and ATP production in a mouse hippocampal cell line. We demonstrate that these compounds affect ATP metabolism and increase total cellular ATP. Our data indicate the potential utility of these and other VK analogs for the prevention of seizures and suggest the potential mechanism for this protection may lie in the ability of these compounds to affect energy production.</AbstractText>
+                <CopyrightInformation>Copyright © 2013 IBRO. Published by Elsevier Ltd. All rights reserved.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Rahn</LastName>
+                    <ForeName>J J</ForeName>
+                    <Initials>JJ</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Drug Discovery and Biomedical Sciences, South Carolina College of Pharmacy, Medical University of South Carolina, Charleston, SC 29425, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Bestman</LastName>
+                    <ForeName>J E</ForeName>
+                    <Initials>JE</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Drug Discovery and Biomedical Sciences, South Carolina College of Pharmacy, Medical University of South Carolina, Charleston, SC 29425, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Josey</LastName>
+                    <ForeName>B J</ForeName>
+                    <Initials>BJ</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Drug Discovery and Biomedical Sciences, South Carolina College of Pharmacy, Medical University of South Carolina, Charleston, SC 29425, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Inks</LastName>
+                    <ForeName>E S</ForeName>
+                    <Initials>ES</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Drug Discovery and Biomedical Sciences, South Carolina College of Pharmacy, Medical University of South Carolina, Charleston, SC 29425, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Stackley</LastName>
+                    <ForeName>K D</ForeName>
+                    <Initials>KD</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Drug Discovery and Biomedical Sciences, South Carolina College of Pharmacy, Medical University of South Carolina, Charleston, SC 29425, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Rogers</LastName>
+                    <ForeName>C E</ForeName>
+                    <Initials>CE</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Drug Discovery and Biomedical Sciences, South Carolina College of Pharmacy, Medical University of South Carolina, Charleston, SC 29425, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Chou</LastName>
+                    <ForeName>C J</ForeName>
+                    <Initials>CJ</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Drug Discovery and Biomedical Sciences, South Carolina College of Pharmacy, Medical University of South Carolina, Charleston, SC 29425, USA. Electronic address: chouc@musc.edu.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Chan</LastName>
+                    <ForeName>S S L</ForeName>
+                    <Initials>SS</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Drug Discovery and Biomedical Sciences, South Carolina College of Pharmacy, Medical University of South Carolina, Charleston, SC 29425, USA. Electronic address: chans@musc.edu.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <GrantList CompleteYN="Y">
+                <Grant>
+                    <GrantID>1R01CA163452</GrantID>
+                    <Acronym>CA</Acronym>
+                    <Agency>NCI NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>5P20RR024485-02</GrantID>
+                    <Acronym>RR</Acronym>
+                    <Agency>NCRR NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>8 P20 GM103542-02</GrantID>
+                    <Acronym>GM</Acronym>
+                    <Agency>NIGMS NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>P20 GM103542</GrantID>
+                    <Acronym>GM</Acronym>
+                    <Agency>NIGMS NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>P20 RR024485</GrantID>
+                    <Acronym>RR</Acronym>
+                    <Agency>NCRR NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>R00 ES015555</GrantID>
+                    <Acronym>ES</Acronym>
+                    <Agency>NIEHS NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>R00ES01555</GrantID>
+                    <Acronym>ES</Acronym>
+                    <Agency>NIEHS NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>R01 CA163452</GrantID>
+                    <Acronym>CA</Acronym>
+                    <Agency>NCI NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>T32-HL007260-36</GrantID>
+                    <Acronym>HL</Acronym>
+                    <Agency>NHLBI NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>UL1 RR029882</GrantID>
+                    <Acronym>RR</Acronym>
+                    <Agency>NCRR NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>UL1RR029882</GrantID>
+                    <Acronym>RR</Acronym>
+                    <Agency>NCRR NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+            </GrantList>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D052061">Research Support, N.I.H., Extramural</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2013</Year>
+                <Month>12</Month>
+                <Day>01</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>Neuroscience</MedlineTA>
+            <NlmUniqueID>7605074</NlmUniqueID>
+            <ISSNLinking>0306-4522</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D000927">Anticonvulsants</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D004791">Enzyme Inhibitors</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D009285">Naphthoquinones</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D016760">Proto-Oncogene Proteins c-fos</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>723JX6CXY5</RegistryNumber>
+                <NameOfSubstance UI="D024483">Vitamin K 3</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>8L70Q75FXE</RegistryNumber>
+                <NameOfSubstance UI="D000255">Adenosine Triphosphate</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>WM5Z385K7T</RegistryNumber>
+                <NameOfSubstance UI="D010433">Pentylenetetrazole</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <CommentsCorrectionsList>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Brain Res Bull. 2012 Feb 10;87(2-3):135-43</RefSource>
+                <PMID Version="1">22155548</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Biol Chem. 2011 May 6;286(18):16504-15</RefSource>
+                <PMID Version="1">21454572</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Adv Nutr. 2012 Mar;3(2):204-12</RefSource>
+                <PMID Version="1">22516728</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Epilepsy Behav. 2012 May;24(1):14-22</RefSource>
+                <PMID Version="1">22483646</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Science. 2012 Jun 8;336(6086):1306-10</RefSource>
+                <PMID Version="1">22582012</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Epilepsia. 2012 Sep;53 Suppl 4:92-7</RefSource>
+                <PMID Version="1">22946726</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Dis Model Mech. 2012 Nov;5(6):773-84</RefSource>
+                <PMID Version="1">22730455</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>PLoS One. 2013;8(1):e54166</RefSource>
+                <PMID Version="1">23342097</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cell. 2013 Jan 31;152(3):504-18</RefSource>
+                <PMID Version="1">23374346</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Med Chem. 2013 Feb 14;56(3):1007-22</RefSource>
+                <PMID Version="1">23327468</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Dis Model Mech. 2013 May;6(3):652-60</RefSource>
+                <PMID Version="1">23471908</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Methods Cell Biol. 2011;105:525-41</RefSource>
+                <PMID Version="1">21951546</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Br J Cancer. 2000 Jan;82(2):291-4</RefSource>
+                <PMID Version="1">10646879</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Biol Chem. 2001 Sep 28;276(39):36734-41</RefSource>
+                <PMID Version="1">11473107</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Epilepsy Res. 2001 Dec;47(3):217-27</RefSource>
+                <PMID Version="1">11738929</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Methods. 2001 Dec;25(4):402-8</RefSource>
+                <PMID Version="1">11846609</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Br J Clin Pharmacol. 2002 Feb;53(2):123-31</RefSource>
+                <PMID Version="1">11851635</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>CNS Drugs. 2002;16(10):695-714</RefSource>
+                <PMID Version="1">12269862</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Free Radic Res. 2002 Nov;36(11):1139-46</RefSource>
+                <PMID Version="1">12592665</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>CNS Drug Rev. 2003 Summer;9(2):199-216</RefSource>
+                <PMID Version="1">12847559</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Prog Neuropsychopharmacol Biol Psychiatry. 2004 Jan;28(1):105-13</RefSource>
+                <PMID Version="1">14687864</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Rev Neurosci. 2004 Jul;5(7):553-64</RefSource>
+                <PMID Version="1">15208697</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Electroencephalogr Clin Neurophysiol. 1972 Mar;32(3):281-94</RefSource>
+                <PMID Version="1">4110397</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Neuron. 1990 Dec;5(6):875-80</RefSource>
+                <PMID Version="1">1980069</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Ital J Neurol Sci. 1995 Feb-Mar;16(1-2):73-7</RefSource>
+                <PMID Version="1">7642355</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Dev Dyn. 1995 Jul;203(3):253-310</RefSource>
+                <PMID Version="1">8589427</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Rev Drug Discov. 2005 Jan;4(1):35-44</RefSource>
+                <PMID Version="1">15688071</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Neuroscience. 2005;131(3):759-68</RefSource>
+                <PMID Version="1">15730879</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Expert Opin Drug Saf. 2005 Mar;4(2):345-53</RefSource>
+                <PMID Version="1">15794725</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Mol Cell Cardiol. 2005 Jul;39(1):149-58</RefSource>
+                <PMID Version="1">15893762</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Neurochem Int. 2007 Jan;50(1):164-71</RefSource>
+                <PMID Version="1">16963161</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Epilepsia. 2007 Jun;48(6):1151-7</RefSource>
+                <PMID Version="1">17521353</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Epilepsy Res. 2007 Jun;75(1):18-28</RefSource>
+                <PMID Version="1">17485198</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Neurotoxicol Teratol. 2008 Sep-Oct;30(5):390-4</RefSource>
+                <PMID Version="1">18455366</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Epilepsy Res. 2008 Oct;81(2-3):107-13</RefSource>
+                <PMID Version="1">18538545</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Clin Toxicol (Phila). 2009 Feb;47(2):101-11</RefSource>
+                <PMID Version="1">19280426</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Bioorg Med Chem Lett. 2009 Oct 1;19(19):5684-8</RefSource>
+                <PMID Version="1">19699639</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Rev Drug Discov. 2010 Jan;9(1):68-82</RefSource>
+                <PMID Version="1">20043029</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Dis Model Mech. 2010 Mar-Apr;3(3-4):144-8</RefSource>
+                <PMID Version="1">20212082</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Biotechnol. 2010 Mar;28(3):249-55</RefSource>
+                <PMID Version="1">20160716</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Drug Chem Toxicol. 2010 Apr;33(2):138-51</RefSource>
+                <PMID Version="1">19839725</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Anal Biochem. 2010 Sep 1;404(1):75-81</RefSource>
+                <PMID Version="1">20465991</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Am Chem Soc. 2010 Aug 11;132(31):10842-6</RefSource>
+                <PMID Version="1">20614936</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Neurosci. 2010 Oct 13;30(41):13718-28</RefSource>
+                <PMID Version="1">20943912</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Hepatology. 2010 Nov;52(5):1791-6</RefSource>
+                <PMID Version="1">21038416</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Bioenerg Biomembr. 2010 Dec;42(6):449-55</RefSource>
+                <PMID Version="1">21132357</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Epilepsia. 2011 Apr;52(4):657-78</RefSource>
+                <PMID Version="1">21426333</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>ACS Chem Biol. 2012 Feb 17;7(2):331-9</RefSource>
+                <PMID Version="1">22047054</PMID>
+            </CommentsCorrections>
+        </CommentsCorrectionsList>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D000255">Adenosine Triphosphate</DescriptorName>
+                <QualifierName MajorTopicYN="N" UI="Q000378">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D000818">Animals</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D000927">Anticonvulsants</DescriptorName>
+                <QualifierName MajorTopicYN="Y" UI="Q000627">therapeutic use</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D002460">Cell Line</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D004195">Disease Models, Animal</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D004305">Dose-Response Relationship, Drug</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D004347">Drug Interactions</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D004791">Enzyme Inhibitors</DescriptorName>
+                <QualifierName MajorTopicYN="N" UI="Q000627">therapeutic use</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D004827">Epilepsy</DescriptorName>
+                <QualifierName MajorTopicYN="N" UI="Q000139">chemically induced</QualifierName>
+                <QualifierName MajorTopicYN="Y" UI="Q000188">drug therapy</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D051379">Mice</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D009285">Naphthoquinones</DescriptorName>
+                <QualifierName MajorTopicYN="N" UI="Q000737">chemistry</QualifierName>
+                <QualifierName MajorTopicYN="N" UI="Q000627">therapeutic use</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D010101">Oxygen Consumption</DescriptorName>
+                <QualifierName MajorTopicYN="N" UI="Q000187">drug effects</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D010433">Pentylenetetrazole</DescriptorName>
+                <QualifierName MajorTopicYN="N" UI="Q000633">toxicity</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D016760">Proto-Oncogene Proteins c-fos</DescriptorName>
+                <QualifierName MajorTopicYN="N" UI="Q000235">genetics</QualifierName>
+                <QualifierName MajorTopicYN="N" UI="Q000378">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D013550">Swimming</DescriptorName>
+                <QualifierName MajorTopicYN="N" UI="Q000502">physiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D013997">Time Factors</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D024483">Vitamin K 3</DescriptorName>
+                <QualifierName MajorTopicYN="Y" UI="Q000627">therapeutic use</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D015027">Zebrafish</DescriptorName>
+            </MeshHeading>
+        </MeshHeadingList>
+        <OtherID Source="NLM">NIHMS545256</OtherID>
+        <OtherID Source="NLM">PMC3903788</OtherID>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">2-[4-(2-hydroxyethyl)piperazin-1-yl]ethanesulfonic acid</Keyword>
+            <Keyword MajorTopicYN="N">2-benzamido-1,4-naphthoquinone</Keyword>
+            <Keyword MajorTopicYN="N">2-propylpentane hydroxamic acid</Keyword>
+            <Keyword MajorTopicYN="N">2h</Keyword>
+            <Keyword MajorTopicYN="N">2j</Keyword>
+            <Keyword MajorTopicYN="N">2q</Keyword>
+            <Keyword MajorTopicYN="N">3n</Keyword>
+            <Keyword MajorTopicYN="N">AED</Keyword>
+            <Keyword MajorTopicYN="N">ATP</Keyword>
+            <Keyword MajorTopicYN="N">ATP metabolism</Keyword>
+            <Keyword MajorTopicYN="N">DMEM</Keyword>
+            <Keyword MajorTopicYN="N">DMSO</Keyword>
+            <Keyword MajorTopicYN="N">Dulbecco’s Modified Eagle’s Medium</Keyword>
+            <Keyword MajorTopicYN="N">ECAR</Keyword>
+            <Keyword MajorTopicYN="N">ETC</Keyword>
+            <Keyword MajorTopicYN="N">FCCP</Keyword>
+            <Keyword MajorTopicYN="N">HDAC</Keyword>
+            <Keyword MajorTopicYN="N">HEPES</Keyword>
+            <Keyword MajorTopicYN="N">MB</Keyword>
+            <Keyword MajorTopicYN="N">NINDS</Keyword>
+            <Keyword MajorTopicYN="N">NQN1</Keyword>
+            <Keyword MajorTopicYN="N">National Institute of Neurological Disorders and Stroke</Keyword>
+            <Keyword MajorTopicYN="N">OCR</Keyword>
+            <Keyword MajorTopicYN="N">PTZ</Keyword>
+            <Keyword MajorTopicYN="N">ROS</Keyword>
+            <Keyword MajorTopicYN="N">SAHA</Keyword>
+            <Keyword MajorTopicYN="N">SEM</Keyword>
+            <Keyword MajorTopicYN="N">SOD2</Keyword>
+            <Keyword MajorTopicYN="N">VK</Keyword>
+            <Keyword MajorTopicYN="N">VK analog modified by the addition of a benzyl amine group to the 2′ position of the 1,4-naphthoquinone motif of VK</Keyword>
+            <Keyword MajorTopicYN="N">VK analog. It is a modification of analog 2j with the addition of chlorine at the meta position of the added benzene ring</Keyword>
+            <Keyword MajorTopicYN="N">VK analog. It is a modification of analog 2j, with the addition of a terminal alkyne to the added benzene</Keyword>
+            <Keyword MajorTopicYN="N">VK analog. It was created by replacing the central methylene group of analog 2j with a carbonyl group</Keyword>
+            <Keyword MajorTopicYN="N">VK3</Keyword>
+            <Keyword MajorTopicYN="N">VPA</Keyword>
+            <Keyword MajorTopicYN="N">VPHA</Keyword>
+            <Keyword MajorTopicYN="N">Vitamin K</Keyword>
+            <Keyword MajorTopicYN="N">Vitamin K3</Keyword>
+            <Keyword MajorTopicYN="N">adenosine triphosphate</Keyword>
+            <Keyword MajorTopicYN="N">anti-epileptic drug</Keyword>
+            <Keyword MajorTopicYN="N">days post fertilization</Keyword>
+            <Keyword MajorTopicYN="N">dimethyl sulfoxide</Keyword>
+            <Keyword MajorTopicYN="N">dpf</Keyword>
+            <Keyword MajorTopicYN="N">electron transport chain</Keyword>
+            <Keyword MajorTopicYN="N">epilepsy</Keyword>
+            <Keyword MajorTopicYN="N">extracellular acidification rate</Keyword>
+            <Keyword MajorTopicYN="N">histone deacetylase</Keyword>
+            <Keyword MajorTopicYN="N">methylene blue</Keyword>
+            <Keyword MajorTopicYN="N">mitochondria</Keyword>
+            <Keyword MajorTopicYN="N">oxygen consumption rate</Keyword>
+            <Keyword MajorTopicYN="N">pentylenetetrazol</Keyword>
+            <Keyword MajorTopicYN="N">reactive oxygen species</Keyword>
+            <Keyword MajorTopicYN="N">respiration</Keyword>
+            <Keyword MajorTopicYN="N">standard error of the mean</Keyword>
+            <Keyword MajorTopicYN="N">suberoylanilide hydroxamic acid</Keyword>
+            <Keyword MajorTopicYN="N">superoxide dismutase</Keyword>
+            <Keyword MajorTopicYN="N">trifluorocarbonylcyanide phenylhydrazone</Keyword>
+            <Keyword MajorTopicYN="N">valproic acid, 2-n-propylpentanoic acid</Keyword>
+            <Keyword MajorTopicYN="N">zebrafish</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2013</Year>
+                <Month>9</Month>
+                <Day>30</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2013</Year>
+                <Month>11</Month>
+                <Day>20</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2013</Year>
+                <Month>11</Month>
+                <Day>21</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="aheadofprint">
+                <Year>2013</Year>
+                <Month>12</Month>
+                <Day>1</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2013</Year>
+                <Month>12</Month>
+                <Day>3</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2013</Year>
+                <Month>12</Month>
+                <Day>3</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2014</Year>
+                <Month>9</Month>
+                <Day>12</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">24291671</ArticleId>
+            <ArticleId IdType="pii">S0306-4522(13)00987-1</ArticleId>
+            <ArticleId IdType="doi">10.1016/j.neuroscience.2013.11.040</ArticleId>
+            <ArticleId IdType="pmc">PMC3903788</ArticleId>
+            <ArticleId IdType="mid">NIHMS545256</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

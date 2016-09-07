@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2016//EN" "http://www.ncbi.nlm.nih.gov/corehtml/query/DTD/pubmed_160101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="PubMed-not-MEDLINE">
+        <PMID Version="1">24004517</PMID>
+        <DateCreated>
+            <Year>2013</Year>
+            <Month>09</Month>
+            <Day>05</Day>
+        </DateCreated>
+        <DateCompleted>
+            <Year>2013</Year>
+            <Month>09</Month>
+            <Day>05</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2015</Year>
+            <Month>08</Month>
+            <Day>26</Day>
+        </DateRevised>
+        <Article PubModel="Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1929-0748</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>2</Volume>
+                    <Issue>2</Issue>
+                    <PubDate>
+                        <Year>2013</Year>
+                    </PubDate>
+                </JournalIssue>
+                <Title>JMIR research protocols</Title>
+                <ISOAbbreviation>JMIR Res Protoc</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Mobile Health Medication Adherence and Blood Pressure Control in Renal Transplant Recipients: A Proof-of-Concept Randomized Controlled Trial.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>e32</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.2196/resprot.2633</ELocationID>
+            <Abstract>
+                <AbstractText Label="BACKGROUND" NlmCategory="BACKGROUND">Mobile phone based programs for kidney transplant recipients are promising tools for improving long-term graft outcomes and better managing comorbidities (eg, hypertension, diabetes). These tools provide an easy to use self-management framework allowing optimal medication adherence that is guided by the patients' physiological data. This technology is also relatively inexpensive, has an intuitive interface, and provides the capability for real-time personalized feedback to help motivate patient self-efficacy. Automated summary reports of patients' adherence and blood pressure can easily be uploaded to providers' networks helping reduce clinical inertia by reducing regimen alteration time.</AbstractText>
+                <AbstractText Label="OBJECTIVE" NlmCategory="OBJECTIVE">The aim of this study was to assess the feasibility, acceptability, and preliminary outcomes of a prototype mobile health (mHealth) medication and blood pressure (BP) self-management system for kidney transplant patients with uncontrolled hypertension.</AbstractText>
+                <AbstractText Label="METHODS" NlmCategory="METHODS">A smartphone enabled medication adherence and BP self-management system was developed using a patient and provider centered design. The development framework utilized self-determination theory with iterative stages that were guided and refined based on patient/provider feedback. A 3-month proof-of-concept randomized controlled trial was conducted in 20 hypertensive kidney transplant patients identified as non-adherent to their current medication regimen based on a month long screening using an electronic medication tray. Participants randomized to the mHealth intervention had the reminder functions of their electronic medication tray enabled and received a bluetooth capable BP monitor and a smartphone that received and transmitted encrypted physiological data and delivered reminders to measure BP using text messaging. Controls received standard of care and their adherence continued to be monitored with the medication tray reminders turned off. Providers received weekly summary reports of patient medication adherence and BP readings.</AbstractText>
+                <AbstractText Label="RESULTS" NlmCategory="RESULTS">Participation and retention rates were 41/55 (75%) and 31/34 (91%), respectively. The prototype system appears to be safe, highly acceptable, and useful to patients and providers. Compared to the standard care control group (SC), the mHealth intervention group exhibited significant improvements in medication adherence and significant reductions in clinic-measured systolic blood pressures across the monthly evaluations. Physicians made more anti-hypertensive medication adjustments in the mHealth group versus the standard care group (7 adjustments in 5 patients versus 3 adjustments in 3 patients) during the 3-month trial based on the information provided in the weekly reports.</AbstractText>
+                <AbstractText Label="CONCLUSIONS" NlmCategory="CONCLUSIONS">These data support the acceptability and feasibility of the prototype mHealth system. Further trials with larger sample sizes and additional biomarkers (eg, whole blood medication levels) are needed to examine efficacy and effectiveness of the system for improving medication adherence and blood pressure control after kidney transplantation over longer time periods.</AbstractText>
+                <AbstractText Label="TRIAL REGISTRATION" NlmCategory="BACKGROUND">Clinicaltrials.gov NCT01859273; http://clinicaltrials.gov/ct2/show/NCT01859273 (Archived by WebCite at http://www.webcitation.org/6IqfCa3A3).</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>McGillicuddy</LastName>
+                    <ForeName>John W</ForeName>
+                    <Initials>JW</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Surgery, Medical University of South Carolina, Charleston, SC, United States. mcgillij@musc.edu.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Gregoski</LastName>
+                    <ForeName>Mathew J</ForeName>
+                    <Initials>MJ</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Weiland</LastName>
+                    <ForeName>Anna K</ForeName>
+                    <Initials>AK</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Rock</LastName>
+                    <ForeName>Rebecca A</ForeName>
+                    <Initials>RA</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Brunner-Jackson</LastName>
+                    <ForeName>Brenda M</ForeName>
+                    <Initials>BM</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Patel</LastName>
+                    <ForeName>Sachin K</ForeName>
+                    <Initials>SK</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Thomas</LastName>
+                    <ForeName>Beje S</ForeName>
+                    <Initials>BS</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Taber</LastName>
+                    <ForeName>David J</ForeName>
+                    <Initials>DJ</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Chavin</LastName>
+                    <ForeName>Kenneth D</ForeName>
+                    <Initials>KD</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Baliga</LastName>
+                    <ForeName>Prabhakar K</ForeName>
+                    <Initials>PK</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Treiber</LastName>
+                    <ForeName>Frank A</ForeName>
+                    <Initials>FA</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <GrantList CompleteYN="Y">
+                <Grant>
+                    <GrantID>KL2 RR029880</GrantID>
+                    <Acronym>RR</Acronym>
+                    <Agency>NCRR NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>KL2 TR000060</GrantID>
+                    <Acronym>TR</Acronym>
+                    <Agency>NCATS NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>UL1 RR029882</GrantID>
+                    <Acronym>RR</Acronym>
+                    <Agency>NCRR NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+            </GrantList>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2013</Year>
+                <Month>09</Month>
+                <Day>04</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>Canada</Country>
+            <MedlineTA>JMIR Res Protoc</MedlineTA>
+            <NlmUniqueID>101599504</NlmUniqueID>
+            <ISSNLinking>1929-0748</ISSNLinking>
+        </MedlineJournalInfo>
+        <OtherID Source="NLM">PMC3786124</OtherID>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">kidney transplantation</Keyword>
+            <Keyword MajorTopicYN="N">medication adherence</Keyword>
+            <Keyword MajorTopicYN="N">mobile health</Keyword>
+            <Keyword MajorTopicYN="N">smartphone</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2013</Year>
+                <Month>3</Month>
+                <Day>26</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2013</Year>
+                <Month>7</Month>
+                <Day>20</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2013</Year>
+                <Month>7</Month>
+                <Day>08</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2013</Year>
+                <Month>9</Month>
+                <Day>6</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2013</Year>
+                <Month>9</Month>
+                <Day>6</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2013</Year>
+                <Month>9</Month>
+                <Day>6</Day>
+                <Hour>6</Hour>
+                <Minute>1</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>epublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pii">v2i2e32</ArticleId>
+            <ArticleId IdType="doi">10.2196/resprot.2633</ArticleId>
+            <ArticleId IdType="pubmed">24004517</ArticleId>
+            <ArticleId IdType="pmc">PMC3786124</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

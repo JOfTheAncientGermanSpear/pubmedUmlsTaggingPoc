@@ -1,0 +1,554 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2016//EN" "http://www.ncbi.nlm.nih.gov/corehtml/query/DTD/pubmed_160101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="MEDLINE">
+        <PMID Version="1">25080585</PMID>
+        <DateCreated>
+            <Year>2014</Year>
+            <Month>08</Month>
+            <Day>01</Day>
+        </DateCreated>
+        <DateCompleted>
+            <Year>2014</Year>
+            <Month>09</Month>
+            <Day>29</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2015</Year>
+            <Month>08</Month>
+            <Day>05</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Electronic">1529-2401</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>34</Volume>
+                    <Issue>31</Issue>
+                    <PubDate>
+                        <Year>2014</Year>
+                        <Month>Jul</Month>
+                        <Day>30</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>The Journal of neuroscience : the official journal of the Society for Neuroscience</Title>
+                <ISOAbbreviation>J. Neurosci.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Orbitofrontal cortical neurons encode expectation-driven initiation of reward-seeking.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>10234-46</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1523/JNEUROSCI.3216-13.2014</ELocationID>
+            <Abstract>
+                <AbstractText>Adaptive execution and inhibition of behavior are guided by the activity of neuronal populations across multiple frontal cortical areas. The rodent medial prefrontal cortex has been well studied with respect to these behaviors, influencing behavioral execution/inhibition based on context. Other frontal regions, in particular the orbitofrontal cortex (OFC), are critical in directing behavior to obtain rewards, but the relationship between OFC neuronal activity and response execution or inhibition has been poorly characterized. In particular, little is known about OFC with respect to extinction learning, an important example of context-guided response inhibition. Here, we recorded the activity of OFC neurons while rats performed a discriminative-stimulus (DS)-driven sucrose-seeking task followed by multiple days of extinction of the DS. OFC neuronal activity was maximally responsive (1) to reward-predicting stimuli (RS) that triggered a lever press (i.e., lever-response initiation) and (2) during reward-well approach in pursuit of sucrose (i.e., well-response initiation). RS presentation that was not followed by a lever press or RS presentation during extinction produced weak activation, as did nonrewarded stimulus (NS) presentation regardless of response (press or withhold) or session (DS-sucrose or extinction). Activity related to nonrewarded well entry was minor, and activity was significantly inhibited during reward consumption. Finally, OFC neuronal activity switched selectivity to track rewarded behaviors when the RS/NS contingencies were reversed. Thus, rather than signaling variables related to extinction or response inhibition, activity in OFC was strongest at the initiation of multiple components of reward-seeking behavior, most prominently when valid reward-predicting cues drove these behaviors.</AbstractText>
+                <CopyrightInformation>Copyright © 2014 the authors 0270-6474/14/3410234-13$15.00/0.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Moorman</LastName>
+                    <ForeName>David E</ForeName>
+                    <Initials>DE</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Neurosciences, Medical University of South Carolina, Charleston, South Carolina 29425 moorman@cns.umass.edu.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Aston-Jones</LastName>
+                    <ForeName>Gary</ForeName>
+                    <Initials>G</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Neurosciences, Medical University of South Carolina, Charleston, South Carolina 29425.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <GrantList CompleteYN="Y">
+                <Grant>
+                    <GrantID>P50-AA010761</GrantID>
+                    <Acronym>AA</Acronym>
+                    <Agency>NIAAA NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>P50-DA015369</GrantID>
+                    <Acronym>DA</Acronym>
+                    <Agency>NIDA NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>R01-MH092868</GrantID>
+                    <Acronym>MH</Acronym>
+                    <Agency>NIMH NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>R21-DA032005</GrantID>
+                    <Acronym>DA</Acronym>
+                    <Agency>NIDA NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>R37-DA06214</GrantID>
+                    <Acronym>DA</Acronym>
+                    <Agency>NIDA NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>UL1 RR029882</GrantID>
+                    <Acronym>RR</Acronym>
+                    <Agency>NCRR NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>UL1-RR029882</GrantID>
+                    <Acronym>RR</Acronym>
+                    <Agency>NCRR NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+            </GrantList>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D052061">Research Support, N.I.H., Extramural</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>J Neurosci</MedlineTA>
+            <NlmUniqueID>8102140</NlmUniqueID>
+            <ISSNLinking>0270-6474</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>57-50-1</RegistryNumber>
+                <NameOfSubstance UI="D013395">Sucrose</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <CommentsCorrectionsList>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Trends Cogn Sci. 2006 Feb;10(2):83-90</RefSource>
+                <PMID Version="1">16380289</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Neuron. 2006 Aug 17;51(4):495-507</RefSource>
+                <PMID Version="1">16908414</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Neuron. 2006 Aug 17;51(4):509-20</RefSource>
+                <PMID Version="1">16908415</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cereb Cortex. 2007 Mar;17(3):643-52</RefSource>
+                <PMID Version="1">16699083</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Neurosci. 2007 Mar 28;27(13):3535-9</RefSource>
+                <PMID Version="1">17392469</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Neurosci. 2007 May 2;27(18):4819-25</RefSource>
+                <PMID Version="1">17475789</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Learn Mem. 2007 Jun;14(6):446-56</RefSource>
+                <PMID Version="1">17562896</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cereb Cortex. 2008 Jan;18(1):178-88</RefSource>
+                <PMID Version="1">17517682</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Neurosci. 2012 Jan;15(1):13-9</RefSource>
+                <PMID Version="1">22101646</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Neurosci. 2012 Jan 11;32(2):726-37</RefSource>
+                <PMID Version="1">22238108</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Eur J Neurosci. 2012 Apr;35(7):991-6</RefSource>
+                <PMID Version="1">22487030</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Eur J Neurosci. 2012 Apr;35(7):997-1010</RefSource>
+                <PMID Version="1">22487031</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Neurosci. 2012 Nov 14;32(46):16402-9</RefSource>
+                <PMID Version="1">23152622</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Science. 2012 Nov 16;338(6109):953-6</RefSource>
+                <PMID Version="1">23162000</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Neuron. 2013 Jan 23;77(2):251-8</RefSource>
+                <PMID Version="1">23352162</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Neurosci. 2013 Jan 30;33(5):1864-71</RefSource>
+                <PMID Version="1">23365226</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Neurosci. 2013 Apr 10;33(15):6434-43</RefSource>
+                <PMID Version="1">23575841</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Neuron. 2013 Oct 16;80(2):507-18</RefSource>
+                <PMID Version="1">24139047</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Neurobiol Learn Mem. 2014 Feb;108:78-87</RefSource>
+                <PMID Version="1">23954805</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Brain Res. 2000 Jun 2;866(1-2):44-54</RefSource>
+                <PMID Version="1">10825479</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Neurosci. 2000 Jul 1;20(13):5179-89</RefSource>
+                <PMID Version="1">10864975</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Brain Res. 2002 Mar 8;929(2):226-35</RefSource>
+                <PMID Version="1">11864628</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Neuroreport. 2002 May 7;13(6):885-90</RefSource>
+                <PMID Version="1">11997707</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nature. 2002 Nov 7;420(6911):70-4</RefSource>
+                <PMID Version="1">12422216</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Neurosci. 2003 Feb;6(2):115-6</RefSource>
+                <PMID Version="1">12536210</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Neurosci. 2003 Aug 13;23(19):7239-45</RefSource>
+                <PMID Version="1">12917356</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Neurosci. 2003 Sep 24;23(25):8771-80</RefSource>
+                <PMID Version="1">14507977</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Behav Brain Res. 2003 Nov 30;146(1-2):19-29</RefSource>
+                <PMID Version="1">14643456</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Behav Brain Res. 2003 Nov 30;146(1-2):97-103</RefSource>
+                <PMID Version="1">14643463</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Ann N Y Acad Sci. 2007 Dec;1121:232-53</RefSource>
+                <PMID Version="1">17698992</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Neurosci. 2008 Jan 23;28(4):1009-18</RefSource>
+                <PMID Version="1">18216208</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Neurosci Lett. 2008 Feb 13;432(1):40-5</RefSource>
+                <PMID Version="1">18248891</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Behav Brain Res. 2003 Nov 30;146(1-2):105-19</RefSource>
+                <PMID Version="1">14643464</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Neurophysiol. 2004 Apr;91(4):1840-65</RefSource>
+                <PMID Version="1">14645377</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Neurophysiol. 2004 Apr;91(4):1866-82</RefSource>
+                <PMID Version="1">14645378</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Neurosci. 2004 Mar 24;24(12):2923-33</RefSource>
+                <PMID Version="1">15044531</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Science. 2004 Apr 9;304(5668):307-10</RefSource>
+                <PMID Version="1">15073380</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Neurosci. 2004 Oct;7(10):1144-52</RefSource>
+                <PMID Version="1">15361879</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Comp Neurol. 1977 Apr 15;172(4):687-722</RefSource>
+                <PMID Version="1">838895</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Psychol Rev. 1980 Nov;87(6):532-52</RefSource>
+                <PMID Version="1">7443916</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Neuroscience. 1991;44(1):1-14</RefSource>
+                <PMID Version="1">1722886</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Neuroscience. 1991;44(1):15-33</RefSource>
+                <PMID Version="1">1722890</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Neurophysiol. 1995 Aug;74(2):733-50</RefSource>
+                <PMID Version="1">7472378</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Neurophysiol. 1996 May;75(5):1970-81</RefSource>
+                <PMID Version="1">8734596</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Neurosci. 1996 Mar 1;16(5):1877-93</RefSource>
+                <PMID Version="1">8774456</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Comp Neurol. 1998 Oct 5;399(4):440-68</RefSource>
+                <PMID Version="1">9741477</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Neurosci. 1999 Mar 1;19(5):1876-84</RefSource>
+                <PMID Version="1">10024371</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Neurosci. 1998 Jun;1(2):155-9</RefSource>
+                <PMID Version="1">10195132</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nature. 1999 Apr 22;398(6729):704-8</RefSource>
+                <PMID Version="1">10227292</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Neurosci. 1999 Aug 1;19(15):6610-4</RefSource>
+                <PMID Version="1">10414988</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Exp Neurol. 1963 Jan;7:65-75</RefSource>
+                <PMID Version="1">14017412</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Neurobiol Learn Mem. 2005 Mar;83(2):125-33</RefSource>
+                <PMID Version="1">15721796</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Synapse. 2005 May;56(2):74-83</RefSource>
+                <PMID Version="1">15729742</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Neuron. 2005 Apr 21;46(2):321-31</RefSource>
+                <PMID Version="1">15848809</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Neurophysiol. 2005 Oct;94(4):2457-71</RefSource>
+                <PMID Version="1">15958600</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Eur J Neurosci. 2005 Nov;22(9):2341-6</RefSource>
+                <PMID Version="1">16262672</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Neurosci. 2005 Dec 14;25(50):11757-67</RefSource>
+                <PMID Version="1">16354934</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Neurosci. 2008 May 7;28(19):5088-98</RefSource>
+                <PMID Version="1">18463262</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nature. 2008 Jul 17;454(7202):340-4</RefSource>
+                <PMID Version="1">18563088</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Neurosci. 2008 Aug 20;28(34):8590-603</RefSource>
+                <PMID Version="1">18716218</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Neuron. 2008 Aug 28;59(4):648-61</RefSource>
+                <PMID Version="1">18760700</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nature. 2008 Sep 11;455(7210):227-31</RefSource>
+                <PMID Version="1">18690210</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Neuroimage. 2008 Dec;43(4):748-55</RefSource>
+                <PMID Version="1">18793731</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Learn Mem. 2009 May;16(5):279-88</RefSource>
+                <PMID Version="1">19380710</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Curr Opin Neurobiol. 2009 Feb;19(1):84-91</RefSource>
+                <PMID Version="1">19427193</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Neurosci. 2009 Jul 15;29(28):8965-76</RefSource>
+                <PMID Version="1">19605634</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Neurosci Biobehav Rev. 2010 Jan;34(1):50-72</RefSource>
+                <PMID Version="1">19615404</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Rev Neurosci. 2009 Dec;10(12):885-92</RefSource>
+                <PMID Version="1">19904278</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Neurophysiol. 2009 Dec;102(6):3352-64</RefSource>
+                <PMID Version="1">19776363</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Neurosci. 2010 Jan 6;30(1):116-25</RefSource>
+                <PMID Version="1">20053894</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Eur J Neurosci. 2009 Nov;30(10):1941-6</RefSource>
+                <PMID Version="1">19912335</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Eur J Neurosci. 2010 Apr;31(8):1492-500</RefSource>
+                <PMID Version="1">20384776</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Neurophysiol. 2010 Aug;104(2):587-95</RefSource>
+                <PMID Version="1">20554849</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Neuron. 2010 Nov 18;68(4):789-800</RefSource>
+                <PMID Version="1">21092866</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Trends Cogn Sci. 2011 Feb;15(2):56-67</RefSource>
+                <PMID Version="1">21216655</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Neurosci. 2011 Feb 16;31(7):2700-5</RefSource>
+                <PMID Version="1">21325538</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Neurosci. 2011 May 4;31(18):6820-30</RefSource>
+                <PMID Version="1">21543612</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Annu Rev Neurosci. 2011;34:333-59</RefSource>
+                <PMID Version="1">21456961</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Proc Biol Sci. 2011 Sep 7;278(1718):2553-61</RefSource>
+                <PMID Version="1">21653585</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Ann N Y Acad Sci. 2011 Dec;1239:109-17</RefSource>
+                <PMID Version="1">22145880</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Ann N Y Acad Sci. 2011 Dec;1239:130-7</RefSource>
+                <PMID Version="1">22145882</PMID>
+            </CommentsCorrections>
+        </CommentsCorrectionsList>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D000200">Action Potentials</DescriptorName>
+                <QualifierName MajorTopicYN="N" UI="Q000187">drug effects</QualifierName>
+                <QualifierName MajorTopicYN="N" UI="Q000502">physiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D000818">Animals</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D003216">Conditioning, Operant</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D003463">Cues</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D004193">Discrimination Learning</DescriptorName>
+                <QualifierName MajorTopicYN="N" UI="Q000502">physiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D005108">Extinction, Psychological</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D007266">Inhibition (Psychology)</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D008297">Male</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D009042">Motivation</DescriptorName>
+                <QualifierName MajorTopicYN="Y" UI="Q000502">physiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D009474">Neurons</DescriptorName>
+                <QualifierName MajorTopicYN="Y" UI="Q000502">physiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D017397">Prefrontal Cortex</DescriptorName>
+                <QualifierName MajorTopicYN="Y" UI="Q000166">cytology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D051381">Rats</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D020318">Rats, Long-Evans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="Y" UI="D012201">Reward</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D013395">Sucrose</DescriptorName>
+                <QualifierName MajorTopicYN="N" UI="Q000008">administration &amp; dosage</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D013997">Time Factors</DescriptorName>
+            </MeshHeading>
+        </MeshHeadingList>
+        <OtherID Source="NLM">PMC4115135</OtherID>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">motivation</Keyword>
+            <Keyword MajorTopicYN="N">orbital cortex</Keyword>
+            <Keyword MajorTopicYN="N">prefrontal cortex</Keyword>
+            <Keyword MajorTopicYN="N">response-inhibition</Keyword>
+            <Keyword MajorTopicYN="N">salience</Keyword>
+            <Keyword MajorTopicYN="N">single-neuron</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2014</Year>
+                <Month>8</Month>
+                <Day>1</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2014</Year>
+                <Month>8</Month>
+                <Day>1</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2014</Year>
+                <Month>9</Month>
+                <Day>30</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pii">34/31/10234</ArticleId>
+            <ArticleId IdType="doi">10.1523/JNEUROSCI.3216-13.2014</ArticleId>
+            <ArticleId IdType="pubmed">25080585</ArticleId>
+            <ArticleId IdType="pmc">PMC4115135</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

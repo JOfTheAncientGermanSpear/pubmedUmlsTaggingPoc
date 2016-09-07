@@ -1,0 +1,301 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2016//EN" "http://www.ncbi.nlm.nih.gov/corehtml/query/DTD/pubmed_160101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="MEDLINE">
+        <PMID Version="1">23425628</PMID>
+        <DateCreated>
+            <Year>2013</Year>
+            <Month>04</Month>
+            <Day>02</Day>
+        </DateCreated>
+        <DateCompleted>
+            <Year>2013</Year>
+            <Month>05</Month>
+            <Day>28</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2015</Year>
+            <Month>02</Month>
+            <Day>19</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1476-6256</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>177</Volume>
+                    <Issue>7</Issue>
+                    <PubDate>
+                        <Year>2013</Year>
+                        <Month>Apr</Month>
+                        <Day>1</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>American journal of epidemiology</Title>
+                <ISOAbbreviation>Am. J. Epidemiol.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Invited commentary: the etiology of lung cancer in men compared with women.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>613-6</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1093/aje/kws444</ELocationID>
+            <Abstract>
+                <AbstractText>Lung cancer is the leading cause of cancer death among women in the United States and other Western nations. The predominant cause of lung cancer in women is active cigarette smoking. Secondhand exposure to tobacco smoke is another important cause. The hypothesis that women are more susceptible than men to smoking-induced lung cancer has not been supported by the preponderance of current data, as noted by De Matteis et al. (Am J Epidemiol. 2013;177(7):601-612) in the accompanying article. However, aspects of lung cancer in men and women continue to indicate potential male-female differences in the etiology of lung cancer, based on several observations: 1) among never smokers, women have higher lung cancer incidence rates than men; 2) there is evidence that estrogen may contribute to lung cancer risk and progression; and 3) there are different clinical characteristics of lung cancer in women compared with men, such as the higher percentage of adenocarcinomas in never smokers, the greater prevalence of epidermal growth factor receptor gene (EGFR) mutations in adenocarcinomas among never smokers, and better prognosis. Considered in total, observations such as these offer enticing clues that, even amid cigarette smoking and other commonalities in the etiology of lung cancer in men and women, distinct differences may remain to be delineated that could potentially be of scientific and clinical relevance.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Alberg</LastName>
+                    <ForeName>Anthony J</ForeName>
+                    <Initials>AJ</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Hollings Cancer Center, Department of Medicine, Medical University of South Carolina, Charleston, SC 29425, USA. alberg@musc.edu</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Wallace</LastName>
+                    <ForeName>Kristin</ForeName>
+                    <Initials>K</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Silvestri</LastName>
+                    <ForeName>Gerard A</ForeName>
+                    <Initials>GA</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Brock</LastName>
+                    <ForeName>Malcolm V</ForeName>
+                    <Initials>MV</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <GrantList CompleteYN="Y">
+                <Grant>
+                    <GrantID>3P50 CA058184</GrantID>
+                    <Acronym>CA</Acronym>
+                    <Agency>NCI NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>K07 CA151864</GrantID>
+                    <Acronym>CA</Acronym>
+                    <Agency>NCI NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>K07CA151864</GrantID>
+                    <Acronym>CA</Acronym>
+                    <Agency>NCI NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>P30 CA138313</GrantID>
+                    <Acronym>CA</Acronym>
+                    <Agency>NCI NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>P30 CA138313</GrantID>
+                    <Acronym>CA</Acronym>
+                    <Agency>NCI NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>P50 CA058184</GrantID>
+                    <Acronym>CA</Acronym>
+                    <Agency>NCI NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>UL1 RR029882</GrantID>
+                    <Acronym>RR</Acronym>
+                    <Agency>NCRR NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+            </GrantList>
+            <PublicationTypeList>
+                <PublicationType UI="D016420">Comment</PublicationType>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D052061">Research Support, N.I.H., Extramural</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2013</Year>
+                <Month>02</Month>
+                <Day>20</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>Am J Epidemiol</MedlineTA>
+            <NlmUniqueID>7910653</NlmUniqueID>
+            <ISSNLinking>0002-9262</ISSNLinking>
+        </MedlineJournalInfo>
+        <CitationSubset>IM</CitationSubset>
+        <CommentsCorrectionsList>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Prev Med. 1996 Mar-Apr;25(2):91-9</RefSource>
+                <PMID Version="1">8860273</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Epidemiol Rev. 1987;9:175-93</RefSource>
+                <PMID Version="1">3315716</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Clin Oncol. 2007 Feb 10;25(5):472-8</RefSource>
+                <PMID Version="1">17290054</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>MMWR Morb Mortal Wkly Rep. 2007 Apr 6;56(13):301-4</RefSource>
+                <PMID Version="1">17410082</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>PLoS Med. 2008 Sep 30;5(9):e185</RefSource>
+                <PMID Version="1">18788891</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Semin Oncol. 2009 Dec;36(6):524-31</RefSource>
+                <PMID Version="1">19995644</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Maturitas. 2010 Mar;65(3):198-204</RefSource>
+                <PMID Version="1">20031346</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Biomed Pharmacother. 2010 Feb;64(2):88-92</RefSource>
+                <PMID Version="1">20005069</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Clin Oncol. 2010 Mar 20;28(9):1540-6</RefSource>
+                <PMID Version="1">20159813</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cancer Prev Res (Phila). 2010 Jun;3(6):692-5</RefSource>
+                <PMID Version="1">20515955</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>MMWR Morb Mortal Wkly Rep. 2010 Sep 10;59(35):1141-6</RefSource>
+                <PMID Version="1">20829748</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Natl Cancer Inst. 2010 Sep 22;102(18):1413-21</RefSource>
+                <PMID Version="1">20709992</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Environ Health Perspect. 2010 Dec;118(12):1743-7</RefSource>
+                <PMID Version="1">20846923</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Clin Cancer Res. 2011 Jan 1;17(1):39-45</RefSource>
+                <PMID Version="1">21059816</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Natl Cancer Inst. 2011 May 4;103(9):714-36</RefSource>
+                <PMID Version="1">21454908</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Occup Environ Med. 2011 Nov;53(11):1262-7</RefSource>
+                <PMID Version="1">22068130</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Am J Respir Crit Care Med. 2011 Dec 15;184(12):1374-81</RefSource>
+                <PMID Version="1">21980033</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Environ Mol Mutagen. 2012 Jan;53(1):78-82</RefSource>
+                <PMID Version="1">22223435</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Thorac Oncol. 2012 Mar;7(3):485-95</RefSource>
+                <PMID Version="1">22258476</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Int J Cancer. 2012 Jul 15;131(2):265-75</RefSource>
+                <PMID Version="1">22322343</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Am J Epidemiol. 2013 Apr 1;177(7):601-12</RefSource>
+                <PMID Version="1">23425629</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>MMWR Morb Mortal Wkly Rep. 1999 Nov 19;48(45):1034-9</RefSource>
+                <PMID Version="1">10599588</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Lancet Oncol. 2001 Aug;2(8):506-13</RefSource>
+                <PMID Version="1">11905727</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Chest. 2003 Jan;123(1 Suppl):21S-49S</RefSource>
+                <PMID Version="1">12527563</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Mol Endocrinol. 2003 Mar;17(3):309-17</RefSource>
+                <PMID Version="1">12554774</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="CommentOn">
+                <RefSource>Am J Epidemiol. 2013 Apr 1;177(7):601-12</RefSource>
+                <PMID Version="1">23425629</PMID>
+            </CommentsCorrections>
+        </CommentsCorrectionsList>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D005260">Female</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D008175">Lung Neoplasms</DescriptorName>
+                <QualifierName MajorTopicYN="Y" UI="Q000139">chemically induced</QualifierName>
+                <QualifierName MajorTopicYN="Y" UI="Q000453">epidemiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D008297">Male</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D012907">Smoking</DescriptorName>
+                <QualifierName MajorTopicYN="Y" UI="Q000009">adverse effects</QualifierName>
+                <QualifierName MajorTopicYN="Y" UI="Q000453">epidemiology</QualifierName>
+            </MeshHeading>
+        </MeshHeadingList>
+        <OtherID Source="NLM">PMC3657534</OtherID>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="aheadofprint">
+                <Year>2013</Year>
+                <Month>2</Month>
+                <Day>20</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2013</Year>
+                <Month>2</Month>
+                <Day>22</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2013</Year>
+                <Month>2</Month>
+                <Day>22</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2013</Year>
+                <Month>5</Month>
+                <Day>29</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pii">kws444</ArticleId>
+            <ArticleId IdType="doi">10.1093/aje/kws444</ArticleId>
+            <ArticleId IdType="pubmed">23425628</ArticleId>
+            <ArticleId IdType="pmc">PMC3657534</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

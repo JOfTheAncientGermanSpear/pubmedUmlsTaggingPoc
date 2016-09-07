@@ -1,0 +1,424 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2016//EN" "http://www.ncbi.nlm.nih.gov/corehtml/query/DTD/pubmed_160101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="MEDLINE">
+        <PMID Version="1">24620850</PMID>
+        <DateCreated>
+            <Year>2014</Year>
+            <Month>04</Month>
+            <Day>17</Day>
+        </DateCreated>
+        <DateCompleted>
+            <Year>2015</Year>
+            <Month>02</Month>
+            <Day>12</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2015</Year>
+            <Month>05</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1557-7708</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>20</Volume>
+                    <Issue>4</Issue>
+                    <PubDate>
+                        <Year>2014</Year>
+                        <Month>Apr</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Journal of alternative and complementary medicine (New York, N.Y.)</Title>
+                <ISOAbbreviation>J Altern Complement Med</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Effects of Hatha yoga on blood pressure, salivary α-amylase, and cortisol function among normotensive and prehypertensive youth.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>241-50</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1089/acm.2013.0139</ELocationID>
+            <Abstract>
+                <AbstractText Label="OBJECTIVE" NlmCategory="OBJECTIVE">Evidence is accumulating, predominantly among clinical trials in adults, that yoga improves blood pressure (BP) control, with downregulation of the hypothalamic-pituitary-adrenal (HPA) axis and the sympathetic nervous system (SNS) projected as underlying mechanisms. This pilot study assessed whether Hatha yoga has the potential to reduce BP among youth and whether dampening of the SNS and/or HPA activity is a likely pathway of change.</AbstractText>
+                <AbstractText Label="DESIGN" NlmCategory="METHODS">Thirty-one seventh graders were randomly assigned to a Hatha yoga program (HYP) or attention control (AC) music or art class. Baseline and 3-month evaluations included resting BP; overnight urine samples; and saliva collected at bedtime, upon awakening, and at 30 and 60 minutes after awakening for α-amylase and cortisol assays.</AbstractText>
+                <AbstractText Label="RESULTS" NlmCategory="RESULTS">Twenty-eight (14 in the HYP group and 14 in the AC group) students were assessed both before and after the intervention. BP changes from pre- to post-intervention were -3.0/-2.0 mmHg for the HYP group and -0.07/-0.79 mmHg for the AC group (p=0.30 and 0.57, respectively). Changes in systolic BP (SBP)/diastolic BP (DBP) for the prehypertensive (75th-94th percentiles for SBP) subgroup analyses were -10.75/-8.25 mmHg for the HYP group (n=4) versus 1.8/1.0 mmHg for the AC group (n=5) (p for SBP=0.02; p for DBP=0.09). Although no statistically significant group differences were observed with changes in SNS or HPA awakening curves (area under curve for α-amylase and cortisol, respectively), a small to moderate effect size was seen favoring a reduction of α-amylase activation for the HYP group (Cohen d=0.34; prehypertensive d=0.20).</AbstractText>
+                <AbstractText Label="CONCLUSIONS" NlmCategory="CONCLUSIONS">A school-based Hatha yoga program demonstrated potential to decrease resting BP, particularly among prehypertensive youth. Reduced SNS drive may be an underlying neurohormonal pathway beneficially affected by the program. A large-scale efficacy/effectiveness randomized clinical trial is warranted.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Sieverdes</LastName>
+                    <ForeName>John C</ForeName>
+                    <Initials>JC</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>1 Medical University of South Carolina , Technology Applications Center for Healthful Lifestyles, Charleston, SC.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Mueller</LastName>
+                    <ForeName>Martina</ForeName>
+                    <Initials>M</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Gregoski</LastName>
+                    <ForeName>Mathew J</ForeName>
+                    <Initials>MJ</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Brunner-Jackson</LastName>
+                    <ForeName>Brenda</ForeName>
+                    <Initials>B</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>McQuade</LastName>
+                    <ForeName>Lisa</ForeName>
+                    <Initials>L</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Matthews</LastName>
+                    <ForeName>Cameron</ForeName>
+                    <Initials>C</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Treiber</LastName>
+                    <ForeName>Frank A</ForeName>
+                    <Initials>FA</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <GrantList CompleteYN="Y">
+                <Grant>
+                    <GrantID>UL1 RR029882</GrantID>
+                    <Acronym>RR</Acronym>
+                    <Agency>NCRR NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>UL1RR029882</GrantID>
+                    <Acronym>RR</Acronym>
+                    <Agency>NCRR NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+            </GrantList>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D016449">Randomized Controlled Trial</PublicationType>
+                <PublicationType UI="D052061">Research Support, N.I.H., Extramural</PublicationType>
+                <PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2014</Year>
+                <Month>03</Month>
+                <Day>12</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>J Altern Complement Med</MedlineTA>
+            <NlmUniqueID>9508124</NlmUniqueID>
+            <ISSNLinking>1075-5535</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>EC 3.2.1.1</RegistryNumber>
+                <NameOfSubstance UI="D055291">Salivary alpha-Amylases</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>WI4X0X7BPJ</RegistryNumber>
+                <NameOfSubstance UI="D006854">Hydrocortisone</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <CommentsCorrectionsList>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Ann N Y Acad Sci. 2007 Mar;1098:122-44</RefSource>
+                <PMID Version="1">17332070</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cogn Behav Ther. 2006;35(1):3-10</RefSource>
+                <PMID Version="1">16500773</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Pediatr Phys Ther. 2008 Spring;20(1):66-80</RefSource>
+                <PMID Version="1">18300936</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Am J Hypertens. 2008 Mar;21(3):310-6</RefSource>
+                <PMID Version="1">18311126</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Ethn Dis. 2008 Winter;18(1):1-5</RefSource>
+                <PMID Version="1">18447091</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Curr Hypertens Rep. 2007 Dec;9(6):520-8</RefSource>
+                <PMID Version="1">18350109</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Hum Hypertens. 2008 Dec;22(12):809-20</RefSource>
+                <PMID Version="1">18548088</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Psychoneuroendocrinology. 2008 Nov;33(10):1313-21</RefSource>
+                <PMID Version="1">18757137</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Hum Hypertens. 2009 Jan;23(1):12-9</RefSource>
+                <PMID Version="1">18615099</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Altern Complement Med. 2009 Jul;15(7):711-7</RefSource>
+                <PMID Version="1">19534616</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Acad Pediatr. 2009 Jul-Aug;9(4):212-220.e1-9</RefSource>
+                <PMID Version="1">19608122</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Pediatr Nurs. 2009 Sep-Oct;35(5):277-83, 295</RefSource>
+                <PMID Version="1">19916343</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Am J Hypertens. 2009 Dec;22(12):1326-31</RefSource>
+                <PMID Version="1">19798037</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Altern Complement Med. 2010 Jan;16(1):3-12</RefSource>
+                <PMID Version="1">20105062</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Altern Complement Med. 2010 Oct;16(10):1039-45</RefSource>
+                <PMID Version="1">20954960</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Dtsch Arztebl Int. 2010 Dec;107(49):866-73</RefSource>
+                <PMID Version="1">21191547</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Circulation. 2011 Feb 1;123(4):e18-e209</RefSource>
+                <PMID Version="1">21160056</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Int J Psychophysiol. 2011 Jul;81(1):31-7</RefSource>
+                <PMID Version="1">21515315</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Physiol Behav. 2012 Apr 12;106(1):65-72</RefSource>
+                <PMID Version="1">22019784</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Holist Nurs Pract. 2012 May-Jun;26(3):137-41</RefSource>
+                <PMID Version="1">22517349</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Psychosom Med. 2012 May;74(4):418-31</RefSource>
+                <PMID Version="1">22582339</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Am Coll Cardiol. 2012 Aug 14;60(7):599-606</RefSource>
+                <PMID Version="1">22796254</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Adolesc Health. 2012 Dec;51(6):623-8</RefSource>
+                <PMID Version="1">23174474</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Altern Complement Med. 2013 Jan;19(1):17-9</RefSource>
+                <PMID Version="1">22967280</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Ann Intern Med. 2001 Jan 2;134(1):1-11</RefSource>
+                <PMID Version="1">11187414</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Psychosom Res. 2001 Oct;51(4):597-605</RefSource>
+                <PMID Version="1">11595248</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>N Engl J Med. 2001 Nov 1;345(18):1291-7</RefSource>
+                <PMID Version="1">11794147</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Ann Intern Med. 2001 Dec 18;135(12):1019-28</RefSource>
+                <PMID Version="1">11747380</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Psychosom Med. 2002 Sep-Oct;64(5):758-66</RefSource>
+                <PMID Version="1">12271106</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Biol Psychol. 2002 Oct;61(1-2):73-95</RefSource>
+                <PMID Version="1">12385670</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Pediatr. 2002 Dec;141(6):770-9</RefSource>
+                <PMID Version="1">12461492</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>JAMA. 2003 Apr 23-30;289(16):2083-93</RefSource>
+                <PMID Version="1">12709466</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>JAMA. 2003 May 21;289(19):2560-72</RefSource>
+                <PMID Version="1">12748199</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Hypertension. 2003 Oct;42(4):453-6</RefSource>
+                <PMID Version="1">12975387</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Psychosom Med. 2003 Nov-Dec;65(6):1003-11</RefSource>
+                <PMID Version="1">14645779</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Am J Hypertens. 2004 Apr;17(4):366-9</RefSource>
+                <PMID Version="1">15062892</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>JAMA. 2004 May 5;291(17):2107-13</RefSource>
+                <PMID Version="1">15126439</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Pediatrics. 2004 Aug;114(2 Suppl 4th Report):555-76</RefSource>
+                <PMID Version="1">15286277</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Circ Res. 1975 Jun;36(6 Suppl 1):194-8</RefSource>
+                <PMID Version="1">1132079</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Lancet. 1975 Jul 19;2(7925):93-5</RefSource>
+                <PMID Version="1">49737</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Indian Heart J. 1983 Jan-Feb;35(1):39-45</RefSource>
+                <PMID Version="1">6343229</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Acta Physiol Scand. 1985 Oct;125(2):323-34</RefSource>
+                <PMID Version="1">2866664</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Cardiovasc Pharmacol. 1987;10 Suppl 2:S128-34; discussion S135</RefSource>
+                <PMID Version="1">2481162</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Hypertension. 1992 Jun;19(6 Pt 2):621-7</RefSource>
+                <PMID Version="1">1592458</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Hypertension. 1993 Jul;22(1):84-9</RefSource>
+                <PMID Version="1">8319996</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Am J Hypertens. 1995 Jul;8(7):657-65</RefSource>
+                <PMID Version="1">7546488</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Indian J Physiol Pharmacol. 2000 Apr;44(2):207-10</RefSource>
+                <PMID Version="1">10846637</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Altern Complement Med. 1995 Fall;1(3):263-83</RefSource>
+                <PMID Version="1">9395623</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Am J Hypertens. 1996 Nov;9(11):113S-120S</RefSource>
+                <PMID Version="1">8931844</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cardiovasc Toxicol. 2005;5(2):109-32</RefSource>
+                <PMID Version="1">16046788</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Int J Psychophysiol. 2005 May;56(2):185-97</RefSource>
+                <PMID Version="1">15804452</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Psychosom Med. 2004 Nov-Dec;66(6):909-14</RefSource>
+                <PMID Version="1">15564357</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Am Board Fam Pract. 2005 Nov-Dec;18(6):491-519</RefSource>
+                <PMID Version="1">16322413</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Clin Hypertens (Greenwich). 2007 Oct;9(10):800-1</RefSource>
+                <PMID Version="1">17917509</PMID>
+            </CommentsCorrections>
+        </CommentsCorrectionsList>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D001794">Blood Pressure</DescriptorName>
+                <QualifierName MajorTopicYN="Y" UI="Q000502">physiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D002648">Child</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D005260">Female</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D006854">Hydrocortisone</DescriptorName>
+                <QualifierName MajorTopicYN="Y" UI="Q000097">blood</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D008297">Male</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D058246">Prehypertension</DescriptorName>
+                <QualifierName MajorTopicYN="N" UI="Q000097">blood</QualifierName>
+                <QualifierName MajorTopicYN="N" UI="Q000503">physiopathology</QualifierName>
+                <QualifierName MajorTopicYN="Y" UI="Q000628">therapy</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D055291">Salivary alpha-Amylases</DescriptorName>
+                <QualifierName MajorTopicYN="Y" UI="Q000032">analysis</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="Y" UI="D015013">Yoga</DescriptorName>
+            </MeshHeading>
+        </MeshHeadingList>
+        <OtherID Source="NLM">PMC3994913</OtherID>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="aheadofprint">
+                <Year>2014</Year>
+                <Month>3</Month>
+                <Day>12</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2014</Year>
+                <Month>3</Month>
+                <Day>14</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2014</Year>
+                <Month>3</Month>
+                <Day>14</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2015</Year>
+                <Month>2</Month>
+                <Day>13</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="doi">10.1089/acm.2013.0139</ArticleId>
+            <ArticleId IdType="pubmed">24620850</ArticleId>
+            <ArticleId IdType="pmc">PMC3994913</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

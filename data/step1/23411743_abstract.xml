@@ -1,0 +1,385 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2016//EN" "http://www.ncbi.nlm.nih.gov/corehtml/query/DTD/pubmed_160101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="MEDLINE">
+        <PMID Version="1">23411743</PMID>
+        <DateCreated>
+            <Year>2013</Year>
+            <Month>04</Month>
+            <Day>16</Day>
+        </DateCreated>
+        <DateCompleted>
+            <Year>2013</Year>
+            <Month>06</Month>
+            <Day>06</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2016</Year>
+            <Month>03</Month>
+            <Day>04</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Electronic">1534-6080</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>95</Volume>
+                    <Issue>8</Issue>
+                    <PubDate>
+                        <Year>2013</Year>
+                        <Month>Apr</Month>
+                        <Day>27</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Transplantation</Title>
+                <ISOAbbreviation>Transplantation</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Prior surgery determines islet yield and insulin requirement in patients with chronic pancreatitis.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>1051-7</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1097/TP.0b013e3182845fbb</ELocationID>
+            <Abstract>
+                <AbstractText Label="BACKGROUND" NlmCategory="BACKGROUND">Total pancreatectomy with islet autotransplantation (TP-IAT) is safe and effective in the management of intractable pain associated with chronic pancreatitis (CP). Prevention of pancreatogenic diabetes after TP-IAT is related to islet yield from the diseased pancreas. The purpose of this study is to compare islet yield and insulin requirement in the 76 patients who underwent different surgical procedures before TP-IAT at the Medical University of South Carolina between 2009 and 2011.</AbstractText>
+                <AbstractText Label="METHODS" NlmCategory="METHODS">Patients were grouped into four categories based on the operation they had before TP-IAT: transduodenal sphincteroplasty/no prior surgery (n=50), Whipple or Beger procedure (n=14), distal pancreatectomy (n=8), or lateral pancreaticojejunostomy (n=4). Islets were harvested from pancreases of those patients at our current good manufacturing practice facility. Total unpurified islets were transplanted into patients via portal vein infusion. Pancreatic fibrosis, islet yield, cell viability, and insulin requirement were measured.</AbstractText>
+                <AbstractText Label="RESULTS" NlmCategory="RESULTS">The pancreases of transduodenal sphincteroplasty/no prior surgery and Whipple or Beger procedure patients were less fibrotic and had higher islet yield compared with those who had distal pancreatectomy or lateral pancreaticojejunostomy. Higher islet yield also correlated with a greater diabetes-free rate and a lesser insulin requirement at the following intervals: preoperative, postoperative, and 6 months after TP-IAT.</AbstractText>
+                <AbstractText Label="CONCLUSIONS" NlmCategory="CONCLUSIONS">Prior surgery is strongly correlated with the extent of pancreatic fibrosis, islet yield, and insulin requirements in CP patients undergoing TP-IAT. The history of prior pancreatic resection and drainage procedures may be used to predict postoperative islet function and help to determine the optimal timing for TP-IAT in CP patients.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Wang</LastName>
+                    <ForeName>Hongjun</ForeName>
+                    <Initials>H</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Surgery, Medical University of South Carolina, Charleston, SC 29425, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Desai</LastName>
+                    <ForeName>Krupa D</ForeName>
+                    <Initials>KD</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Dong</LastName>
+                    <ForeName>Huansheng</ForeName>
+                    <Initials>H</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Owzarski</LastName>
+                    <ForeName>Stefanie</ForeName>
+                    <Initials>S</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Romagnuolo</LastName>
+                    <ForeName>Joseph</ForeName>
+                    <Initials>J</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Morgan</LastName>
+                    <ForeName>Katherine A</ForeName>
+                    <Initials>KA</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Adams</LastName>
+                    <ForeName>David B</ForeName>
+                    <Initials>DB</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <GrantList CompleteYN="Y">
+                <Grant>
+                    <GrantID>UL1 RR029882</GrantID>
+                    <Acronym>RR</Acronym>
+                    <Agency>NCRR NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>UL1RR029882</GrantID>
+                    <Acronym>RR</Acronym>
+                    <Agency>NCRR NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+            </GrantList>
+            <PublicationTypeList>
+                <PublicationType UI="D003160">Comparative Study</PublicationType>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D052061">Research Support, N.I.H., Extramural</PublicationType>
+                <PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>Transplantation</MedlineTA>
+            <NlmUniqueID>0132144</NlmUniqueID>
+            <ISSNLinking>0041-1337</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D007328">Insulin</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <CommentsCorrectionsList>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Gastrointest Surg. 2009 May;13(5):1004-8</RefSource>
+                <PMID Version="1">18622654</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Am Coll Surg. 2004 Apr;198(4):559-67; discussion 568-9</RefSource>
+                <PMID Version="1">15051008</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Pancreas. 2010 Jan;39(1):57-63</RefSource>
+                <PMID Version="1">19745778</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Gastrointest Surg. 2010 May;14(5):768-72</RefSource>
+                <PMID Version="1">20224981</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Best Pract Res Clin Gastroenterol. 2010 Jun;24(3):323-35</RefSource>
+                <PMID Version="1">20510832</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Pediatr Diabetes. 2010 Jun;11(4):227-34</RefSource>
+                <PMID Version="1">19708905</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Dig Dis. 2010;28(2):309</RefSource>
+                <PMID Version="1">20814203</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Langenbecks Arch Surg. 2011 Feb;396(2):139-49</RefSource>
+                <PMID Version="1">21174215</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Gastrointest Surg. 2012 Jan;16(1):129-33; discussion 133-4</RefSource>
+                <PMID Version="1">22042566</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Gastroenterology. 2011 Nov;141(5):1690-5</RefSource>
+                <PMID Version="1">21843494</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Pancreas. 2011 Mar;40(2):193-9</RefSource>
+                <PMID Version="1">21404456</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Am Coll Surg. 2012 Apr;214(4):409-24; discussion 424-6</RefSource>
+                <PMID Version="1">22397977</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Pancreatology. 2012 Jan-Feb;12(1):71-3</RefSource>
+                <PMID Version="1">22487479</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>JSLS. 2004 Jul-Sep;8(3):275-7</RefSource>
+                <PMID Version="1">15347118</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Ann Surg. 1981 Sep;194(3):313-20</RefSource>
+                <PMID Version="1">7271348</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Surg Gynecol Obstet. 1985 Apr;160(4):339-46</RefSource>
+                <PMID Version="1">2580360</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Diabetes. 1988 Apr;37(4):413-20</RefSource>
+                <PMID Version="1">3288530</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Scand J Gastroenterol. 1990 May;25(5):462-6</RefSource>
+                <PMID Version="1">2359973</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Hepatogastroenterology. 1990 Jun;37(3):307-15</RefSource>
+                <PMID Version="1">2115493</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Surgery. 1991 Aug;110(2):427-37; discussion 437-9</RefSource>
+                <PMID Version="1">1858051</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Chirurgie. 1991;117(4):251-6; discussion 257</RefSource>
+                <PMID Version="1">1817818</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Gastroenterology. 1996 Jul;111(1):224-31</RefSource>
+                <PMID Version="1">8698203</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Am Coll Surg. 2004 Dec;199(6):994-5</RefSource>
+                <PMID Version="1">15555986</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Pancreatology. 2005;5(6):562-9</RefSource>
+                <PMID Version="1">16110254</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Gastrointest Surg. 2006 Apr;10(4):504-10</RefSource>
+                <PMID Version="1">16627215</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Gastrointest Surg. 2007 Feb;11(2):209-16</RefSource>
+                <PMID Version="1">17390175</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Gastrointest Surg. 2007 Aug;11(8):949-59; discussion 959-60</RefSource>
+                <PMID Version="1">17534689</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Surg Clin North Am. 2007 Dec;87(6):1477-501, x</RefSource>
+                <PMID Version="1">18053843</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Am Coll Surg. 2008 May;206(5):908-14; discussion 914-7</RefSource>
+                <PMID Version="1">18471721</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Am Surg. 2008 Jun;74(6):530-6; discussion 536-7</RefSource>
+                <PMID Version="1">18556996</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Pediatr Gastroenterol Nutr. 2008 Jul;47(1):37-44</RefSource>
+                <PMID Version="1">18607267</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Am Surg. 2008 Aug;74(8):735-8</RefSource>
+                <PMID Version="1">18705576</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Pancreas. 2008 Oct;37(3):282-7</RefSource>
+                <PMID Version="1">18815550</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Am Surg. 2012 Aug;78(8):893-6</RefSource>
+                <PMID Version="1">22856498</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Clin Anesth. 1999 Nov;11(7):576-82</RefSource>
+                <PMID Version="1">10624643</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Curr Gastroenterol Rep. 2000 Apr;2(2):146-51</RefSource>
+                <PMID Version="1">10981016</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Diabetes. 2001 Jan;50(1):47-50</RefSource>
+                <PMID Version="1">11147793</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Ann Surg. 2002 Nov;236(5):612-8</RefSource>
+                <PMID Version="1">12409667</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Expert Opin Biol Ther. 2003 Apr;3(2):207-14</RefSource>
+                <PMID Version="1">12662136</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Transplantation. 2003 Jul 15;76(1):92-8</RefSource>
+                <PMID Version="1">12865792</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Pancreas. 2004 Mar;28(2):174-80</RefSource>
+                <PMID Version="1">15028950</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Am J Transplant. 2009 Oct;9(10):2383-91</RefSource>
+                <PMID Version="1">19663895</PMID>
+            </CommentsCorrections>
+        </CommentsCorrectionsList>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D000328">Adult</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D007328">Insulin</DescriptorName>
+                <QualifierName MajorTopicYN="Y" UI="Q000008">administration &amp; dosage</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D016381">Islets of Langerhans Transplantation</DescriptorName>
+                <QualifierName MajorTopicYN="Y" UI="Q000379">methods</QualifierName>
+                <QualifierName MajorTopicYN="N" UI="Q000473">pathology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D008875">Middle Aged</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D010148">Pain, Intractable</DescriptorName>
+                <QualifierName MajorTopicYN="N" UI="Q000601">surgery</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D010180">Pancreatectomy</DescriptorName>
+                <QualifierName MajorTopicYN="Y" UI="Q000379">methods</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D010193">Pancreaticojejunostomy</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D050500">Pancreatitis, Chronic</DescriptorName>
+                <QualifierName MajorTopicYN="Y" UI="Q000188">drug therapy</QualifierName>
+                <QualifierName MajorTopicYN="N" UI="Q000473">pathology</QualifierName>
+                <QualifierName MajorTopicYN="N" UI="Q000503">physiopathology</QualifierName>
+                <QualifierName MajorTopicYN="Y" UI="Q000601">surgery</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D012086">Reoperation</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D013105">Sphincterotomy, Transhepatic</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D020858">Tissue and Organ Harvesting</DescriptorName>
+                <QualifierName MajorTopicYN="N" UI="Q000379">methods</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D014182">Transplantation, Autologous</DescriptorName>
+                <QualifierName MajorTopicYN="N" UI="Q000379">methods</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D016896">Treatment Outcome</DescriptorName>
+            </MeshHeading>
+        </MeshHeadingList>
+        <OtherID Source="NLM">NIHMS437968</OtherID>
+        <OtherID Source="NLM">PMC4495575</OtherID>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2013</Year>
+                <Month>2</Month>
+                <Day>16</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2013</Year>
+                <Month>2</Month>
+                <Day>16</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2013</Year>
+                <Month>6</Month>
+                <Day>7</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="doi">10.1097/TP.0b013e3182845fbb</ArticleId>
+            <ArticleId IdType="pubmed">23411743</ArticleId>
+            <ArticleId IdType="pmc">PMC4495575</ArticleId>
+            <ArticleId IdType="mid">NIHMS437968</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

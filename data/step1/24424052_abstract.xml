@@ -1,0 +1,536 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2016//EN" "http://www.ncbi.nlm.nih.gov/corehtml/query/DTD/pubmed_160101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="MEDLINE">
+        <PMID Version="1">24424052</PMID>
+        <DateCreated>
+            <Year>2014</Year>
+            <Month>02</Month>
+            <Day>25</Day>
+        </DateCreated>
+        <DateCompleted>
+            <Year>2014</Year>
+            <Month>04</Month>
+            <Day>30</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2015</Year>
+            <Month>05</Month>
+            <Day>15</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1945-7170</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>155</Volume>
+                    <Issue>3</Issue>
+                    <PubDate>
+                        <Year>2014</Year>
+                        <Month>Mar</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Endocrinology</Title>
+                <ISOAbbreviation>Endocrinology</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Bilirubin increases insulin sensitivity in leptin-receptor deficient and diet-induced obese mice through suppression of ER stress and chronic inflammation.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>818-28</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1210/en.2013-1667</ELocationID>
+            <Abstract>
+                <AbstractText>Obesity-induced endoplasmic reticulum (ER) stress causes chronic inflammation in adipose tissue and steatosis in the liver, and eventually leads to insulin resistance and type 2 diabetes (T2D). The goal of this study was to understand the mechanisms by which administration of bilirubin, a powerful antioxidant, reduces hyperglycemia and ameliorates obesity in leptin-receptor-deficient (db/db) and diet-induced obese (DIO) mouse models. db/db or DIO mice were injected with bilirubin or vehicle ip. Blood glucose and body weight were measured. Activation of insulin-signaling pathways, expression of inflammatory cytokines, and ER stress markers were measured in skeletal muscle, adipose tissue, and liver of mice. Bilirubin administration significantly reduced hyperglycemia and increased insulin sensitivity in db/db mice. Bilirubin treatment increased protein kinase B (PKB/Akt) phosphorylation in skeletal muscle and suppressed expression of ER stress markers, including the 78-kDa glucose-regulated protein (GRP78), CCAAT/enhancer-binding protein (C/EBP) homologous protein, X box binding protein (XBP-1), and activating transcription factor 4 in db/db mice. In DIO mice, bilirubin treatment significantly reduced body weight and increased insulin sensitivity. Moreover, bilirubin suppressed macrophage infiltration and proinflammatory cytokine expression, including TNF-α, IL-1β, and monocyte chemoattractant protein-1, in adipose tissue. In liver and adipose tissue of DIO mice, bilirubin ameliorated hepatic steatosis and reduced expression of GRP78 and C/EBP homologous protein. These results demonstrate that bilirubin administration improves hyperglycemia and obesity by increasing insulin sensitivity in both genetically engineered and DIO mice models. Bilirubin or bilirubin-increasing drugs might be useful as an insulin sensitizer for the treatment of obesity-induced insulin resistance and type 2 diabetes based on its profound anti-ER stress and antiinflammatory properties.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Dong</LastName>
+                    <ForeName>Huansheng</ForeName>
+                    <Initials>H</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Surgery (H.D., X.Y., D.-s.K., A.S., K.D.C., D.B.A., H.Wa.), Medical University of South Carolina, Charleston, South Carolina 29425; Departments of Endocrinology, Diabetes, and Metabolism (H.H., Y.-B.K.) and Surgery (Y.Y., L.E.O.), Beth Israel Deaconess Medical Center, Harvard Medical School, Boston, Massachusetts 02215; Department of Medicine (H.Wu), Section of Endocrinology, Tulane University, New Orleans, Louisiana 70112 and Department of Kinesiology and Physiology (H.H.), East Carolina University, Greenville, North Carolina 27858.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Huang</LastName>
+                    <ForeName>Hu</ForeName>
+                    <Initials>H</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Yun</LastName>
+                    <ForeName>Xinxu</ForeName>
+                    <Initials>X</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Kim</LastName>
+                    <ForeName>Do-sung</ForeName>
+                    <Initials>DS</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Yue</LastName>
+                    <ForeName>Yinan</ForeName>
+                    <Initials>Y</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Wu</LastName>
+                    <ForeName>Hongju</ForeName>
+                    <Initials>H</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Sutter</LastName>
+                    <ForeName>Alton</ForeName>
+                    <Initials>A</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Chavin</LastName>
+                    <ForeName>Kenneth D</ForeName>
+                    <Initials>KD</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Otterbein</LastName>
+                    <ForeName>Leo E</ForeName>
+                    <Initials>LE</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Adams</LastName>
+                    <ForeName>David B</ForeName>
+                    <Initials>DB</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Kim</LastName>
+                    <ForeName>Young-Bum</ForeName>
+                    <Initials>YB</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Wang</LastName>
+                    <ForeName>Hongjun</ForeName>
+                    <Initials>H</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <GrantList CompleteYN="Y">
+                <Grant>
+                    <GrantID>1R01DK083567</GrantID>
+                    <Acronym>DK</Acronym>
+                    <Agency>NIDDK NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>DK097544</GrantID>
+                    <Acronym>DK</Acronym>
+                    <Agency>NIDDK NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>EB015744</GrantID>
+                    <Acronym>EB</Acronym>
+                    <Agency>NIBIB NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>R01 DK083567</GrantID>
+                    <Acronym>DK</Acronym>
+                    <Agency>NIDDK NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>UL1 RR029882</GrantID>
+                    <Acronym>RR</Acronym>
+                    <Agency>NCRR NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>UL1RR029882</GrantID>
+                    <Acronym>RR</Acronym>
+                    <Agency>NCRR NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+            </GrantList>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D052061">Research Support, N.I.H., Extramural</PublicationType>
+                <PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2014</Year>
+                <Month>01</Month>
+                <Day>01</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>Endocrinology</MedlineTA>
+            <NlmUniqueID>0375040</NlmUniqueID>
+            <ISSNLinking>0013-7227</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D007328">Insulin</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D020738">Leptin</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D008565">Membrane Proteins</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D054411">Receptors, Leptin</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>EC 1.14.99.3</RegistryNumber>
+                <NameOfSubstance UI="D051547">Heme Oxygenase-1</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>EC 1.14.99.3</RegistryNumber>
+                <NameOfSubstance UI="C496542">Hmox1 protein, mouse</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>RFM9X3LJ49</RegistryNumber>
+                <NameOfSubstance UI="D001663">Bilirubin</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>AIM</CitationSubset>
+        <CitationSubset>IM</CitationSubset>
+        <CommentsCorrectionsList>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Am J Pathol. 2013 Jun;182(6):2254-63</RefSource>
+                <PMID Version="1">23578384</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Diabetes. 2013 Jun;62(6):2095-105</RefSource>
+                <PMID Version="1">23349482</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Endocrinology. 2009 Jun;150(6):2627-36</RefSource>
+                <PMID Version="1">19228889</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Proteomics. 2009 Jun;9(12):3244-56</RefSource>
+                <PMID Version="1">19562798</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Int J Obes (Lond). 2009 Nov;33(11):1257-64</RefSource>
+                <PMID Version="1">19687791</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Endocrinology. 2010 Feb;151(2):549-60</RefSource>
+                <PMID Version="1">20016031</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Diabetes Res Clin Pract. 2010 Apr;88(1):103-10</RefSource>
+                <PMID Version="1">20083320</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Diabet Med. 2011 Jan;28(1):96-9</RefSource>
+                <PMID Version="1">21210542</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Arterioscler Thromb Vasc Biol. 2011 Feb;31(2):458-63</RefSource>
+                <PMID Version="1">21088253</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Hepatol. 2011 Apr;54(4):795-809</RefSource>
+                <PMID Version="1">21145844</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Diabetologia. 2011 Aug;54(8):2183-91</RefSource>
+                <PMID Version="1">21614569</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>PLoS One. 2012;7(2):e30816</RefSource>
+                <PMID Version="1">22355328</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Annu Rev Biochem. 2012;81:767-93</RefSource>
+                <PMID Version="1">22443930</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Free Radic Biol Med. 2012 May 15;52(10):2120-7</RefSource>
+                <PMID Version="1">22521902</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Diabetes. 2012 Oct;61(10):2495-505</RefSource>
+                <PMID Version="1">22698915</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Sci Rep. 2012;2:799</RefSource>
+                <PMID Version="1">23150771</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Urology. 2012 Dec;80(6):1389.e17-22</RefSource>
+                <PMID Version="1">22995569</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Diabetologia. 2013 Apr;56(4):724-36</RefSource>
+                <PMID Version="1">23322233</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Circ Res. 2000 Mar 17;86(5):494-501</RefSource>
+                <PMID Version="1">10720409</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Biol Chem. 2001 Jul 20;276(29):27462-9</RefSource>
+                <PMID Version="1">11313365</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Endovasc Ther. 2001 Oct;8(5):433-40</RefSource>
+                <PMID Version="1">11718398</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Atherosclerosis. 2002 Feb;160(2):449-56</RefSource>
+                <PMID Version="1">11849670</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Hum Genet. 2002 Jul;111(1):1-8</RefSource>
+                <PMID Version="1">12136229</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Trends Immunol. 2003 Aug;24(8):449-55</RefSource>
+                <PMID Version="1">12909459</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Diabetes. 2003 Sep;52(9):2338-45</RefSource>
+                <PMID Version="1">12941774</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Respir Res. 2003;4:7</RefSource>
+                <PMID Version="1">12964953</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Science. 2004 Oct 15;306(5695):457-61</RefSource>
+                <PMID Version="1">15486293</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Proc Natl Acad Sci U S A. 1988 Dec;85(24):9748-52</RefSource>
+                <PMID Version="1">3200852</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Biol Chem. 2005 Jan 7;280(1):847-51</RefSource>
+                <PMID Version="1">15509553</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Diabetes. 2005 Mar;54(3):657-63</RefSource>
+                <PMID Version="1">15734840</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Diabetes. 2005 May;54(5):1400-6</RefSource>
+                <PMID Version="1">15855326</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Am J Physiol Lung Cell Mol Physiol. 2005 Dec;289(6):L1131-7</RefSource>
+                <PMID Version="1">16155084</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Endocrinology. 2006 Feb;147(2):762-8</RefSource>
+                <PMID Version="1">16254033</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Am J Physiol Renal Physiol. 2006 Mar;290(3):F563-71</RefSource>
+                <PMID Version="1">16461755</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Clin Invest. 2006 Jul;116(7):1767-75</RefSource>
+                <PMID Version="1">16823474</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Science. 2006 Aug 25;313(5790):1137-40</RefSource>
+                <PMID Version="1">16931765</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Circulation. 2006 Oct 3;114(14):1476-81</RefSource>
+                <PMID Version="1">17000907</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Antioxid Redox Signal. 2007 Jul;9(7):855-63</RefSource>
+                <PMID Version="1">17508911</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Antioxid Redox Signal. 2007 Dec;9(12):2175-85</RefSource>
+                <PMID Version="1">17919067</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Am J Clin Nutr. 2007 Nov;86(5):1347-53</RefSource>
+                <PMID Version="1">17991645</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Endocr Rev. 2008 May;29(3):317-33</RefSource>
+                <PMID Version="1">18436705</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Pharmacol Exp Ther. 2008 Jun;325(3):833-40</RefSource>
+                <PMID Version="1">18334666</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Diabetes. 2008 Jun;57(6):1526-35</RefSource>
+                <PMID Version="1">18375438</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Lipid Res. 2008 Aug;49(8):1658-69</RefSource>
+                <PMID Version="1">18426778</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Clin Invest. 2008 Oct;118(10):3378-89</RefSource>
+                <PMID Version="1">18776938</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Kidney Int. 2008 Nov;74(9):1197-201</RefSource>
+                <PMID Version="1">18854849</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Biol Chem. 2008 Dec 5;283(49):34327-36</RefSource>
+                <PMID Version="1">18854316</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Hypertension. 2009 Mar;53(3):508-15</RefSource>
+                <PMID Version="1">19171794</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cardiol Rev. 2009 May-Jun;17(3):99-111</RefSource>
+                <PMID Version="1">19384082</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Endocrinology. 2009 May;150(5):2098-108</RefSource>
+                <PMID Version="1">19106228</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Biol Chem. 2009 May 1;284(18):11776-80</RefSource>
+                <PMID Version="1">19276091</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Clin Invest. 2009 May;119(5):1201-15</RefSource>
+                <PMID Version="1">19363290</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Expert Opin Ther Targets. 2013 Apr;17(4):437-48</RefSource>
+                <PMID Version="1">23324104</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Heart Vessels. 2013 Mar;28(2):157-65</RefSource>
+                <PMID Version="1">22457095</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Metabolism. 2013 Jul;62(7):976-85</RefSource>
+                <PMID Version="1">23414908</PMID>
+            </CommentsCorrections>
+        </CommentsCorrectionsList>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D000818">Animals</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D001663">Bilirubin</DescriptorName>
+                <QualifierName MajorTopicYN="Y" UI="Q000494">pharmacology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D001835">Body Weight</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D004721">Endoplasmic Reticulum</DescriptorName>
+                <QualifierName MajorTopicYN="N" UI="Q000378">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="Y" UI="D059865">Endoplasmic Reticulum Stress</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D005951">Glucose Tolerance Test</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D051547">Heme Oxygenase-1</DescriptorName>
+                <QualifierName MajorTopicYN="N" UI="Q000378">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D007249">Inflammation</DescriptorName>
+                <QualifierName MajorTopicYN="Y" UI="Q000378">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D007328">Insulin</DescriptorName>
+                <QualifierName MajorTopicYN="N" UI="Q000378">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="Y" UI="D007333">Insulin Resistance</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D020738">Leptin</DescriptorName>
+                <QualifierName MajorTopicYN="N" UI="Q000378">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D008099">Liver</DescriptorName>
+                <QualifierName MajorTopicYN="N" UI="Q000378">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D008297">Male</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D008565">Membrane Proteins</DescriptorName>
+                <QualifierName MajorTopicYN="N" UI="Q000378">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D051379">Mice</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D008810">Mice, Inbred C57BL</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D008820">Mice, Obese</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D018482">Muscle, Skeletal</DescriptorName>
+                <QualifierName MajorTopicYN="N" UI="Q000378">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D009765">Obesity</DescriptorName>
+                <QualifierName MajorTopicYN="Y" UI="Q000503">physiopathology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D011489">Protein Denaturation</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D054411">Receptors, Leptin</DescriptorName>
+                <QualifierName MajorTopicYN="Y" UI="Q000235">genetics</QualifierName>
+                <QualifierName MajorTopicYN="N" UI="Q000378">metabolism</QualifierName>
+            </MeshHeading>
+        </MeshHeadingList>
+        <OtherID Source="NLM">PMC3929745</OtherID>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="aheadofprint">
+                <Year>2014</Year>
+                <Month>1</Month>
+                <Day>1</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2014</Year>
+                <Month>1</Month>
+                <Day>16</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2014</Year>
+                <Month>1</Month>
+                <Day>16</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2014</Year>
+                <Month>5</Month>
+                <Day>3</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="doi">10.1210/en.2013-1667</ArticleId>
+            <ArticleId IdType="pubmed">24424052</ArticleId>
+            <ArticleId IdType="pmc">PMC3929745</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

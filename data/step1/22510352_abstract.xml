@@ -1,0 +1,296 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2016//EN" "http://www.ncbi.nlm.nih.gov/corehtml/query/DTD/pubmed_160101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="MEDLINE">
+        <PMID Version="1">22510352</PMID>
+        <DateCreated>
+            <Year>2012</Year>
+            <Month>06</Month>
+            <Day>04</Day>
+        </DateCreated>
+        <DateCompleted>
+            <Year>2012</Year>
+            <Month>10</Month>
+            <Day>15</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2015</Year>
+            <Month>02</Month>
+            <Day>25</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1873-7994</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>45</Volume>
+                    <Issue>4</Issue>
+                    <PubDate>
+                        <MedlineDate>2012 Jul-Aug</MedlineDate>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Journal of communication disorders</Title>
+                <ISOAbbreviation>J Commun Disord</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Vocal fold mucus aggregation in persons with voice disorders.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>304-11</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1016/j.jcomdis.2012.03.001</ELocationID>
+            <Abstract>
+                <AbstractText Label="UNLABELLED">Mucus aggregation on the vocal folds is a common finding from laryngeal endoscopy. Patients with voice disorders report the presence of mucus aggregation. Patients also report that mucus aggregation causes them to clear their throat, a behavior believed to be harmful to vocal fold mucosa. Even though clinicians and patients report and discuss mucus aggregation, we have a limited understanding of mucus aggregation in persons with voice disorders. The primary goal of this study was to provide an initial assessment of the presence and features of mucus aggregation in persons with voice disorders. The secondary goal of this study was to determine if there are differences in mucus aggregation between persons with and without voice disorders. To address these goals, four features of mucus aggregation were judged from laryngeal endoscopy recordings from 54 speakers with voice disorders and compared to judgments of these same features in persons without voice disorders. The results from this study showed: (1) 100% of dysphonic speakers had visible mucus aggregation on their vocal folds. (2) Persons with hyperfunctional voice disorders had different mucus characteristics than persons with hypofunctional voice disorders (p=0.002). (3) Dysphonic speakers did not differ in frequency of mucus identified on the vocal folds than non-dysphonic speakers. However, the two groups had different mucus characteristics (p=0.001). Future studies are warranted to determine if these differences in mucus aggregation between persons with and without voice disorders relate to specific aspects of laryngeal pathology or patient characteristics, such as age and gender. Once we understand these relationships, we may be able to use this information to improve our diagnosis and treatment of patients with atypical laryngeal mucus aggregation.</AbstractText>
+                <AbstractText Label="LEARNING OUTCOMES" NlmCategory="OBJECTIVE">Readers will be able to: (1) describe why mucus aggregation may be an important feature to understand in persons with voice disorders, (2) describe the features of mucus aggregation that can be visually rated, and (3) explain the similarities and differences in mucus aggregation for persons with and without voice disorders.</AbstractText>
+                <CopyrightInformation>Copyright © 2012 Elsevier Inc. All rights reserved.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Bonilha</LastName>
+                    <ForeName>Heather Shaw</ForeName>
+                    <Initials>HS</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Health Sciences and Research, Medical University of South Carolina, Charleston, SC 29425, USA. bonilhah@musc.edu</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>White</LastName>
+                    <ForeName>Lisa</ForeName>
+                    <Initials>L</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Kuckhahn</LastName>
+                    <ForeName>Kelsey</ForeName>
+                    <Initials>K</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Gerlach</LastName>
+                    <ForeName>Terri Treman</ForeName>
+                    <Initials>TT</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Deliyski</LastName>
+                    <ForeName>Dimitar D</ForeName>
+                    <Initials>DD</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <GrantList CompleteYN="Y">
+                <Grant>
+                    <GrantID>KL2 RR029880</GrantID>
+                    <Acronym>RR</Acronym>
+                    <Agency>NCRR NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>R01 DC007640</GrantID>
+                    <Acronym>DC</Acronym>
+                    <Agency>NIDCD NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>R03 DC008403</GrantID>
+                    <Acronym>DC</Acronym>
+                    <Agency>NIDCD NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>R03 DC008403</GrantID>
+                    <Acronym>DC</Acronym>
+                    <Agency>NIDCD NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>UL1 RR029880</GrantID>
+                    <Acronym>RR</Acronym>
+                    <Agency>NCRR NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>UL1 RR029882</GrantID>
+                    <Acronym>RR</Acronym>
+                    <Agency>NCRR NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>UL1 TR000062</GrantID>
+                    <Acronym>TR</Acronym>
+                    <Agency>NCATS NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+            </GrantList>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D052061">Research Support, N.I.H., Extramural</PublicationType>
+                <PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2012</Year>
+                <Month>03</Month>
+                <Day>17</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>J Commun Disord</MedlineTA>
+            <NlmUniqueID>0260316</NlmUniqueID>
+            <ISSNLinking>0021-9924</ISSNLinking>
+        </MedlineJournalInfo>
+        <CitationSubset>IM</CitationSubset>
+        <CommentsCorrectionsList>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Ann Otol Rhinol Laryngol. 1998 Jun;107(6):525-9</RefSource>
+                <PMID Version="1">9635464</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Speech Lang Hear Res. 2005 Feb;48(1):45-60</RefSource>
+                <PMID Version="1">15938059</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Voice. 2008 Jan;22(1):23-33</RefSource>
+                <PMID Version="1">17014988</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Am J Speech Lang Pathol. 2008 Nov;17(4):367-76</RefSource>
+                <PMID Version="1">18840697</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Voice. 2008 Nov;22(6):699-708</RefSource>
+                <PMID Version="1">18031989</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Acta Otolaryngol Suppl. 1988;449:109-14</RefSource>
+                <PMID Version="1">3201931</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Voice. 2009 Nov;23(6):658-65</RefSource>
+                <PMID Version="1">19111440</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Voice. 1999 Dec;13(4):557-69</RefSource>
+                <PMID Version="1">10622521</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Ann Otol Rhinol Laryngol. 2002 Jun;111(6):537-41</RefSource>
+                <PMID Version="1">12090710</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Voice. 2004 Mar;18(1):107-15</RefSource>
+                <PMID Version="1">15070230</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Acta Otolaryngol. 2004 Mar;124(2):186-91</RefSource>
+                <PMID Version="1">15072422</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Logoped Phoniatr Vocol. 2008;33(3):136-42</RefSource>
+                <PMID Version="1">18608875</PMID>
+            </CommentsCorrections>
+        </CommentsCorrectionsList>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D000293">Adolescent</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D000328">Adult</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D000368">Aged</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D000369">Aged, 80 and over</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D016022">Case-Control Studies</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D005260">Female</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D007828">Laryngoscopy</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D008297">Male</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D008875">Middle Aged</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D009093">Mucus</DescriptorName>
+                <QualifierName MajorTopicYN="Y" UI="Q000502">physiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D049489">Stroboscopy</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D014827">Vocal Cords</DescriptorName>
+                <QualifierName MajorTopicYN="Y" UI="Q000503">physiopathology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D014832">Voice Disorders</DescriptorName>
+                <QualifierName MajorTopicYN="Y" UI="Q000503">physiopathology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D055815">Young Adult</DescriptorName>
+            </MeshHeading>
+        </MeshHeadingList>
+        <OtherID Source="NLM">NIHMS370697</OtherID>
+        <OtherID Source="NLM">PMC3367063</OtherID>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2011</Year>
+                <Month>4</Month>
+                <Day>11</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2012</Year>
+                <Month>2</Month>
+                <Day>27</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2012</Year>
+                <Month>3</Month>
+                <Day>9</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="aheadofprint">
+                <Year>2012</Year>
+                <Month>3</Month>
+                <Day>17</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2012</Year>
+                <Month>4</Month>
+                <Day>19</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2012</Year>
+                <Month>4</Month>
+                <Day>19</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2012</Year>
+                <Month>10</Month>
+                <Day>16</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pii">S0021-9924(12)00016-0</ArticleId>
+            <ArticleId IdType="doi">10.1016/j.jcomdis.2012.03.001</ArticleId>
+            <ArticleId IdType="pubmed">22510352</ArticleId>
+            <ArticleId IdType="pmc">PMC3367063</ArticleId>
+            <ArticleId IdType="mid">NIHMS370697</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

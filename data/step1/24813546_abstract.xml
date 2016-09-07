@@ -1,0 +1,536 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2016//EN" "http://www.ncbi.nlm.nih.gov/corehtml/query/DTD/pubmed_160101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="MEDLINE">
+        <PMID Version="1">24813546</PMID>
+        <DateCreated>
+            <Year>2014</Year>
+            <Month>05</Month>
+            <Day>19</Day>
+        </DateCreated>
+        <DateCompleted>
+            <Year>2015</Year>
+            <Month>01</Month>
+            <Day>12</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2015</Year>
+            <Month>11</Month>
+            <Day>19</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1873-6327</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>39</Volume>
+                    <Issue>8</Issue>
+                    <PubDate>
+                        <Year>2014</Year>
+                        <Month>Aug</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Addictive behaviors</Title>
+                <ISOAbbreviation>Addict Behav</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Laboratory-induced cue reactivity among individuals with prescription opioid dependence.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>1217-23</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1016/j.addbeh.2014.04.007</ELocationID>
+            <ELocationID EIdType="pii" ValidYN="Y">S0306-4603(14)00109-9</ELocationID>
+            <Abstract>
+                <AbstractText>Prescription opioid (PO) dependence is a critical health problem. Although examination of drug cue reactivity paradigms has advanced the understanding of risk factors for relapse for a variety of substances (e.g., cocaine, alcohol, nicotine), no PO specific drug cue paradigm has been developed. The current study addressed this gap in the literature and evaluated the ability of a newly developed PO drug cue paradigm to elicit subjective, physiological, and neuroendocrine changes among PO-dependent participants (n = 20) as compared to controls (n = 17). The drug cue paradigm included an induction script, viewing and handling paraphernalia (e.g., bottle of oxycontin pills, pill crusher) and watching a video depicting people using POs as well as places related to POs (e.g., pharmacies). Consistent with hypotheses, the PO group demonstrated significant pre- to post-cue increases on subjective ratings of craving, difficulty resisting POs, stress, and anger. The control group did not demonstrate significant changes on any of the subjective measures. Both the PO group and the control group evidenced significant pre- to post-cue increases in physiological responses (e.g., blood pressure, skin conductance), as expected given the arousing nature of the drug cue stimuli. The PO group, but not the control group, evidenced a significant pre- to post-cue increase in heart rate and salivary cortisol levels. The development and validation of a drug cue paradigm for POs may help inform future research and treatment development efforts for patients with PO dependence.</AbstractText>
+                <CopyrightInformation>Published by Elsevier Ltd.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Back</LastName>
+                    <ForeName>Sudie E</ForeName>
+                    <Initials>SE</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Medical University of South Carolina, Department of Psychiatry and Behavioral Sciences, Clinical Neuroscience Division, Charleston, SC 29425, United States; Ralph H. Johnson Veterans Affairs Medical Center, Charleston, SC 29401, United States. Electronic address: backs@musc.edu.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Gros</LastName>
+                    <ForeName>Daniel F</ForeName>
+                    <Initials>DF</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Medical University of South Carolina, Department of Psychiatry and Behavioral Sciences, Clinical Neuroscience Division, Charleston, SC 29425, United States; Ralph H. Johnson Veterans Affairs Medical Center, Charleston, SC 29401, United States.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>McCauley</LastName>
+                    <ForeName>Jenna L</ForeName>
+                    <Initials>JL</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Medical University of South Carolina, Department of Psychiatry and Behavioral Sciences, Clinical Neuroscience Division, Charleston, SC 29425, United States.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Flanagan</LastName>
+                    <ForeName>Julianne C</ForeName>
+                    <Initials>JC</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Medical University of South Carolina, Department of Psychiatry and Behavioral Sciences, Clinical Neuroscience Division, Charleston, SC 29425, United States.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Cox</LastName>
+                    <ForeName>Elizabeth</ForeName>
+                    <Initials>E</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>University of North Carolina, Department of Psychiatry, Chapel Hill, NC 27514, United States.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Barth</LastName>
+                    <ForeName>Kelly S</ForeName>
+                    <Initials>KS</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Medical University of South Carolina, Department of Psychiatry and Behavioral Sciences, Clinical Neuroscience Division, Charleston, SC 29425, United States.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Brady</LastName>
+                    <ForeName>Kathleen T</ForeName>
+                    <Initials>KT</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Medical University of South Carolina, Department of Psychiatry and Behavioral Sciences, Clinical Neuroscience Division, Charleston, SC 29425, United States; Ralph H. Johnson Veterans Affairs Medical Center, Charleston, SC 29401, United States.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <GrantList CompleteYN="Y">
+                <Grant>
+                    <GrantID>5 UL1 RR029882</GrantID>
+                    <Acronym>RR</Acronym>
+                    <Agency>NCRR NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>K12 DA031794</GrantID>
+                    <Acronym>DA</Acronym>
+                    <Agency>NIDA NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>K12 DA031974</GrantID>
+                    <Acronym>DA</Acronym>
+                    <Agency>NIDA NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>K12 HD055885</GrantID>
+                    <Acronym>HD</Acronym>
+                    <Agency>NICHD NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>K23 DA021228</GrantID>
+                    <Acronym>DA</Acronym>
+                    <Agency>NIDA NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>K23 DA021228</GrantID>
+                    <Acronym>DA</Acronym>
+                    <Agency>NIDA NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>R25 DA020537</GrantID>
+                    <Acronym>DA</Acronym>
+                    <Agency>NIDA NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+            </GrantList>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D052061">Research Support, N.I.H., Extramural</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2014</Year>
+                <Month>04</Month>
+                <Day>12</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>England</Country>
+            <MedlineTA>Addict Behav</MedlineTA>
+            <NlmUniqueID>7603486</NlmUniqueID>
+            <ISSNLinking>0306-4603</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D055553">Prescription Drugs</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>WI4X0X7BPJ</RegistryNumber>
+                <NameOfSubstance UI="D006854">Hydrocortisone</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <CommentsCorrectionsList>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Addict Behav. 1990;15(4):339-54</RefSource>
+                <PMID Version="1">2248108</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>NIDA Res Monogr. 1988;81:74-80</RefSource>
+                <PMID Version="1">3136393</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Psychopharmacol. 1998;12(1):15-22</RefSource>
+                <PMID Version="1">9584964</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Clin Psychiatry. 1998;59 Suppl 20:22-33;quiz 34-57</RefSource>
+                <PMID Version="1">9881538</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Subst Abuse Treat. 1999 Jan;16(1):81-5</RefSource>
+                <PMID Version="1">9888125</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Exp Clin Psychopharmacol. 2006 Feb;14(1):12-9</RefSource>
+                <PMID Version="1">16503701</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Am J Addict. 2006 Mar-Apr;15(2):113-24</RefSource>
+                <PMID Version="1">16595348</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Pharmacol Biochem Behav. 2007 Mar;86(3):485-92</RefSource>
+                <PMID Version="1">17306353</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nicotine Tob Res. 2007 Jun;9(6):647-52</RefSource>
+                <PMID Version="1">17558821</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Clin J Pain. 2007 Oct;23(8):648-60</RefSource>
+                <PMID Version="1">17885342</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Addict Biol. 2009 Jan;14(1):84-98</RefSource>
+                <PMID Version="1">18945295</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Eur J Pharmacol. 2009 Aug 1;615(1-3):108-12</RefSource>
+                <PMID Version="1">19470385</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Clin Psychol Rev. 2010 Mar;30(2):155-66</RefSource>
+                <PMID Version="1">19926374</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Drug Alcohol Depend. 2010 Jan 1;106(1):21-7</RefSource>
+                <PMID Version="1">19726138</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Drug Alcohol Depend. 2010 Jun 1;109(1-3):257-60</RefSource>
+                <PMID Version="1">20197216</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Addict Behav. 2011 Aug;36(8):829-34</RefSource>
+                <PMID Version="1">21514061</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>BMJ. 2011;343:d5142</RefSource>
+                <PMID Version="1">21862533</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Subst Abuse Treat Prev Policy. 2011;6:17</RefSource>
+                <PMID Version="1">21771314</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Biol Psychiatry. 2011 Oct 15;70(8):720-7</RefSource>
+                <PMID Version="1">21741031</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Arch Gen Psychiatry. 2011 Dec;68(12):1238-46</RefSource>
+                <PMID Version="1">22065255</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Biol Psychol. 2012 Jan;89(1):87-93</RefSource>
+                <PMID Version="1">21967855</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Am J Addict. 2012 Jan-Feb;21(1):55-62</RefSource>
+                <PMID Version="1">22211347</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Neuroimage. 2012 Mar;60(1):252-62</RefSource>
+                <PMID Version="1">22206965</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Am J Addict. 2012 May-Jun;21(3):210-20</RefSource>
+                <PMID Version="1">22494223</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Subst Use Misuse. 2012 May;47(6):631-9</RefSource>
+                <PMID Version="1">22329835</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>NCHS Data Brief. 2011 Dec;(81):1-8</RefSource>
+                <PMID Version="1">22617462</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Brain Res. 2012 Aug 21;1469:63-72</RefSource>
+                <PMID Version="1">22759909</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Exp Clin Psychopharmacol. 2012 Dec;20(6):473-8</RefSource>
+                <PMID Version="1">22889039</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Addict Biol. 2013 Jan;18(1):121-33</RefSource>
+                <PMID Version="1">22574861</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Addict Behav. 2013 Apr;38(4):1970-9</RefSource>
+                <PMID Version="1">23380493</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Psychopharmacology (Berl). 2013 Mar;226(2):321-33</RefSource>
+                <PMID Version="1">23142992</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Addiction. 2013 Jun;108(6):1027-8</RefSource>
+                <PMID Version="1">23659840</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Am J Addict. 2013 Sep-Oct;22(5):486-91</RefSource>
+                <PMID Version="1">23952895</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Neuropharmacology. 2014 Jan;76 Pt B:460-78</RefSource>
+                <PMID Version="1">23850573</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Addiction. 1999 Mar;94(3):327-40</RefSource>
+                <PMID Version="1">10605857</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Addiction. 1999 Mar;94(3):349-51</RefSource>
+                <PMID Version="1">10605863</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Addiction. 1999 Aug;94(8):1113-24</RefSource>
+                <PMID Version="1">10615727</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>JAMA. 2000 Apr 5;283(13):1710-4</RefSource>
+                <PMID Version="1">10755497</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Addiction. 1999 Nov;94(11):1639-51</RefSource>
+                <PMID Version="1">10892004</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Drug Alcohol Depend. 2000 Aug 1;60(2):207-16</RefSource>
+                <PMID Version="1">10940548</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Addiction. 2000 Aug;95 Suppl 2:S129-44</RefSource>
+                <PMID Version="1">11002908</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Psychopharmacology (Berl). 2000 Oct;152(2):140-8</RefSource>
+                <PMID Version="1">11057517</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Arch Gen Psychiatry. 2001 Aug;58(8):755-61</RefSource>
+                <PMID Version="1">11483141</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Am J Psychiatry. 2001 Oct;158(10):1680-6</RefSource>
+                <PMID Version="1">11579002</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Pharmacol Biochem Behav. 2002 Mar;71(3):517-29</RefSource>
+                <PMID Version="1">11830186</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Pain Symptom Manage. 2002 Feb;23(2):138-47</RefSource>
+                <PMID Version="1">11844634</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Exp Clin Psychopharmacol. 2002 Aug;10(3):162-83</RefSource>
+                <PMID Version="1">12233979</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Alcohol Clin Exp Res. 2002 Dec;26(12):1928-9</RefSource>
+                <PMID Version="1">12500123</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Am J Addict. 2003 Jan-Feb;12(1):1-17</RefSource>
+                <PMID Version="1">12623736</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Drug Alcohol Depend. 2003 Apr 1;69(3):215-32</RefSource>
+                <PMID Version="1">12633908</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Br J Addict. 1986 Oct;81(5):655-60</RefSource>
+                <PMID Version="1">3466632</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Subst Abuse Treat. 1986;3(3):173-9</RefSource>
+                <PMID Version="1">3806730</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Psychol Rev. 1984 Apr;91(2):251-68</RefSource>
+                <PMID Version="1">6571424</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Abnorm Psychol. 1988 May;97(2):133-52</RefSource>
+                <PMID Version="1">3290304</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Psychophysiology. 1996 Mar;33(2):103-11</RefSource>
+                <PMID Version="1">8851238</PMID>
+            </CommentsCorrections>
+        </CommentsCorrectionsList>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D000328">Adult</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D016739">Behavior, Addictive</DescriptorName>
+                <QualifierName MajorTopicYN="Y" UI="Q000503">physiopathology</QualifierName>
+                <QualifierName MajorTopicYN="N" UI="Q000523">psychology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D001794">Blood Pressure</DescriptorName>
+                <QualifierName MajorTopicYN="N" UI="Q000502">physiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D016022">Case-Control Studies</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D066249">Craving</DescriptorName>
+                <QualifierName MajorTopicYN="N" UI="Q000502">physiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D003463">Cues</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D004644">Emotions</DescriptorName>
+                <QualifierName MajorTopicYN="N" UI="Q000502">physiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D005260">Female</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D005712">Galvanic Skin Response</DescriptorName>
+                <QualifierName MajorTopicYN="N" UI="Q000502">physiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D006339">Heart Rate</DescriptorName>
+                <QualifierName MajorTopicYN="N" UI="Q000502">physiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D006854">Hydrocortisone</DescriptorName>
+                <QualifierName MajorTopicYN="N" UI="Q000378">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D008297">Male</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D008875">Middle Aged</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D009293">Opioid-Related Disorders</DescriptorName>
+                <QualifierName MajorTopicYN="Y" UI="Q000523">psychology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="Y" UI="D055553">Prescription Drugs</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D012463">Saliva</DescriptorName>
+                <QualifierName MajorTopicYN="N" UI="Q000737">chemistry</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D013315">Stress, Psychological</DescriptorName>
+                <QualifierName MajorTopicYN="Y" UI="Q000523">psychology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D011795">Surveys and Questionnaires</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D055815">Young Adult</DescriptorName>
+            </MeshHeading>
+        </MeshHeadingList>
+        <OtherID Source="NLM">NIHMS585317</OtherID>
+        <OtherID Source="NLM">PMC4059191</OtherID>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">Drug cue paradigm</Keyword>
+            <Keyword MajorTopicYN="N">Drug cue reactivity</Keyword>
+            <Keyword MajorTopicYN="N">Opiates</Keyword>
+            <Keyword MajorTopicYN="N">Prescription drugs</Keyword>
+            <Keyword MajorTopicYN="N">Prescription opioids</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2013</Year>
+                <Month>11</Month>
+                <Day>18</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2014</Year>
+                <Month>3</Month>
+                <Day>17</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2014</Year>
+                <Month>4</Month>
+                <Day>2</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="aheadofprint">
+                <Year>2014</Year>
+                <Month>4</Month>
+                <Day>12</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2014</Year>
+                <Month>5</Month>
+                <Day>13</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2014</Year>
+                <Month>5</Month>
+                <Day>13</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2015</Year>
+                <Month>1</Month>
+                <Day>13</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">24813546</ArticleId>
+            <ArticleId IdType="pii">S0306-4603(14)00109-9</ArticleId>
+            <ArticleId IdType="doi">10.1016/j.addbeh.2014.04.007</ArticleId>
+            <ArticleId IdType="pmc">PMC4059191</ArticleId>
+            <ArticleId IdType="mid">NIHMS585317</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

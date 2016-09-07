@@ -1,0 +1,345 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2016//EN" "http://www.ncbi.nlm.nih.gov/corehtml/query/DTD/pubmed_160101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="MEDLINE">
+        <PMID Version="1">22545725</PMID>
+        <DateCreated>
+            <Year>2012</Year>
+            <Month>08</Month>
+            <Day>07</Day>
+        </DateCreated>
+        <DateCompleted>
+            <Year>2012</Year>
+            <Month>12</Month>
+            <Day>10</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2015</Year>
+            <Month>03</Month>
+            <Day>29</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1936-2293</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>20</Volume>
+                    <Issue>4</Issue>
+                    <PubDate>
+                        <Year>2012</Year>
+                        <Month>Aug</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Experimental and clinical psychopharmacology</Title>
+                <ISOAbbreviation>Exp Clin Psychopharmacol</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Association between ovarian hormones and smoking behavior in women.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>251-7</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1037/a0027759</ELocationID>
+            <Abstract>
+                <AbstractText>Studies examining the association between menstrual cycle phases and smoking behavior in women have yielded mixed results. The purpose of this study was to elucidate the associations between ovarian hormones and smoking by directly measuring ovarian hormone levels and obtaining a laboratory assessment of smoking behaviors. Four hypotheses were tested: Increased smoking will be associated with (1) low absolute levels of estradiol and progesterone; (2) decreasing (i.e., dynamic changes in) estradiol and progesterone; (3) lower ratios of progesterone to estradiol; and (4) higher ratios of estradiol to progesterone. Female smokers (≥10 cigarettes/day) with regular menstrual cycles were recruited as part of a larger, ongoing study examining the influence of ovarian hormones on smoking cessation treatment. Participants completed 2 study visits, including a 1-hr ad lib smoking topography session, which provided a detailed assessment of smoking behavior. Both the change in hormone levels over time and the relative ratios of ovarian hormones were associated with smoking behavior, but each to a limited extent. Decreases in estradiol (r = -.21, p = .048) and decreases in progesterone (r = -.23, p = .03) were associated with increased puff intensity. Lower ratios of progesterone to estradiol were associated with a greater number of puffs (r = -.26, p = .01) and weight of cigarettes smoked (r = -.29, p = .005). The best predictors of smoking behavior were the ratio of progesterone to estradiol (z = -2.7, p = .004) and the change in estradiol and progesterone over time (z = -2.1, p = .02). This pattern of results may help to explain inconsistent findings in previous studies and suggest potential mechanisms by which hormones influence nicotine addiction.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Schiller</LastName>
+                    <ForeName>Crystal Edler</ForeName>
+                    <Initials>CE</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Psychiatry.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Saladin</LastName>
+                    <ForeName>Michael E</ForeName>
+                    <Initials>ME</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Gray</LastName>
+                    <ForeName>Kevin M</ForeName>
+                    <Initials>KM</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Hartwell</LastName>
+                    <ForeName>Karen J</ForeName>
+                    <Initials>KJ</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Carpenter</LastName>
+                    <ForeName>Matthew J</ForeName>
+                    <Initials>MJ</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <GrantList CompleteYN="Y">
+                <Grant>
+                    <GrantID>K12 HD055885</GrantID>
+                    <Acronym>HD</Acronym>
+                    <Agency>NICHD NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>K12HD055885</GrantID>
+                    <Acronym>HD</Acronym>
+                    <Agency>NICHD NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>K23 DA020482</GrantID>
+                    <Acronym>DA</Acronym>
+                    <Agency>NIDA NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>K23DA020482</GrantID>
+                    <Acronym>DA</Acronym>
+                    <Agency>NIDA NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>P50 DA016511</GrantID>
+                    <Acronym>DA</Acronym>
+                    <Agency>NIDA NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>P50DA016511</GrantID>
+                    <Acronym>DA</Acronym>
+                    <Agency>NIDA NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>UL1 RR029882</GrantID>
+                    <Acronym>RR</Acronym>
+                    <Agency>NCRR NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>UL1RR029882</GrantID>
+                    <Acronym>RR</Acronym>
+                    <Agency>NCRR NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+            </GrantList>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D052061">Research Support, N.I.H., Extramural</PublicationType>
+                <PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2012</Year>
+                <Month>04</Month>
+                <Day>30</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>Exp Clin Psychopharmacol</MedlineTA>
+            <NlmUniqueID>9419066</NlmUniqueID>
+            <ISSNLinking>1064-1297</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D012739">Gonadal Steroid Hormones</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <CommentsCorrectionsList>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Arch Environ Health. 1975 Sep;30(9):425-34</RefSource>
+                <PMID Version="1">1164044</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Psychol Bull. 1992 Jul;112(1):155-9</RefSource>
+                <PMID Version="1">19565683</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Subst Abuse. 1994;6(2):227-34</RefSource>
+                <PMID Version="1">7804021</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Subst Abuse. 1994;6(2):235-43</RefSource>
+                <PMID Version="1">7804022</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Addict Behav. 1995 May-Jun;20(3):335-43</RefSource>
+                <PMID Version="1">7653315</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Subst Abuse. 1996;8(3):303-19</RefSource>
+                <PMID Version="1">8934436</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Pharmacol Biochem Behav. 2009 Nov;94(1):43-50</RefSource>
+                <PMID Version="1">19619575</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Hum Psychopharmacol. 2009 Oct;24(7):559-64</RefSource>
+                <PMID Version="1">19743227</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>MMWR Morb Mortal Wkly Rep. 2010 Sep 10;59(35):1135-40</RefSource>
+                <PMID Version="1">20829747</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Psychoneuroendocrinology. 2011 Jan;36(1):123-32</RefSource>
+                <PMID Version="1">20675057</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Exp Clin Psychopharmacol. 2010 Dec;18(6):451-61</RefSource>
+                <PMID Version="1">21186920</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Am J Prev Med. 2011 Mar;40(3):286-94</RefSource>
+                <PMID Version="1">21335259</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Psychoneuroendocrinology. 2000 Oct;25(7):677-91</RefSource>
+                <PMID Version="1">10938448</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Horm Behav. 2000 Sep;38(2):137-47</RefSource>
+                <PMID Version="1">10964528</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nicotine Tob Res. 1999 Jun;1(2):129-42</RefSource>
+                <PMID Version="1">11072394</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Pharmacol Biochem Behav. 2001 May-Jun;69(1-2):299-304</RefSource>
+                <PMID Version="1">11420098</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>CNS Drugs. 2001;15(5):391-411</RefSource>
+                <PMID Version="1">11475944</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nicotine Tob Res. 2003 Feb;5(1):111-6</RefSource>
+                <PMID Version="1">12745512</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Addiction. 2003 Nov;98(11):1575-83</RefSource>
+                <PMID Version="1">14616184</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Ann Behav Med. 2004 Apr;27(2):138-45</RefSource>
+                <PMID Version="1">15026298</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Biol Psychiatry. 1998 Nov 1;44(9):839-50</RefSource>
+                <PMID Version="1">9807639</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Psychosomatics. 1999 Mar-Apr;40(2):102-8</RefSource>
+                <PMID Version="1">10100431</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Neurology. 1999 Aug 11;53(3):622-4</RefSource>
+                <PMID Version="1">10449131</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Psychol Med. 2007 Jan;37(1):131-41</RefSource>
+                <PMID Version="1">17038206</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Neuropsychopharmacology. 2008 Feb;33(3):588-98</RefSource>
+                <PMID Version="1">17443125</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Addiction. 2008 May;103(5):809-21</RefSource>
+                <PMID Version="1">18412759</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Exp Clin Psychopharmacol. 2009 Apr;17(2):63-9</RefSource>
+                <PMID Version="1">19331482</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>PLoS Med. 2009 Apr 28;6(4):e1000058</RefSource>
+                <PMID Version="1">19399161</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Patient Educ Couns. 2009 Jul;76(1):99-105</RefSource>
+                <PMID Version="1">19070455</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Headache. 1992 Jun;32(6):292-7</RefSource>
+                <PMID Version="1">1399550</PMID>
+            </CommentsCorrections>
+        </CommentsCorrectionsList>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D000293">Adolescent</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D000328">Adult</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D005260">Female</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D012739">Gonadal Steroid Hormones</DescriptorName>
+                <QualifierName MajorTopicYN="Y" UI="Q000502">physiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D008875">Middle Aged</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D010053">Ovary</DescriptorName>
+                <QualifierName MajorTopicYN="Y" UI="Q000557">secretion</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="Y" UI="D012907">Smoking</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D055815">Young Adult</DescriptorName>
+            </MeshHeading>
+        </MeshHeadingList>
+        <OtherID Source="NLM">NIHMS464801</OtherID>
+        <OtherID Source="NLM">PMC3660106</OtherID>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="aheadofprint">
+                <Year>2012</Year>
+                <Month>4</Month>
+                <Day>30</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2012</Year>
+                <Month>5</Month>
+                <Day>2</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2012</Year>
+                <Month>5</Month>
+                <Day>2</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2012</Year>
+                <Month>12</Month>
+                <Day>12</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pii">2012-10761-001</ArticleId>
+            <ArticleId IdType="doi">10.1037/a0027759</ArticleId>
+            <ArticleId IdType="pubmed">22545725</ArticleId>
+            <ArticleId IdType="pmc">PMC3660106</ArticleId>
+            <ArticleId IdType="mid">NIHMS464801</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

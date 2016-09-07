@@ -1,0 +1,373 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2016//EN" "http://www.ncbi.nlm.nih.gov/corehtml/query/DTD/pubmed_160101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="MEDLINE">
+        <PMID Version="1">23605292</PMID>
+        <DateCreated>
+            <Year>2014</Year>
+            <Month>06</Month>
+            <Day>12</Day>
+        </DateCreated>
+        <DateCompleted>
+            <Year>2015</Year>
+            <Month>10</Month>
+            <Day>28</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2015</Year>
+            <Month>07</Month>
+            <Day>01</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Electronic">1573-3289</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>41</Volume>
+                    <Issue>4</Issue>
+                    <PubDate>
+                        <Year>2014</Year>
+                        <Month>Jul</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Administration and policy in mental health</Title>
+                <ISOAbbreviation>Adm Policy Ment Health</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>National trainers' perspectives on challenges to implementation of an empirically-supported mental health treatment.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>522-34</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1007/s10488-013-0492-6</ELocationID>
+            <Abstract>
+                <AbstractText>This study examined perceived challenges to implementation of an empirically supported mental health treatment for youth (Trauma-Focused Cognitive Behavioral Therapy; TF-CBT) and explored the potential use of technology-based resources in treatment delivery. Thematic interviews were conducted with 19 approved national TF-CBT trainers to assess their perspectives about challenges to implementation of TF-CBT and to explore their perceptions about the potential value of innovative, technology-based solutions to enhance provider fidelity and improve quality of care. These data offer some important insights and implications for training in evidence-based treatments, provider fidelity and competence, and patient engagement, particularly for those interventions targeting trauma-related symptoms among youth.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Hanson</LastName>
+                    <ForeName>Rochelle F</ForeName>
+                    <Initials>RF</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>National Crime Victims Research and Treatment Center, Medical University of South Carolina, MSC 861, Charleston, SC, 29425, USA, hansonrf@musc.edu.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Gros</LastName>
+                    <ForeName>Kirstin Stauffacher</ForeName>
+                    <Initials>KS</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Davidson</LastName>
+                    <ForeName>Tatiana M</ForeName>
+                    <Initials>TM</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Barr</LastName>
+                    <ForeName>Simone</ForeName>
+                    <Initials>S</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Cohen</LastName>
+                    <ForeName>Judith</ForeName>
+                    <Initials>J</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Deblinger</LastName>
+                    <ForeName>Esther</ForeName>
+                    <Initials>E</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Mannarino</LastName>
+                    <ForeName>Anthony P</ForeName>
+                    <Initials>AP</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Ruggiero</LastName>
+                    <ForeName>Kenneth J</ForeName>
+                    <Initials>KJ</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <GrantList CompleteYN="Y">
+                <Grant>
+                    <GrantID>1 R34 MH096907-01</GrantID>
+                    <Acronym>MH</Acronym>
+                    <Agency>NIMH NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>1U79SM061269-01</GrantID>
+                    <Acronym>SM</Acronym>
+                    <Agency>CMHS SAMHSA HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>R01 MH081056</GrantID>
+                    <Acronym>MH</Acronym>
+                    <Agency>NIMH NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>R01 MH081056</GrantID>
+                    <Acronym>MH</Acronym>
+                    <Agency>NIMH NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>R25 MH080916</GrantID>
+                    <Acronym>MH</Acronym>
+                    <Agency>NIMH NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>R25 MH080916-01A2</GrantID>
+                    <Acronym>MH</Acronym>
+                    <Agency>NIMH NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>R34 MH096907</GrantID>
+                    <Acronym>MH</Acronym>
+                    <Agency>NIMH NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>UL1 RR029882</GrantID>
+                    <Acronym>RR</Acronym>
+                    <Agency>NCRR NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>UL1 RR029882</GrantID>
+                    <Acronym>RR</Acronym>
+                    <Agency>NCRR NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>UL1 TR000062</GrantID>
+                    <Acronym>TR</Acronym>
+                    <Agency>NCATS NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+            </GrantList>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D052061">Research Support, N.I.H., Extramural</PublicationType>
+                <PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+                <PublicationType UI="D013486">Research Support, U.S. Gov't, Non-P.H.S.</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>Adm Policy Ment Health</MedlineTA>
+            <NlmUniqueID>8914574</NlmUniqueID>
+            <ISSNLinking>0894-587X</ISSNLinking>
+        </MedlineJournalInfo>
+        <CitationSubset>IM</CitationSubset>
+        <CommentsCorrectionsList>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Consult Clin Psychol. 2007 Dec;75(6):829-41</RefSource>
+                <PMID Version="1">18085901</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Clin Child Adolesc Psychol. 2008 Jan;37(1):105-30</RefSource>
+                <PMID Version="1">18444055</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Clin Child Adolesc Psychol. 2008 Jan;37(1):156-83</RefSource>
+                <PMID Version="1">18444057</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Psychiatr Serv. 2007 Oct;58(10):1279-84</RefSource>
+                <PMID Version="1">17914003</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cochrane Database Syst Rev. 2007;(3):CD003388</RefSource>
+                <PMID Version="1">17636720</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Am Acad Child Adolesc Psychiatry. 2006 Dec;45(12):1474-84</RefSource>
+                <PMID Version="1">17135993</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Am Acad Child Adolesc Psychiatry. 2005 Oct;44(10):972-86</RefSource>
+                <PMID Version="1">16175102</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Am J Orthopsychiatry. 2005 Apr;75(2):201-10</RefSource>
+                <PMID Version="1">15839757</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Psychiatr Serv. 1999 Jun;50(6):818-24</RefSource>
+                <PMID Version="1">10375153</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Pediatr Rehabil. 2004 Oct-Dec;7(4):231-44</RefSource>
+                <PMID Version="1">15513767</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Child Adolesc Psychiatr Clin N Am. 2004 Oct;13(4):905-21, vii</RefSource>
+                <PMID Version="1">15380788</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Am Acad Child Adolesc Psychiatry. 2004 Apr;43(4):393-402</RefSource>
+                <PMID Version="1">15187799</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Clin Child Adolesc Psychol. 2004 Mar;33(1):94-104</RefSource>
+                <PMID Version="1">15028545</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Evid Based Ment Health. 2003 Feb;6(1):6-7</RefSource>
+                <PMID Version="1">12588814</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Behav Health Serv Res. 2001 Nov;28(4):475-83</RefSource>
+                <PMID Version="1">11732249</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Am J Prev Med. 2008 Sep;35(3):287-313</RefSource>
+                <PMID Version="1">18692745</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Clin Psychol. 2012 Feb;68(2):168-78</RefSource>
+                <PMID Version="1">23616297</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Arch Gen Psychiatry. 2012 Apr;69(4):372-80</RefSource>
+                <PMID Version="1">22147808</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Adm Policy Ment Health. 2012 May;39(3):187-99</RefSource>
+                <PMID Version="1">21516487</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Child Maltreat. 2012 Feb;17(1):80-5</RefSource>
+                <PMID Version="1">21875905</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Behav Res Ther. 2011 Jun;49(6-7):373-8</RefSource>
+                <PMID Version="1">21492829</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Depress Anxiety. 2011 Jan;28(1):67-75</RefSource>
+                <PMID Version="1">20830695</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Am Acad Child Adolesc Psychiatry. 2010 Oct;49(10):980-9</RefSource>
+                <PMID Version="1">20855043</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Trauma Stress. 2010 Dec;23(6):663-73</RefSource>
+                <PMID Version="1">21171126</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Arch Pediatr Adolesc Med. 2011 Jan;165(1):16-21</RefSource>
+                <PMID Version="1">21199975</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Psychiatr Serv. 2010 Aug;61(8):788-95</RefSource>
+                <PMID Version="1">20675837</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Child Abuse Negl. 2010 Apr;34(4):215-24</RefSource>
+                <PMID Version="1">20304489</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Clin Child Adolesc Psychol. 2010;39(2):151-62</RefSource>
+                <PMID Version="1">20390807</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Am J Public Health. 2010 Apr;100(4):742-9</RefSource>
+                <PMID Version="1">19608950</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Am Psychol. 2010 Feb-Mar;65(2):85-97</RefSource>
+                <PMID Version="1">20141264</PMID>
+            </CommentsCorrections>
+        </CommentsCorrectionsList>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D019958">Attention Deficit and Disruptive Behavior Disorders</DescriptorName>
+                <QualifierName MajorTopicYN="N" UI="Q000523">psychology</QualifierName>
+                <QualifierName MajorTopicYN="Y" UI="Q000628">therapy</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="Y" UI="D001291">Attitude of Health Personnel</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D002648">Child</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D002662">Child Health Services</DescriptorName>
+                <QualifierName MajorTopicYN="N" UI="Q000592">standards</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D015928">Cognitive Therapy</DescriptorName>
+                <QualifierName MajorTopicYN="Y" UI="Q000193">education</QualifierName>
+                <QualifierName MajorTopicYN="N" UI="Q000592">standards</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D003863">Depression</DescriptorName>
+                <QualifierName MajorTopicYN="N" UI="Q000523">psychology</QualifierName>
+                <QualifierName MajorTopicYN="Y" UI="Q000628">therapy</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="Y" UI="D055317">Evidence-Based Practice</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="Y" UI="D005178">Faculty</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D008605">Mental Health Services</DescriptorName>
+                <QualifierName MajorTopicYN="N" UI="Q000592">standards</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D010043">Outcome and Process Assessment (Health Care)</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D013313">Stress Disorders, Post-Traumatic</DescriptorName>
+                <QualifierName MajorTopicYN="N" UI="Q000523">psychology</QualifierName>
+                <QualifierName MajorTopicYN="Y" UI="Q000628">therapy</QualifierName>
+            </MeshHeading>
+        </MeshHeadingList>
+        <OtherID Source="NLM">NIHMS470587</OtherID>
+        <OtherID Source="NLM">PMC3758397</OtherID>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2013</Year>
+                <Month>4</Month>
+                <Day>23</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2013</Year>
+                <Month>4</Month>
+                <Day>23</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2015</Year>
+                <Month>10</Month>
+                <Day>29</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="doi">10.1007/s10488-013-0492-6</ArticleId>
+            <ArticleId IdType="pubmed">23605292</ArticleId>
+            <ArticleId IdType="pmc">PMC3758397</ArticleId>
+            <ArticleId IdType="mid">NIHMS470587</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

@@ -1,0 +1,452 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2016//EN" "http://www.ncbi.nlm.nih.gov/corehtml/query/DTD/pubmed_160101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="MEDLINE">
+        <PMID Version="1">24188687</PMID>
+        <DateCreated>
+            <Year>2013</Year>
+            <Month>11</Month>
+            <Day>05</Day>
+        </DateCreated>
+        <DateCompleted>
+            <Year>2014</Year>
+            <Month>09</Month>
+            <Day>12</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2015</Year>
+            <Month>04</Month>
+            <Day>22</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Electronic">1938-0674</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>12</Volume>
+                    <Issue>4</Issue>
+                    <PubDate>
+                        <Year>2013</Year>
+                        <Month>Dec</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Clinical colorectal cancer</Title>
+                <ISOAbbreviation>Clin Colorectal Cancer</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Prognostic factors in relation to racial disparity in advanced colorectal cancer survival.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>287-93</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1016/j.clcc.2013.08.001</ELocationID>
+            <ELocationID EIdType="pii" ValidYN="Y">S1533-0028(13)00087-X</ELocationID>
+            <Abstract>
+                <AbstractText Label="INTRODUCTION" NlmCategory="BACKGROUND">Colorectal cancer mortality rates are significantly greater in AA than in EA individuals, and the disparity is worsening. We investigated the relationship between race and metastatic CRC (mCRC) survival in younger and older patients.</AbstractText>
+                <AbstractText Label="PATIENTS AND METHODS" NlmCategory="METHODS">Using data from the Hollings Cancer Center (Charleston, SC), we studied the role of clinical, pathologic, and treatment-related factors on the disparity in survival. We carried out a retrospective cohort study of 82 mCRC patients (26 AA, 56 EA). The data source was medical record data from June 1, 2004 through May 31, 2008 with follow-up through June 30, 2010. Using Kaplan-Meier methods, we generated median survival time according to race and age (&lt; 61, ≥ 61 years). Cox proportional hazards regression models were used to model the risk of death according to race.</AbstractText>
+                <AbstractText Label="RESULTS" NlmCategory="RESULTS">The median age was 56.7 years for AA and 61.6 years for EA patients. Compared with EA, median survival in AA patients was 59% worse in younger patients (12.7 vs. 31.0 months) and 29% worse in older patients (11.7 vs. 16.4 months). The risk of death among younger AA compared with EA patients was 2.45 (95% confidence interval [CI], 1.15-5.23) and among older patients was 1.16 (95% CI, 0.49-2.73).</AbstractText>
+                <AbstractText Label="CONCLUSION" NlmCategory="CONCLUSIONS">Our results highlight the importance of considering younger age, clinical prognostic markers, and tumor phenotypes as potential sources of the disparity in advanced stage CRC.</AbstractText>
+                <CopyrightInformation>Copyright © 2013 Elsevier Inc. All rights reserved.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Wallace</LastName>
+                    <ForeName>Kristin</ForeName>
+                    <Initials>K</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Public Health Sciences, Medical University of South Carolina, Charleston, SC; Hollings Cancer Center, Medical University of South Carolina, Charleston, SC. Electronic address: wallack@musc.edu.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Sterba</LastName>
+                    <ForeName>Katherine R</ForeName>
+                    <Initials>KR</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Gore</LastName>
+                    <ForeName>Elena</ForeName>
+                    <Initials>E</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Lewin</LastName>
+                    <ForeName>David N</ForeName>
+                    <Initials>DN</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Ford</LastName>
+                    <ForeName>Marvella E</ForeName>
+                    <Initials>ME</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Thomas</LastName>
+                    <ForeName>Melanie B</ForeName>
+                    <Initials>MB</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Alberg</LastName>
+                    <ForeName>Anthony J</ForeName>
+                    <Initials>AJ</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <GrantList CompleteYN="Y">
+                <Grant>
+                    <GrantID>K07 CA151864</GrantID>
+                    <Acronym>CA</Acronym>
+                    <Agency>NCI NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>K07CA151864-01A1</GrantID>
+                    <Acronym>CA</Acronym>
+                    <Agency>NCI NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>P30 CA138313</GrantID>
+                    <Acronym>CA</Acronym>
+                    <Agency>NCI NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>P30CA138313</GrantID>
+                    <Acronym>CA</Acronym>
+                    <Agency>NCI NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>UL1 TR000062</GrantID>
+                    <Acronym>TR</Acronym>
+                    <Agency>NCATS NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+            </GrantList>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D052061">Research Support, N.I.H., Extramural</PublicationType>
+                <PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>Clin Colorectal Cancer</MedlineTA>
+            <NlmUniqueID>101120693</NlmUniqueID>
+            <ISSNLinking>1533-0028</ISSNLinking>
+        </MedlineJournalInfo>
+        <CitationSubset>IM</CitationSubset>
+        <CommentsCorrectionsList>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Natl Cancer Inst. 2004 Oct 6;96(19):1420-5</RefSource>
+                <PMID Version="1">15467030</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Ann Epidemiol. 2004 Mar;14(3):215-21</RefSource>
+                <PMID Version="1">15036226</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Am J Public Health. 1996 Apr;86(4):582-6</RefSource>
+                <PMID Version="1">8604797</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Clin Invest. 2004 Dec;114(12):1752-61</RefSource>
+                <PMID Version="1">15599400</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>N Engl J Med. 2005 Feb 3;352(5):476-87</RefSource>
+                <PMID Version="1">15689586</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Am J Gastroenterol. 2005 Mar;100(3):515-23; discussion 514</RefSource>
+                <PMID Version="1">15743345</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Int J Radiat Oncol Biol Phys. 2005 Mar 15;61(4):1087-95</RefSource>
+                <PMID Version="1">15752888</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Clin Invest. 2005 May;115(5):1111-9</RefSource>
+                <PMID Version="1">15864338</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Ann Surg Oncol. 2005 Aug;12(8):637-45</RefSource>
+                <PMID Version="1">15965730</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Natl Cancer Inst. 2005 Aug 17;97(16):1211-20</RefSource>
+                <PMID Version="1">16106026</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Am J Med. 2006 Apr;119(4):327-34</RefSource>
+                <PMID Version="1">16564775</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cancer Epidemiol Biomarkers Prev. 2006 Apr;15(4):792-7</RefSource>
+                <PMID Version="1">16614125</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Yonsei Med J. 2006 Oct 31;47(5):646-56</RefSource>
+                <PMID Version="1">17066508</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Oncogene. 2004 Feb 19;23(7):1405-11</RefSource>
+                <PMID Version="1">14661059</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Blood. 2007 Jun 1;109(11):4663-70</RefSource>
+                <PMID Version="1">17284526</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Natl Med Assoc. 2007 Jul;99(7):733-48</RefSource>
+                <PMID Version="1">17668639</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cancer Epidemiol Biomarkers Prev. 2008 Aug;17(8):1950-62</RefSource>
+                <PMID Version="1">18708384</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Medicine (Baltimore). 2008 Sep;87(5):259-63</RefSource>
+                <PMID Version="1">18794708</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>JAMA. 2008 Sep 24;300(12):1417-22</RefSource>
+                <PMID Version="1">18812532</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Methods Mol Biol. 2009;472:191-215</RefSource>
+                <PMID Version="1">19107434</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Am J Epidemiol. 2009 Feb 1;169(3):355-64</RefSource>
+                <PMID Version="1">19066309</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Br J Cancer. 2009 Mar 24;100(6):881-7</RefSource>
+                <PMID Version="1">19259089</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Am J Surg Pathol. 2009 Apr;33(4):572-82</RefSource>
+                <PMID Version="1">19047896</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Dis Colon Rectum. 2009 Aug;52(8):1359-66</RefSource>
+                <PMID Version="1">19617745</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Dig Dis Sci. 2009 Sep;54(9):1985-90</RefSource>
+                <PMID Version="1">19554449</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Clin Oncol. 2009 Aug 1;27(22):3677-83</RefSource>
+                <PMID Version="1">19470929</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>CMAJ. 2009 Aug 4;181(3-4):151-7</RefSource>
+                <PMID Version="1">19635749</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Clin Oncol. 2009 Sep 1;27(25):4109-15</RefSource>
+                <PMID Version="1">19636001</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Anticancer Res. 2010 Feb;30(2):653-60</RefSource>
+                <PMID Version="1">20332485</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Mol Cancer. 2010;9:100</RefSource>
+                <PMID Version="1">20459617</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Gastrointest Surg. 2010 Sep;14(9):1355-61</RefSource>
+                <PMID Version="1">20585992</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Am J Public Health. 2010 Oct;100(10):1912-6</RefSource>
+                <PMID Version="1">20724684</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Colorectal Dis. 2010 Oct;12(10):987-94</RefSource>
+                <PMID Version="1">19555389</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Anticancer Res. 2010 Dec;30(12):5227-31</RefSource>
+                <PMID Version="1">21187518</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>PLoS One. 2011;6(2):e14699</RefSource>
+                <PMID Version="1">21358818</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Eur J Epidemiol. 2011 Nov;26(11):863-76</RefSource>
+                <PMID Version="1">21938478</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Clin Oncol. 2012 Jan 1;30(1):53-9</RefSource>
+                <PMID Version="1">22124092</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>CA Cancer J Clin. 2012 Jan-Feb;62(1):10-29</RefSource>
+                <PMID Version="1">22237781</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Clin Oncol. 2012 Feb 1;30(4):401-5</RefSource>
+                <PMID Version="1">22184373</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cancer. 2012 Feb 15;118(4):1083-90</RefSource>
+                <PMID Version="1">21800287</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Clin Chem Lab Med. 2012;50(9):1689-91</RefSource>
+                <PMID Version="1">22962231</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Chemother. 2012 Aug;24(4):212-6</RefSource>
+                <PMID Version="1">23040685</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Crit Rev Oncol Hematol. 2013 Feb;85(2):121-35</RefSource>
+                <PMID Version="1">22762963</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Exp Gerontol. 2013 Feb;48(2):103-8</RefSource>
+                <PMID Version="1">23228954</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cancer Causes Control. 2013 Mar;24(3):463-71</RefSource>
+                <PMID Version="1">23296454</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cancer. 2013 Apr 15;119(8):1512-20</RefSource>
+                <PMID Version="1">23280333</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cancer. 2013 Apr 15;119(8):1528-36</RefSource>
+                <PMID Version="1">23310947</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Prev Chronic Dis. 2013;10:E65</RefSource>
+                <PMID Version="1">23618545</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cancer Epidemiol Biomarkers Prev. 2013 Jun;22(6):1030-6</RefSource>
+                <PMID Version="1">23576691</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Cancer Res Clin Oncol. 2013 Aug;139(8):1303-10</RefSource>
+                <PMID Version="1">23633003</PMID>
+            </CommentsCorrections>
+        </CommentsCorrectionsList>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D000328">Adult</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D001741">African Americans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D000367">Age Factors</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D000368">Aged</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D000369">Aged, 80 and over</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D015331">Cohort Studies</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D015179">Colorectal Neoplasms</DescriptorName>
+                <QualifierName MajorTopicYN="Y" UI="Q000208">ethnology</QualifierName>
+                <QualifierName MajorTopicYN="Y" UI="Q000401">mortality</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D044465">European Continental Ancestry Group</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D005260">Female</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="Y" UI="D054624">Health Status Disparities</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D053208">Kaplan-Meier Estimate</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D008297">Male</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D008875">Middle Aged</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D011379">Prognosis</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D016016">Proportional Hazards Models</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D012189">Retrospective Studies</DescriptorName>
+            </MeshHeading>
+        </MeshHeadingList>
+        <OtherID Source="NLM">NIHMS532201</OtherID>
+        <OtherID Source="NLM">PMC3863997</OtherID>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">African American</Keyword>
+            <Keyword MajorTopicYN="N">Colon cancer</Keyword>
+            <Keyword MajorTopicYN="N">Metastatic</Keyword>
+            <Keyword MajorTopicYN="N">Outcome</Keyword>
+            <Keyword MajorTopicYN="N">Young-onset</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2013</Year>
+                <Month>5</Month>
+                <Day>6</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2013</Year>
+                <Month>8</Month>
+                <Day>19</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2013</Year>
+                <Month>8</Month>
+                <Day>28</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2013</Year>
+                <Month>11</Month>
+                <Day>6</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2013</Year>
+                <Month>11</Month>
+                <Day>6</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2014</Year>
+                <Month>9</Month>
+                <Day>13</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pii">S1533-0028(13)00087-X</ArticleId>
+            <ArticleId IdType="doi">10.1016/j.clcc.2013.08.001</ArticleId>
+            <ArticleId IdType="pubmed">24188687</ArticleId>
+            <ArticleId IdType="pmc">PMC3863997</ArticleId>
+            <ArticleId IdType="mid">NIHMS532201</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

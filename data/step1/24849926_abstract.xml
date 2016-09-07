@@ -1,0 +1,521 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2016//EN" "http://www.ncbi.nlm.nih.gov/corehtml/query/DTD/pubmed_160101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="MEDLINE">
+        <PMID Version="1">24849926</PMID>
+        <DateCreated>
+            <Year>2014</Year>
+            <Month>06</Month>
+            <Day>21</Day>
+        </DateCreated>
+        <DateCompleted>
+            <Year>2014</Year>
+            <Month>08</Month>
+            <Day>26</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2015</Year>
+            <Month>08</Month>
+            <Day>05</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1521-0103</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>350</Volume>
+                    <Issue>2</Issue>
+                    <PubDate>
+                        <Year>2014</Year>
+                        <Month>Aug</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>The Journal of pharmacology and experimental therapeutics</Title>
+                <ISOAbbreviation>J. Pharmacol. Exp. Ther.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Agonism of the 5-hydroxytryptamine 1F receptor promotes mitochondrial biogenesis and recovery from acute kidney injury.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>257-64</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1124/jpet.114.214700</ELocationID>
+            <Abstract>
+                <AbstractText>Many acute and chronic conditions, such as acute kidney injury, chronic kidney disease, heart failure, and liver disease, involve mitochondrial dysfunction. Although we have provided evidence that drug-induced stimulation of mitochondrial biogenesis (MB) accelerates mitochondrial and cellular repair, leading to recovery of organ function, only a limited number of chemicals have been identified that induce MB. The goal of this study was to assess the role of the 5-hydroxytryptamine 1F (5-HT1F) receptor in MB. Immunoblot and quantitative polymerase chain reaction analyses revealed 5-HT1F receptor expression in renal proximal tubule cells (RPTC). A MB screening assay demonstrated that two selective 5-HT1F receptor agonists, LY334370 (4-fluoro-N-[3-(1-methyl-4-piperidinyl)-1H-indol-5-yl]benzamide) and LY344864 (N-[(3R)-3-(dimethylamino)-2,3,4,9-tetrahydro-1H-carbazol-6-yl]-4-fluorobenzamide; 1-100 nM) increased carbonylcyanide-p-trifluoromethoxyphenylhydrazone-uncoupled oxygen consumption in RPTC, and validation studies confirmed both agonists increased mitochondrial proteins [e.g., ATP synthase β, cytochrome c oxidase 1 (Cox1), and NADH dehydrogenase (ubiquinone) 1β subcomplex subunit 8 (NDUFB8)] in vitro. Small interfering RNA knockdown of the 5-HT1F receptor blocked agonist-induced MB. Furthermore, LY344864 increased peroxisome proliferator-activated receptor coactivator 1-α, Cox1, and NDUFB8 transcript levels and mitochondrial DNA (mtDNA) copy number in murine renal cortex, heart, and liver. Finally, LY344864 accelerated recovery of renal function, as indicated by decreased blood urea nitrogen and kidney injury molecule 1 and increased mtDNA copy number following ischemia/reperfusion-induced acute kidney injury (AKI). In summary, these studies reveal that the 5-HT1F receptor is linked to MB, 5-HT1F receptor agonism promotes MB in vitro and in vivo, and 5-HT1F receptor agonism promotes recovery from AKI injury. Induction of MB through 5-HT1F receptor agonism represents a new target and approach to treat mitochondrial organ dysfunction.</AbstractText>
+                <CopyrightInformation>U.S. Government work not protected by U.S. copyright.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Garrett</LastName>
+                    <ForeName>Sara M</ForeName>
+                    <Initials>SM</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Center for Cell Death, Injury, and Regeneration, Department of Drug Discovery and Biomedical Sciences, Medical University of South Carolina, Charleston, South Carolina (S.M.G., R.M.W., C.C.B., R.G.S.); and Ralph H. Johnson Veterans Affairs Medical Center, Charleston, South Carolina (R.G.S.).</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Whitaker</LastName>
+                    <ForeName>Ryan M</ForeName>
+                    <Initials>RM</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Center for Cell Death, Injury, and Regeneration, Department of Drug Discovery and Biomedical Sciences, Medical University of South Carolina, Charleston, South Carolina (S.M.G., R.M.W., C.C.B., R.G.S.); and Ralph H. Johnson Veterans Affairs Medical Center, Charleston, South Carolina (R.G.S.).</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Beeson</LastName>
+                    <ForeName>Craig C</ForeName>
+                    <Initials>CC</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Center for Cell Death, Injury, and Regeneration, Department of Drug Discovery and Biomedical Sciences, Medical University of South Carolina, Charleston, South Carolina (S.M.G., R.M.W., C.C.B., R.G.S.); and Ralph H. Johnson Veterans Affairs Medical Center, Charleston, South Carolina (R.G.S.).</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Schnellmann</LastName>
+                    <ForeName>Rick G</ForeName>
+                    <Initials>RG</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Center for Cell Death, Injury, and Regeneration, Department of Drug Discovery and Biomedical Sciences, Medical University of South Carolina, Charleston, South Carolina (S.M.G., R.M.W., C.C.B., R.G.S.); and Ralph H. Johnson Veterans Affairs Medical Center, Charleston, South Carolina (R.G.S.) schnell@musc.edu.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <GrantList CompleteYN="Y">
+                <Grant>
+                    <GrantID>5T32-DK083262-03</GrantID>
+                    <Acronym>DK</Acronym>
+                    <Agency>NIDDK NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>F30 DK096964</GrantID>
+                    <Acronym>DK</Acronym>
+                    <Agency>NIDDK NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>R01 GM084147</GrantID>
+                    <Acronym>GM</Acronym>
+                    <Agency>NIGMS NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>R01-GM084147</GrantID>
+                    <Acronym>GM</Acronym>
+                    <Agency>NIGMS NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>RR029882</GrantID>
+                    <Acronym>RR</Acronym>
+                    <Agency>NCRR NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>UL1 RR029882</GrantID>
+                    <Acronym>RR</Acronym>
+                    <Agency>NCRR NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+            </GrantList>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D052061">Research Support, N.I.H., Extramural</PublicationType>
+                <PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+                <PublicationType UI="D013486">Research Support, U.S. Gov't, Non-P.H.S.</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2014</Year>
+                <Month>05</Month>
+                <Day>21</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>J Pharmacol Exp Ther</MedlineTA>
+            <NlmUniqueID>0376362</NlmUniqueID>
+            <ISSNLinking>0022-3565</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="C108218">4-fluoro-N-(3-(1-methyl-4-piperidinyl)-1H-indol-5-yl)benzamide</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D001549">Benzamides</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D002227">Carbazoles</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D004272">DNA, Mitochondrial</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D005464">Fluorobenzenes</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D007211">Indoles</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="C109453">LY 344864</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="C485290">Ppargc1a protein, mouse</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D011985">Receptors, Serotonin</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D017366">Serotonin Receptor Agonists</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D014157">Transcription Factors</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="C103824">serotonin 1F receptor</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>EC 1.9.3.1</RegistryNumber>
+                <NameOfSubstance UI="D003576">Electron Transport Complex IV</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>EC 1.9.3.1</RegistryNumber>
+                <NameOfSubstance UI="C526871">cytochrome c oxidase subunit I, mouse</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <CommentsCorrectionsList>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Heart Fail Rev. 2007 Dec;12(3-4):249-60</RefSource>
+                <PMID Version="1">17516167</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Front Biosci. 2007;12:1131-53</RefSource>
+                <PMID Version="1">17127367</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Proc Natl Acad Sci U S A. 2008 Mar 25;105(12):4721-6</RefSource>
+                <PMID Version="1">18347329</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Pharmacol Exp Ther. 2008 May;325(2):536-43</RefSource>
+                <PMID Version="1">18267976</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Chem Rev. 2008 May;108(5):1614-41</RefSource>
+                <PMID Version="1">18476671</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cardiovasc Res. 2008 Jul 15;79(2):208-17</RefSource>
+                <PMID Version="1">18430751</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Mol Med. 2008 Jul-Aug;14(7-8):502-16</RefSource>
+                <PMID Version="1">18488066</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Biol Chem. 2008 Aug 15;283(33):22464-72</RefSource>
+                <PMID Version="1">18579525</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cell Metab. 2008 Sep;8(3):249-56</RefSource>
+                <PMID Version="1">18762025</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Endocrinol Metab Clin North Am. 2008 Sep;37(3):713-31, x</RefSource>
+                <PMID Version="1">18775360</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Appl Physiol (1985). 2008 Oct;105(4):1098-105</RefSource>
+                <PMID Version="1">18653753</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Kidney Int. 2009 Feb;75(3):304-11</RefSource>
+                <PMID Version="1">18843260</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Am J Physiol Endocrinol Metab. 2009 Jun;296(6):E1400-8</RefSource>
+                <PMID Version="1">19318515</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Am J Physiol Heart Circ Physiol. 2009 Jul;297(1):H13-20</RefSource>
+                <PMID Version="1">19429820</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>IUBMB Life. 2009 Nov;61(11):1051-62</RefSource>
+                <PMID Version="1">19859975</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Biol Chem. 2010 Jan 1;285(1):142-52</RefSource>
+                <PMID Version="1">19861415</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Pharmacol Exp Ther. 2010 Feb;332(2):632-9</RefSource>
+                <PMID Version="1">19875674</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Pharmacol Exp Ther. 2010 May;333(2):593-601</RefSource>
+                <PMID Version="1">20103585</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Anal Biochem. 2010 Sep 1;404(1):75-81</RefSource>
+                <PMID Version="1">20465991</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>PLoS One. 2010;5(7):e11606</RefSource>
+                <PMID Version="1">20657826</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Kidney Int. 2011 Jul;80(1):29-40</RefSource>
+                <PMID Version="1">21562469</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>PLoS One. 2011;6(11):e26989</RefSource>
+                <PMID Version="1">22087241</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Proc Natl Acad Sci U S A. 2011 Dec 20;108(51):20808-13</RefSource>
+                <PMID Version="1">22143799</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Drug Metab Rev. 2012 Feb;44(1):34-87</RefSource>
+                <PMID Version="1">21892896</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Drug Metab Rev. 2012 Feb;44(1):88-106</RefSource>
+                <PMID Version="1">22229890</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Hum Mol Genet. 2012 Feb 1;21(3):526-35</RefSource>
+                <PMID Version="1">22012983</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Adv Exp Med Biol. 2012;942:269-86</RefSource>
+                <PMID Version="1">22399427</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cell Mol Life Sci. 2012 Apr;69(7):1153-65</RefSource>
+                <PMID Version="1">21984601</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Prog Neurobiol. 2012 May;97(2):142-51</RefSource>
+                <PMID Version="1">22100502</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Am J Physiol Cell Physiol. 2012 Jun 15;302(12):C1772-9</RefSource>
+                <PMID Version="1">22496244</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Pharmacol Exp Ther. 2012 Jul;342(1):106-18</RefSource>
+                <PMID Version="1">22490378</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Sci Transl Med. 2012 Jul 11;4(142):142ra97</RefSource>
+                <PMID Version="1">22786682</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Trends Endocrinol Metab. 2012 Sep;23(9):459-66</RefSource>
+                <PMID Version="1">22817841</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cent Nerv Syst Agents Med Chem. 2012 Dec;12(4):241-9</RefSource>
+                <PMID Version="1">22934751</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Am Coll Cardiol. 2013 Feb 12;61(6):599-610</RefSource>
+                <PMID Version="1">23219298</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Bioorg Med Chem Lett. 2013 Oct 1;23(19):5376-81</RefSource>
+                <PMID Version="1">23954364</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Biochim Biophys Acta. 2013 Dec;1833(12):3426-35</RefSource>
+                <PMID Version="1">23643731</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Pharmacol Exp Ther. 2013 Dec;347(3):626-34</RefSource>
+                <PMID Version="1">24042162</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Toxicol Appl Pharmacol. 2013 Dec 1;273(2):345-54</RefSource>
+                <PMID Version="1">24096033</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Am Soc Nephrol. 2014 Jun;25(6):1157-62</RefSource>
+                <PMID Version="1">24511124</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Br J Pharmacol. 2000 Feb;129(3):501-8</RefSource>
+                <PMID Version="1">10711348</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cephalalgia. 2003 Oct;23(8):776-85</RefSource>
+                <PMID Version="1">14510923</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Proc Natl Acad Sci U S A. 2004 Apr 20;101(16):6062-7</RefSource>
+                <PMID Version="1">15075390</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Bioenerg Biomembr. 2004 Aug;36(4):363-8</RefSource>
+                <PMID Version="1">15377873</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Proc Natl Acad Sci U S A. 1993 Mar 15;90(6):2184-8</RefSource>
+                <PMID Version="1">8384716</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Am J Physiol. 1995 Apr;268(4 Pt 1):C1053-61</RefSource>
+                <PMID Version="1">7733227</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Life Sci. 1997;61(21):2117-26</RefSource>
+                <PMID Version="1">9395253</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Neuropharmacology. 1999 Aug;38(8):1083-152</RefSource>
+                <PMID Version="1">10462127</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Naunyn Schmiedebergs Arch Pharmacol. 2005 Mar;371(3):178-84</RefSource>
+                <PMID Version="1">15900511</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Diabetes. 2006 Jan;55(1):120-7</RefSource>
+                <PMID Version="1">16380484</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Am J Physiol Renal Physiol. 2007 Nov;293(5):F1468-75</RefSource>
+                <PMID Version="1">17715266</PMID>
+            </CommentsCorrections>
+        </CommentsCorrectionsList>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D058186">Acute Kidney Injury</DescriptorName>
+                <QualifierName MajorTopicYN="Y" UI="Q000188">drug therapy</QualifierName>
+                <QualifierName MajorTopicYN="N" UI="Q000503">physiopathology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D000818">Animals</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D001549">Benzamides</DescriptorName>
+                <QualifierName MajorTopicYN="N" UI="Q000494">pharmacology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D002227">Carbazoles</DescriptorName>
+                <QualifierName MajorTopicYN="N" UI="Q000494">pharmacology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D004272">DNA, Mitochondrial</DescriptorName>
+                <QualifierName MajorTopicYN="N" UI="Q000032">analysis</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D003576">Electron Transport Complex IV</DescriptorName>
+                <QualifierName MajorTopicYN="N" UI="Q000235">genetics</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D005260">Female</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D005464">Fluorobenzenes</DescriptorName>
+                <QualifierName MajorTopicYN="N" UI="Q000494">pharmacology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D007211">Indoles</DescriptorName>
+                <QualifierName MajorTopicYN="N" UI="Q000494">pharmacology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D007668">Kidney</DescriptorName>
+                <QualifierName MajorTopicYN="N" UI="Q000187">drug effects</QualifierName>
+                <QualifierName MajorTopicYN="N" UI="Q000378">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D008297">Male</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D051379">Mice</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D008810">Mice, Inbred C57BL</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D008928">Mitochondria</DescriptorName>
+                <QualifierName MajorTopicYN="Y" UI="Q000187">drug effects</QualifierName>
+                <QualifierName MajorTopicYN="N" UI="Q000502">physiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D010085">Oxidative Phosphorylation</DescriptorName>
+                <QualifierName MajorTopicYN="N" UI="Q000187">drug effects</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D011817">Rabbits</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D011985">Receptors, Serotonin</DescriptorName>
+                <QualifierName MajorTopicYN="Y" UI="Q000502">physiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D015427">Reperfusion Injury</DescriptorName>
+                <QualifierName MajorTopicYN="N" UI="Q000188">drug therapy</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D017366">Serotonin Receptor Agonists</DescriptorName>
+                <QualifierName MajorTopicYN="Y" UI="Q000494">pharmacology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D014157">Transcription Factors</DescriptorName>
+                <QualifierName MajorTopicYN="N" UI="Q000235">genetics</QualifierName>
+            </MeshHeading>
+        </MeshHeadingList>
+        <OtherID Source="NLM">PMC4109485</OtherID>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="aheadofprint">
+                <Year>2014</Year>
+                <Month>5</Month>
+                <Day>21</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2014</Year>
+                <Month>5</Month>
+                <Day>23</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2014</Year>
+                <Month>5</Month>
+                <Day>23</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2014</Year>
+                <Month>8</Month>
+                <Day>27</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pii">jpet.114.214700</ArticleId>
+            <ArticleId IdType="doi">10.1124/jpet.114.214700</ArticleId>
+            <ArticleId IdType="pubmed">24849926</ArticleId>
+            <ArticleId IdType="pmc">PMC4109485</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

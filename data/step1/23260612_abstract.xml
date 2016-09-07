@@ -1,0 +1,311 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2016//EN" "http://www.ncbi.nlm.nih.gov/corehtml/query/DTD/pubmed_160101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="MEDLINE">
+        <PMID Version="1">23260612</PMID>
+        <DateCreated>
+            <Year>2012</Year>
+            <Month>12</Month>
+            <Day>24</Day>
+        </DateCreated>
+        <DateCompleted>
+            <Year>2013</Year>
+            <Month>05</Month>
+            <Day>22</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2016</Year>
+            <Month>05</Month>
+            <Day>18</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1876-7583</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>6</Volume>
+                    <Issue>1</Issue>
+                    <PubDate>
+                        <Year>2013</Year>
+                        <Month>Jan</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Disability and health journal</Title>
+                <ISOAbbreviation>Disabil Health J</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>The process associated with motivation of a home-based Wii Fit exercise program among sedentary African American women with systemic lupus erythematosus.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>63-8</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1016/j.dhjo.2012.08.003</ELocationID>
+            <ELocationID EIdType="pii" ValidYN="Y">S1936-6574(12)00115-X</ELocationID>
+            <Abstract>
+                <AbstractText Label="OBJECTIVE" NlmCategory="OBJECTIVE">To explore the process associated with the motivation for playing Wii Fit among patients with systemic lupus erythematosus (SLE).</AbstractText>
+                <AbstractText Label="METHODS" NlmCategory="METHODS">Individual in-depth semi-structured telephone interviews were conducted with 14 sedentary African American women with SLE to explore their experiences and reflect on their motivation for playing Wii Fit after completing a 10-week home-based Wii Fit exercise program. Interviews were audio-recorded, transcribed verbatim, and analyzed using the constant comparative method to identify categories related to participants' motivation. Three authors independently sorted, organized and coded transcript text into categories, then combined the categories into themes and subthemes.</AbstractText>
+                <AbstractText Label="RESULTS" NlmCategory="RESULTS">In addition to the two themes (Ethical principal of keeping a commitment, and Don't want to let anyone down) generic to home-based exercise trials, we identified five themes (Enjoyment, Health Benefits, Sense of Accomplishment, Convenience, and Personalized) that revealed why the participants were motivated to play the Wii Fit. Enjoyment had three subthemes: Interactive, Challenging, and Competitive with an embedded social element. However, several participants commented they were not able to do many activities, master certain games, or figure out how to play some; as a result, they were bored with the limited selection of activities that they could do.</AbstractText>
+                <AbstractText Label="CONCLUSIONS" NlmCategory="CONCLUSIONS">The motivational elements of the Wii Fit may contribute to improved exercise motivation and adherence in select sedentary African American women with SLE. Results provide a better understanding on the important elements to incorporate in the development of sustainable home-based exercise programs with interactive health video games for this population.</AbstractText>
+                <CopyrightInformation>Copyright © 2013 Elsevier Inc. All rights reserved.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Yuen</LastName>
+                    <ForeName>Hon K</ForeName>
+                    <Initials>HK</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Occupational Therapy, School of Health Professions, University of Alabama at Birmingham, Birmingham, AL 35294, USA. yuen@uab.edu</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Breland</LastName>
+                    <ForeName>Hazel L</ForeName>
+                    <Initials>HL</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Vogtle</LastName>
+                    <ForeName>Laura K</ForeName>
+                    <Initials>LK</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Holthaus</LastName>
+                    <ForeName>Katy</ForeName>
+                    <Initials>K</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Kamen</LastName>
+                    <ForeName>Diane L</ForeName>
+                    <Initials>DL</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Sword</LastName>
+                    <ForeName>David</ForeName>
+                    <Initials>D</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <GrantList CompleteYN="Y">
+                <Grant>
+                    <GrantID>UL1 RR029882</GrantID>
+                    <Acronym>RR</Acronym>
+                    <Agency>NCRR NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>UL1 TR000062</GrantID>
+                    <Acronym>TR</Acronym>
+                    <Agency>NCATS NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+            </GrantList>
+            <PublicationTypeList>
+                <PublicationType UI="D016430">Clinical Trial</PublicationType>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2012</Year>
+                <Month>09</Month>
+                <Day>30</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>Disabil Health J</MedlineTA>
+            <NlmUniqueID>101306633</NlmUniqueID>
+            <ISSNLinking>1876-7583</ISSNLinking>
+        </MedlineJournalInfo>
+        <CitationSubset>IM</CitationSubset>
+        <CommentsCorrectionsList>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Cardiovasc Nurs. 2006 May-Jun;21(3):208-16</RefSource>
+                <PMID Version="1">16699361</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Curr Opin Rheumatol. 2007 Mar;19(2):197-203</RefSource>
+                <PMID Version="1">17278938</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Lupus. 2007;16(1):5-9</RefSource>
+                <PMID Version="1">17283578</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Aust Fam Physician. 2007 Dec;36(12):1061-4</RefSource>
+                <PMID Version="1">18075637</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Transcult Nurs. 2008 Apr;19(2):175-83</RefSource>
+                <PMID Version="1">18263846</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Arthritis Rheum. 2008 May;58(5):1237-47</RefSource>
+                <PMID Version="1">18438839</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Clin J Oncol Nurs. 2008 Oct;12(5 Suppl):37-47</RefSource>
+                <PMID Version="1">18842523</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cyberpsychol Behav. 2009 Dec;12(6):761-5</RefSource>
+                <PMID Version="1">19788381</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Health Psychol. 2010 Sep;15(6):838-47</RefSource>
+                <PMID Version="1">20453043</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Lupus. 2011 Mar;20(3):231-42</RefSource>
+                <PMID Version="1">21183562</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Circulation. 2011 May 31;123(21):2507-16</RefSource>
+                <PMID Version="1">21518980</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Lupus. 2011 Oct;20(12):1293-9</RefSource>
+                <PMID Version="1">21700656</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Epidemiol Community Health. 2001 Feb;55(2):132-8</RefSource>
+                <PMID Version="1">11154253</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Ethn Health. 2001 Aug-Nov;6(3-4):227-45</RefSource>
+                <PMID Version="1">11696933</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Gerontol B Psychol Sci Soc Sci. 2002 Sep;57(5):S263-74</RefSource>
+                <PMID Version="1">12198106</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cancer Nurs. 2004 Mar-Apr;27(2):108-18</RefSource>
+                <PMID Version="1">15253168</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Psychiatr Res. 1975 Nov;12(3):189-98</RefSource>
+                <PMID Version="1">1202204</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Arthritis Rheum. 1996 Mar;39(3):363-9</RefSource>
+                <PMID Version="1">8607884</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Percept Mot Skills. 1996 Apr;82(2):691-701</RefSource>
+                <PMID Version="1">8724948</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Arthritis Rheum. 1997 Sep;40(9):1725</RefSource>
+                <PMID Version="1">9324032</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Public Health Nurs. 1999 Feb;16(1):23-31</RefSource>
+                <PMID Version="1">10074819</PMID>
+            </CommentsCorrections>
+        </CommentsCorrectionsList>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D000328">Adult</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D001741">African Americans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D000368">Aged</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="Y" UI="D015444">Exercise</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="Y" UI="D005081">Exercise Therapy</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D005221">Fatigue</DescriptorName>
+                <QualifierName MajorTopicYN="N" UI="Q000209">etiology</QualifierName>
+                <QualifierName MajorTopicYN="N" UI="Q000628">therapy</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D005260">Female</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D007407">Interviews as Topic</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D008180">Lupus Erythematosus, Systemic</DescriptorName>
+                <QualifierName MajorTopicYN="N" UI="Q000150">complications</QualifierName>
+                <QualifierName MajorTopicYN="Y" UI="Q000628">therapy</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" UI="D008875">Middle Aged</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="Y" UI="D009042">Motivation</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="Y" UI="D010349">Patient Compliance</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="Y" UI="D057185">Sedentary Lifestyle</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="Y" UI="D018910">Video Games</DescriptorName>
+            </MeshHeading>
+        </MeshHeadingList>
+        <OtherID Source="NLM">NIHMS406721</OtherID>
+        <OtherID Source="NLM">PMC3539138</OtherID>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2012</Year>
+                <Month>1</Month>
+                <Day>14</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2012</Year>
+                <Month>6</Month>
+                <Day>14</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2012</Year>
+                <Month>8</Month>
+                <Day>30</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="aheadofprint">
+                <Year>2012</Year>
+                <Month>9</Month>
+                <Day>30</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2012</Year>
+                <Month>12</Month>
+                <Day>25</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2012</Year>
+                <Month>12</Month>
+                <Day>25</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2013</Year>
+                <Month>5</Month>
+                <Day>23</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pii">S1936-6574(12)00115-X</ArticleId>
+            <ArticleId IdType="doi">10.1016/j.dhjo.2012.08.003</ArticleId>
+            <ArticleId IdType="pubmed">23260612</ArticleId>
+            <ArticleId IdType="pmc">PMC3539138</ArticleId>
+            <ArticleId IdType="mid">NIHMS406721</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

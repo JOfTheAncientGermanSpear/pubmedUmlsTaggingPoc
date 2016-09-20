@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?><CAS version="2">
+    <uima.cas.Sofa _indexed="0" _id="3" sofaNum="1" sofaID="_InitialView" mimeType="text" sofaString="Novel immunotherapies for hematologic malignancies."/>
+    <org.apache.ctakes.typesystem.type.structured.DocumentID _indexed="1" _id="1" documentID="25510273_title.txt"/>
+    <uima.tcas.DocumentAnnotation _indexed="1" _id="10" _ref_sofa="3" begin="0" end="51" language="x-unspecified"/>
+    <org.apache.ctakes.typesystem.type.textspan.Segment _indexed="1" _id="15" _ref_sofa="3" begin="0" end="51" id="SIMPLE_SEGMENT"/>
+    <org.apache.ctakes.typesystem.type.textspan.Sentence _indexed="1" _id="21" _ref_sofa="3" begin="0" end="51" sentenceNumber="0"/>
+    <org.apache.ctakes.typesystem.type.syntax.WordToken _indexed="1" _id="27" _ref_sofa="3" begin="0" end="5" tokenNumber="0" normalizedForm="novel" partOfSpeech="NNP" capitalization="1" numPosition="0" canonicalForm="novel"/>
+    <org.apache.ctakes.typesystem.type.syntax.WordToken _indexed="1" _id="39" _ref_sofa="3" begin="6" end="21" tokenNumber="1" normalizedForm="immunotherapy" partOfSpeech="NNS" capitalization="0" numPosition="0" canonicalForm="immunotherapy"/>
+    <org.apache.ctakes.typesystem.type.syntax.WordToken _indexed="1" _id="51" _ref_sofa="3" begin="22" end="25" tokenNumber="2" normalizedForm="for" partOfSpeech="IN" capitalization="0" numPosition="0"/>
+    <org.apache.ctakes.typesystem.type.syntax.WordToken _indexed="1" _id="63" _ref_sofa="3" begin="26" end="37" tokenNumber="3" normalizedForm="hematologic" partOfSpeech="JJ" capitalization="0" numPosition="0" canonicalForm="hematologic"/>
+    <org.apache.ctakes.typesystem.type.syntax.WordToken _indexed="1" _id="75" _ref_sofa="3" begin="38" end="50" tokenNumber="4" normalizedForm="malignancy" partOfSpeech="NNS" capitalization="0" numPosition="0" canonicalForm="malignancy"/>
+    <org.apache.ctakes.typesystem.type.syntax.PunctuationToken _indexed="1" _id="87" _ref_sofa="3" begin="50" end="51" tokenNumber="5" normalizedForm="." partOfSpeech="."/>
+    <org.apache.ctakes.typesystem.type.syntax.NP _indexed="1" _id="95" _ref_sofa="3" begin="0" end="50" chunkType="NP"/>
+    <org.apache.ctakes.typesystem.type.syntax.NP _indexed="1" _id="105" _ref_sofa="3" begin="26" end="50" chunkType="NP"/>
+    <org.apache.ctakes.typesystem.type.syntax.PP _indexed="1" _id="100" _ref_sofa="3" begin="22" end="25" chunkType="PP"/>
+    <org.apache.ctakes.typesystem.type.textspan.LookupWindowAnnotation _indexed="1" _id="110" _ref_sofa="3" begin="0" end="50"/>
+    <org.apache.ctakes.typesystem.type.textsem.DiseaseDisorderMention _indexed="1" _id="296" _ref_sofa="3" begin="38" end="50" id="2" _ref_ontologyConceptArr="278" typeID="2" segmentID="SIMPLE_SEGMENT" discoveryTechnique="1" confidence="0.0" polarity="1" uncertainty="0" conditional="false" generic="false" subject="patient" historyOf="0"/>
+    <org.apache.ctakes.typesystem.type.textsem.DiseaseDisorderMention _indexed="1" _id="362" _ref_sofa="3" begin="26" end="50" id="1" _ref_ontologyConceptArr="357" typeID="2" segmentID="SIMPLE_SEGMENT" discoveryTechnique="1" confidence="0.0" polarity="1" uncertainty="0" conditional="false" generic="false" subject="patient" historyOf="0"/>
+    <org.apache.ctakes.typesystem.type.textsem.ProcedureMention _indexed="1" _id="472" _ref_sofa="3" begin="6" end="21" id="0" _ref_ontologyConceptArr="463" typeID="5" segmentID="SIMPLE_SEGMENT" discoveryTechnique="1" confidence="0.0" polarity="1" uncertainty="0" conditional="false" generic="false" subject="patient" historyOf="0"/>
+    <org.apache.ctakes.typesystem.type.syntax.ConllDependencyNode _indexed="1" _id="500" _ref_sofa="3" begin="0" end="51" id="0"/>
+    <org.apache.ctakes.typesystem.type.syntax.ConllDependencyNode _indexed="1" _id="514" _ref_sofa="3" begin="0" end="5" id="1" form="Novel" lemma="novel" cpostag="NNP" postag="NNP" feats="_" _ref_head="528" deprel="nn" pdeprel="_"/>
+    <org.apache.ctakes.typesystem.type.syntax.ConllDependencyNode _indexed="1" _id="528" _ref_sofa="3" begin="6" end="21" id="2" form="immunotherapies" lemma="immunotherapy" cpostag="NNS" postag="NNS" feats="_" _ref_head="500" deprel="root" pdeprel="_"/>
+    <org.apache.ctakes.typesystem.type.syntax.ConllDependencyNode _indexed="1" _id="542" _ref_sofa="3" begin="22" end="25" id="3" form="for" lemma="for" cpostag="IN" postag="IN" feats="_" _ref_head="528" deprel="prep" pdeprel="_"/>
+    <org.apache.ctakes.typesystem.type.syntax.ConllDependencyNode _indexed="1" _id="556" _ref_sofa="3" begin="26" end="37" id="4" form="hematologic" lemma="hematologic" cpostag="JJ" postag="JJ" feats="_" _ref_head="570" deprel="amod" pdeprel="_"/>
+    <org.apache.ctakes.typesystem.type.syntax.ConllDependencyNode _indexed="1" _id="570" _ref_sofa="3" begin="38" end="50" id="5" form="malignancies" lemma="malignancy" cpostag="NNS" postag="NNS" feats="_" _ref_head="542" deprel="pobj" pdeprel="_"/>
+    <org.apache.ctakes.typesystem.type.syntax.ConllDependencyNode _indexed="1" _id="584" _ref_sofa="3" begin="50" end="51" id="6" form="." lemma="." cpostag="." postag="." feats="_" _ref_head="528" deprel="punct" pdeprel="_"/>
+    <org.apache.ctakes.typesystem.type.syntax.TerminalTreebankNode _indexed="1" _id="692" _ref_sofa="3" begin="0" end="5" nodeType="NNP" nodeValue="Novel" leaf="true" _ref_parent="806" headIndex="0" index="0" tokenIndex="0"/>
+    <org.apache.ctakes.typesystem.type.syntax.TerminalTreebankNode _indexed="1" _id="705" _ref_sofa="3" begin="6" end="21" nodeType="NNS" nodeValue="immunotherapies" leaf="true" _ref_parent="806" headIndex="0" index="1" tokenIndex="1"/>
+    <org.apache.ctakes.typesystem.type.syntax.TerminalTreebankNode _indexed="1" _id="718" _ref_sofa="3" begin="22" end="25" nodeType="IN" nodeValue="for" leaf="true" _ref_parent="823" headIndex="0" index="2" tokenIndex="2"/>
+    <org.apache.ctakes.typesystem.type.syntax.TerminalTreebankNode _indexed="1" _id="731" _ref_sofa="3" begin="26" end="37" nodeType="JJ" nodeValue="hematologic" leaf="true" _ref_parent="840" headIndex="0" index="3" tokenIndex="3"/>
+    <org.apache.ctakes.typesystem.type.syntax.TerminalTreebankNode _indexed="1" _id="744" _ref_sofa="3" begin="38" end="50" nodeType="NNS" nodeValue="malignancies" leaf="true" _ref_parent="840" headIndex="0" index="4" tokenIndex="4"/>
+    <org.apache.ctakes.typesystem.type.syntax.TerminalTreebankNode _indexed="1" _id="757" _ref_sofa="3" begin="50" end="51" nodeType="." nodeValue="." leaf="true" _ref_parent="788" headIndex="0" index="5" tokenIndex="5"/>
+    <org.apache.ctakes.typesystem.type.syntax.TreebankNode _indexed="1" _id="788" _ref_sofa="3" begin="0" end="51" nodeType="NP" leaf="false" _ref_parent="770" _ref_children="801" _ref_nodeTags="799" headIndex="1"/>
+    <org.apache.ctakes.typesystem.type.syntax.TreebankNode _indexed="1" _id="806" _ref_sofa="3" begin="0" end="21" nodeType="NP" leaf="false" _ref_parent="788" _ref_children="819" _ref_nodeTags="817" headIndex="1"/>
+    <org.apache.ctakes.typesystem.type.syntax.TreebankNode _indexed="1" _id="823" _ref_sofa="3" begin="22" end="50" nodeType="PP" leaf="false" _ref_parent="788" _ref_children="836" _ref_nodeTags="834" headIndex="2"/>
+    <org.apache.ctakes.typesystem.type.syntax.TreebankNode _indexed="1" _id="840" _ref_sofa="3" begin="26" end="50" nodeType="NP" leaf="false" _ref_parent="823" _ref_children="853" _ref_nodeTags="851" headIndex="4"/>
+    <org.apache.ctakes.typesystem.type.syntax.TopTreebankNode _indexed="1" _id="770" _ref_sofa="3" begin="0" end="51" nodeType="TOP" leaf="false" _ref_children="785" _ref_nodeTags="783" headIndex="0" treebankParse="(TOP (NP (NP (NNP Novel) (NNS immunotherapies)) (PP (IN for) (NP (JJ hematologic) (NNS malignancies)))(. .)))" _ref_terminals="684"/>
+    <uima.cas.FSArray _id="684" size="6">
+        <i>692</i>
+        <i>705</i>
+        <i>718</i>
+        <i>731</i>
+        <i>744</i>
+        <i>757</i>
+    </uima.cas.FSArray>
+    <uima.cas.StringArray _id="783" size="0"/>
+    <uima.cas.FSArray _id="785" size="1">
+        <i>788</i>
+    </uima.cas.FSArray>
+    <uima.cas.StringArray _id="851" size="0"/>
+    <uima.cas.FSArray _id="853" size="2">
+        <i>731</i>
+        <i>744</i>
+    </uima.cas.FSArray>
+    <uima.cas.StringArray _id="834" size="0"/>
+    <uima.cas.FSArray _id="836" size="2">
+        <i>718</i>
+        <i>840</i>
+    </uima.cas.FSArray>
+    <uima.cas.StringArray _id="817" size="0"/>
+    <uima.cas.FSArray _id="819" size="2">
+        <i>692</i>
+        <i>705</i>
+    </uima.cas.FSArray>
+    <uima.cas.StringArray _id="799" size="0"/>
+    <uima.cas.FSArray _id="801" size="3">
+        <i>806</i>
+        <i>823</i>
+        <i>757</i>
+    </uima.cas.FSArray>
+    <org.apache.ctakes.typesystem.type.refsem.UmlsConcept _id="413" codingScheme="SNOMED" code="13375007" oid="13375007#SNOMED" score="0.0" disambiguated="false" cui="C0021083" tui="T061"/>
+    <org.apache.ctakes.typesystem.type.refsem.UmlsConcept _id="443" codingScheme="SNOMED" code="183024007" oid="183024007#SNOMED" score="0.0" disambiguated="false" cui="C0021083" tui="T061"/>
+    <org.apache.ctakes.typesystem.type.refsem.UmlsConcept _id="393" codingScheme="SNOMED" code="151302003" oid="151302003#SNOMED" score="0.0" disambiguated="false" cui="C0021083" tui="T061"/>
+    <org.apache.ctakes.typesystem.type.refsem.UmlsConcept _id="423" codingScheme="SNOMED" code="169412007" oid="169412007#SNOMED" score="0.0" disambiguated="false" cui="C0021083" tui="T061"/>
+    <org.apache.ctakes.typesystem.type.refsem.UmlsConcept _id="453" codingScheme="SNOMED" code="76334006" oid="76334006#SNOMED" score="0.0" disambiguated="false" cui="C0021083" tui="T061"/>
+    <org.apache.ctakes.typesystem.type.refsem.UmlsConcept _id="403" codingScheme="SNOMED" code="151304002" oid="151304002#SNOMED" score="0.0" disambiguated="false" cui="C0021083" tui="T061"/>
+    <org.apache.ctakes.typesystem.type.refsem.UmlsConcept _id="433" codingScheme="SNOMED" code="146638005" oid="146638005#SNOMED" score="0.0" disambiguated="false" cui="C0021083" tui="T061"/>
+    <uima.cas.FSArray _id="463" size="7">
+        <i>433</i>
+        <i>403</i>
+        <i>453</i>
+        <i>423</i>
+        <i>393</i>
+        <i>443</i>
+        <i>413</i>
+    </uima.cas.FSArray>
+    <org.apache.ctakes.typesystem.type.refsem.UmlsConcept _id="347" codingScheme="SNOMED" code="129154003" oid="129154003#SNOMED" score="0.0" disambiguated="false" cui="C0376545" tui="T191"/>
+    <org.apache.ctakes.typesystem.type.refsem.UmlsConcept _id="327" codingScheme="SNOMED" code="127221002" oid="127221002#SNOMED" score="0.0" disambiguated="false" cui="C0376545" tui="T191"/>
+    <org.apache.ctakes.typesystem.type.refsem.UmlsConcept _id="337" codingScheme="SNOMED" code="269475001" oid="269475001#SNOMED" score="0.0" disambiguated="false" cui="C0376545" tui="T191"/>
+    <uima.cas.FSArray _id="357" size="3">
+        <i>337</i>
+        <i>327</i>
+        <i>347</i>
+    </uima.cas.FSArray>
+    <org.apache.ctakes.typesystem.type.refsem.UmlsConcept _id="158" codingScheme="SNOMED" code="269626006" oid="269626006#SNOMED" score="0.0" disambiguated="false" cui="C0006826" tui="T191"/>
+    <org.apache.ctakes.typesystem.type.refsem.UmlsConcept _id="188" codingScheme="SNOMED" code="187597000" oid="187597000#SNOMED" score="0.0" disambiguated="false" cui="C0006826" tui="T191"/>
+    <org.apache.ctakes.typesystem.type.refsem.UmlsConcept _id="218" codingScheme="SNOMED" code="363346000" oid="363346000#SNOMED" score="0.0" disambiguated="false" cui="C0006826" tui="T191"/>
+    <org.apache.ctakes.typesystem.type.refsem.UmlsConcept _id="248" codingScheme="SNOMED" code="86049000" oid="86049000#SNOMED" score="0.0" disambiguated="false" cui="C1306459" tui="T191"/>
+    <org.apache.ctakes.typesystem.type.refsem.UmlsConcept _id="118" codingScheme="SNOMED" code="188475001" oid="188475001#SNOMED" score="0.0" disambiguated="false" cui="C0006826" tui="T191"/>
+    <org.apache.ctakes.typesystem.type.refsem.UmlsConcept _id="148" codingScheme="SNOMED" code="269513004" oid="269513004#SNOMED" score="0.0" disambiguated="false" cui="C0006826" tui="T191"/>
+    <org.apache.ctakes.typesystem.type.refsem.UmlsConcept _id="178" codingScheme="SNOMED" code="154433003" oid="154433003#SNOMED" score="0.0" disambiguated="false" cui="C0006826" tui="T191"/>
+    <org.apache.ctakes.typesystem.type.refsem.UmlsConcept _id="208" codingScheme="SNOMED" code="188482002" oid="188482002#SNOMED" score="0.0" disambiguated="false" cui="C0006826" tui="T191"/>
+    <org.apache.ctakes.typesystem.type.refsem.UmlsConcept _id="238" codingScheme="SNOMED" code="38807002" oid="38807002#SNOMED" score="0.0" disambiguated="false" cui="C0006826" tui="T191"/>
+    <org.apache.ctakes.typesystem.type.refsem.UmlsConcept _id="268" codingScheme="SNOMED" code="38807002" oid="38807002#SNOMED" score="0.0" disambiguated="false" cui="C1306459" tui="T191"/>
+    <org.apache.ctakes.typesystem.type.refsem.UmlsConcept _id="138" codingScheme="SNOMED" code="154432008" oid="154432008#SNOMED" score="0.0" disambiguated="false" cui="C0006826" tui="T191"/>
+    <org.apache.ctakes.typesystem.type.refsem.UmlsConcept _id="168" codingScheme="SNOMED" code="269623003" oid="269623003#SNOMED" score="0.0" disambiguated="false" cui="C0006826" tui="T191"/>
+    <org.apache.ctakes.typesystem.type.refsem.UmlsConcept _id="198" codingScheme="SNOMED" code="190150006" oid="190150006#SNOMED" score="0.0" disambiguated="false" cui="C0006826" tui="T191"/>
+    <org.apache.ctakes.typesystem.type.refsem.UmlsConcept _id="228" codingScheme="SNOMED" code="154577008" oid="154577008#SNOMED" score="0.0" disambiguated="false" cui="C0006826" tui="T191"/>
+    <org.apache.ctakes.typesystem.type.refsem.UmlsConcept _id="258" codingScheme="SNOMED" code="372087000" oid="372087000#SNOMED" score="0.0" disambiguated="false" cui="C1306459" tui="T191"/>
+    <org.apache.ctakes.typesystem.type.refsem.UmlsConcept _id="128" codingScheme="SNOMED" code="269634000" oid="269634000#SNOMED" score="0.0" disambiguated="false" cui="C0006826" tui="T191"/>
+    <uima.cas.FSArray _id="278" size="16">
+        <i>128</i>
+        <i>258</i>
+        <i>228</i>
+        <i>198</i>
+        <i>168</i>
+        <i>138</i>
+        <i>268</i>
+        <i>238</i>
+        <i>208</i>
+        <i>178</i>
+        <i>148</i>
+        <i>118</i>
+        <i>248</i>
+        <i>218</i>
+        <i>188</i>
+        <i>158</i>
+    </uima.cas.FSArray>
+</CAS>

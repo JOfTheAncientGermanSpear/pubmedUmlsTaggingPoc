@@ -1,0 +1,2763 @@
+[
+  {
+    "file": "19965690",
+    "text": "A small molecule inhibitor of Pim protein kinases blocks the growth of precursor T-cell lymphoblastic leukemia/lymphoma.",
+    "concepts": [
+      {
+        "concept_id": "C0555903",
+        "concept_name": "Total protein measurement"
+      },
+      {
+        "concept_id": "C1269647",
+        "concept_name": "Entire cell"
+      },
+      {
+        "concept_id": "C0007634",
+        "concept_name": "Cells"
+      },
+      {
+        "concept_id": "C1961102",
+        "concept_name": "Precursor Cell Lymphoblastic Leukemia Lymphoma"
+      },
+      {
+        "concept_id": "C1961099",
+        "concept_name": "Precursor T-Cell Lymphoblastic Leukemia-Lymphoma"
+      },
+      {
+        "concept_id": "C0023449",
+        "concept_name": "Acute lymphocytic leukemia"
+      },
+      {
+        "concept_id": "C0024299",
+        "concept_name": "Lymphoma"
+      },
+      {
+        "concept_id": "C0229613",
+        "concept_name": "lymphoblast"
+      },
+      {
+        "concept_id": "C0023418",
+        "concept_name": "leukemia"
+      },
+      {
+        "concept_id": "C0039194",
+        "concept_name": "T-Lymphocyte"
+      },
+      {
+        "concept_id": "C0040715",
+        "concept_name": "Chromosomal translocation"
+      }
+    ]
+  },
+  {
+    "file": "20103585",
+    "text": "SRT1720 induces mitochondrial biogenesis and rescues mitochondrial function after oxidant injury in renal proximal tubule cells.",
+    "concepts": [
+      {
+        "concept_id": "C1283878",
+        "concept_name": "Entire renal tubule"
+      },
+      {
+        "concept_id": "C0026237",
+        "concept_name": "Mitochondria"
+      },
+      {
+        "concept_id": "C1269647",
+        "concept_name": "Entire cell"
+      },
+      {
+        "concept_id": "C0175677",
+        "concept_name": ""
+      },
+      {
+        "concept_id": "C0007634",
+        "concept_name": "Cells"
+      },
+      {
+        "concept_id": "C0022674",
+        "concept_name": "Renal tubule structure"
+      },
+      {
+        "concept_id": "C0022646",
+        "concept_name": "Kidney"
+      }
+    ]
+  },
+  {
+    "file": "20410070",
+    "text": "Caveolin-1 regulates leucocyte behaviour in fibrotic lung disease.",
+    "concepts": [
+      {
+        "concept_id": "C0023516",
+        "concept_name": "Leukocytes"
+      },
+      {
+        "concept_id": "C1278908",
+        "concept_name": "Entire lung"
+      },
+      {
+        "concept_id": "C0012634",
+        "concept_name": "Disease"
+      },
+      {
+        "concept_id": "C0024109",
+        "concept_name": "Lung"
+      },
+      {
+        "concept_id": "C0024115",
+        "concept_name": "Lung diseases"
+      }
+    ]
+  },
+  {
+    "file": "20736037",
+    "text": "Genetic regulation of antibody responses to human epidermal growth factor receptor 2 in breast cancer.",
+    "concepts": [
+      {
+        "concept_id": "C0006141",
+        "concept_name": "Breast"
+      },
+      {
+        "concept_id": "C0014520",
+        "concept_name": "Epidermis"
+      },
+      {
+        "concept_id": "C0678222",
+        "concept_name": "Breast Carcinoma"
+      },
+      {
+        "concept_id": "C0006826",
+        "concept_name": "Malignant Neoplasms"
+      },
+      {
+        "concept_id": "C1295138",
+        "concept_name": "Epidermal growth factor measurement"
+      },
+      {
+        "concept_id": "C0006142",
+        "concept_name": "Malignant neoplasm of breast"
+      },
+      {
+        "concept_id": "C1268990",
+        "concept_name": "Entire breast"
+      },
+      {
+        "concept_id": "C1306459",
+        "concept_name": "Primary malignant neoplasm"
+      }
+    ]
+  },
+  {
+    "file": "20977537",
+    "text": "Intermittent \"real-time\" fMRI feedback is superior to continuous presentation for a motor imagery task: a pilot study.",
+    "concepts": [
+      {
+        "concept_id": "C0150627",
+        "concept_name": "Guided imagery"
+      }
+    ]
+  },
+  {
+    "file": "21424864",
+    "text": "Enhanced cortisol response to stress in children in autism.",
+    "concepts": [
+      {
+        "concept_id": "C0038435",
+        "concept_name": "Stress"
+      },
+      {
+        "concept_id": "C0004352",
+        "concept_name": "Autistic Disorder"
+      },
+      {
+        "concept_id": "C0201968",
+        "concept_name": "Cortisol Measurement"
+      }
+    ]
+  },
+  {
+    "file": "21569442",
+    "text": "Adenoviral infectivity of exfoliated viable cells in urine: implications for the detection of bladder cancer.",
+    "concepts": [
+      {
+        "concept_id": "C0005682",
+        "concept_name": "Urinary Bladder"
+      },
+      {
+        "concept_id": "C0005684",
+        "concept_name": "Malignant neoplasm of urinary bladder"
+      },
+      {
+        "concept_id": "C1269647",
+        "concept_name": "Entire cell"
+      },
+      {
+        "concept_id": "C0007634",
+        "concept_name": "Cells"
+      },
+      {
+        "concept_id": "C0006826",
+        "concept_name": "Malignant Neoplasms"
+      },
+      {
+        "concept_id": "C0699885",
+        "concept_name": "Carcinoma of bladder"
+      },
+      {
+        "concept_id": "C1281573",
+        "concept_name": "Entire bladder"
+      },
+      {
+        "concept_id": "C1306459",
+        "concept_name": "Primary malignant neoplasm"
+      }
+    ]
+  },
+  {
+    "file": "21623021",
+    "text": "Development and evaluation of a toolkit to assess partnership readiness for community-based participatory research.",
+    "concepts": [
+      {
+        "concept_id": "C1318963",
+        "concept_name": "Readiness"
+      }
+    ]
+  },
+  {
+    "file": "21722364",
+    "text": "Altered monocyte and fibrocyte phenotype and function in scleroderma interstitial lung disease: reversal by caveolin-1 scaffolding domain peptide.",
+    "concepts": [
+      {
+        "concept_id": "C1278908",
+        "concept_name": "Entire lung"
+      },
+      {
+        "concept_id": "C0206062",
+        "concept_name": "Lung Diseases, Interstitial"
+      },
+      {
+        "concept_id": "C0012634",
+        "concept_name": "Disease"
+      },
+      {
+        "concept_id": "C0339904",
+        "concept_name": "Lung disease with systemic sclerosis"
+      },
+      {
+        "concept_id": "C0024109",
+        "concept_name": "Lung"
+      },
+      {
+        "concept_id": "C0024115",
+        "concept_name": "Lung diseases"
+      },
+      {
+        "concept_id": "C0225332",
+        "concept_name": "Fibrocyte"
+      },
+      {
+        "concept_id": "C0026473",
+        "concept_name": "Monocytes"
+      },
+      {
+        "concept_id": "C0034069",
+        "concept_name": "Pulmonary Fibrosis"
+      },
+      {
+        "concept_id": "C1285572",
+        "concept_name": "Phenotype determination"
+      },
+      {
+        "concept_id": "C0011644",
+        "concept_name": "Scleroderma"
+      }
+    ]
+  },
+  {
+    "file": "21764750",
+    "text": "Linking context with reward: a functional circuit from hippocampal CA3 to ventral tegmental area.",
+    "concepts": [
+      {
+        "concept_id": "C0019564",
+        "concept_name": "Hippocampus (Brain)"
+      },
+      {
+        "concept_id": "C0449255",
+        "concept_name": "Context"
+      }
+    ]
+  },
+  {
+    "file": "21790899",
+    "text": "Neural correlates of craving and resisting craving for tobacco in nicotine dependent smokers.",
+    "concepts": [
+      {
+        "concept_id": "C0040332",
+        "concept_name": "Tobacco Dependence"
+      },
+      {
+        "concept_id": "C0337664",
+        "concept_name": "Smoker"
+      },
+      {
+        "concept_id": "C0028040",
+        "concept_name": "Nicotine"
+      }
+    ]
+  },
+  {
+    "file": "21964742",
+    "text": "Elevated levels of endothelin-1 in hepatic venous blood are associated with intrapulmonary vasodilatation in humans.",
+    "concepts": [
+      {
+        "concept_id": "C0205054",
+        "concept_name": "Hepatic"
+      },
+      {
+        "concept_id": "C2946261",
+        "concept_name": "Level"
+      },
+      {
+        "concept_id": "C0229667",
+        "concept_name": "Venous blood substance"
+      },
+      {
+        "concept_id": "C0042449",
+        "concept_name": "Veins"
+      },
+      {
+        "concept_id": "C0005767",
+        "concept_name": "Blood"
+      }
+    ]
+  },
+  {
+    "file": "21980518",
+    "text": "Bioenergetic profiling of zebrafish embryonic development.",
+    "concepts": []
+  },
+  {
+    "file": "22047054",
+    "text": "A novel class of small molecule inhibitors of HDAC6.",
+    "concepts": []
+  },
+  {
+    "file": "22124619",
+    "text": "Application of a CBPR framework to inform a multi-level tobacco cessation intervention in public housing neighborhoods.",
+    "concepts": []
+  },
+  {
+    "file": "22160772",
+    "text": "Persistent disruption of mitochondrial homeostasis after acute kidney injury.",
+    "concepts": [
+      {
+        "concept_id": "C0026237",
+        "concept_name": "Mitochondria"
+      },
+      {
+        "concept_id": "C0175677",
+        "concept_name": ""
+      },
+      {
+        "concept_id": "C1278978",
+        "concept_name": "Entire kidney"
+      },
+      {
+        "concept_id": "C0347648",
+        "concept_name": "Rupture of kidney"
+      },
+      {
+        "concept_id": "C0022660",
+        "concept_name": "Kidney Failure, Acute"
+      },
+      {
+        "concept_id": "C0022646",
+        "concept_name": "Kidney"
+      }
+    ]
+  },
+  {
+    "file": "22180294",
+    "text": "Concerted functions of HDAC1 and microRNA-574-5p repress alternatively spliced ceramide synthase 1 expression in human cancer cells.",
+    "concepts": [
+      {
+        "concept_id": "C0427861",
+        "concept_name": "Human cells"
+      },
+      {
+        "concept_id": "C1269647",
+        "concept_name": "Entire cell"
+      },
+      {
+        "concept_id": "C0017262",
+        "concept_name": "Gene Expression"
+      },
+      {
+        "concept_id": "C0007634",
+        "concept_name": "Cells"
+      },
+      {
+        "concept_id": "C0006826",
+        "concept_name": "Malignant Neoplasms"
+      },
+      {
+        "concept_id": "C0334227",
+        "concept_name": "Tumor cells, malignant"
+      },
+      {
+        "concept_id": "C0185117",
+        "concept_name": "Expression procedure"
+      },
+      {
+        "concept_id": "C1306459",
+        "concept_name": "Primary malignant neoplasm"
+      }
+    ]
+  },
+  {
+    "file": "22222338",
+    "text": "Premature atherosclerosis is associated with hypovitaminosis D and angiotensin-converting enzyme inhibitor non-use in lupus patients.",
+    "concepts": [
+      {
+        "concept_id": "C0409974",
+        "concept_name": "Lupus Erythematosus"
+      },
+      {
+        "concept_id": "C1510471",
+        "concept_name": "Vitamin Deficiency"
+      },
+      {
+        "concept_id": "C0004153",
+        "concept_name": "Atherosclerosis"
+      }
+    ]
+  },
+  {
+    "file": "22228809",
+    "text": "Recovery from glycerol-induced acute kidney injury is accelerated by suramin.",
+    "concepts": [
+      {
+        "concept_id": "C0175677",
+        "concept_name": ""
+      },
+      {
+        "concept_id": "C1278978",
+        "concept_name": "Entire kidney"
+      },
+      {
+        "concept_id": "C0038880",
+        "concept_name": "Suramin"
+      },
+      {
+        "concept_id": "C0022660",
+        "concept_name": "Kidney Failure, Acute"
+      },
+      {
+        "concept_id": "C0022646",
+        "concept_name": "Kidney"
+      }
+    ]
+  },
+  {
+    "file": "22231568",
+    "text": "Evaluation of TRAF6 in a large multiancestral lupus cohort.",
+    "concepts": [
+      {
+        "concept_id": "C0409974",
+        "concept_name": "Lupus Erythematosus"
+      }
+    ]
+  },
+  {
+    "file": "22243973",
+    "text": "Creating a mastery experience during the voice evaluation.",
+    "concepts": []
+  },
+  {
+    "file": "22289400",
+    "text": "Community-based participatory research and smoking cessation interventions: a review of the evidence.",
+    "concepts": []
+  },
+  {
+    "file": "22322590",
+    "text": "Acid ceramidase-mediated production of sphingosine 1-phosphate promotes prostate cancer invasion through upregulation of cathepsin B.",
+    "concepts": [
+      {
+        "concept_id": "C0033572",
+        "concept_name": "Prostate"
+      },
+      {
+        "concept_id": "C1278980",
+        "concept_name": "Entire prostate"
+      },
+      {
+        "concept_id": "C1269955",
+        "concept_name": "Tumor Cell Invasion"
+      },
+      {
+        "concept_id": "C0006826",
+        "concept_name": "Malignant Neoplasms"
+      },
+      {
+        "concept_id": "C0376358",
+        "concept_name": "Malignant neoplasm of prostate"
+      },
+      {
+        "concept_id": "C0523826",
+        "concept_name": "Phosphate measurement"
+      },
+      {
+        "concept_id": "C0600139",
+        "concept_name": "Prostate carcinoma"
+      },
+      {
+        "concept_id": "C1306459",
+        "concept_name": "Primary malignant neoplasm"
+      }
+    ]
+  },
+  {
+    "file": "22332856",
+    "text": "Does alexithymia explain variation in cue-elicited craving reported by methamphetamine-dependent individuals?",
+    "concepts": [
+      {
+        "concept_id": "C0002020",
+        "concept_name": "Alexithymia"
+      },
+      {
+        "concept_id": "C0025611",
+        "concept_name": "Methamphetamine"
+      }
+    ]
+  },
+  {
+    "file": "22343643",
+    "text": "The one-year attributable cost of poststroke aphasia.",
+    "concepts": [
+      {
+        "concept_id": "C0003537",
+        "concept_name": "Aphasia"
+      }
+    ]
+  },
+  {
+    "file": "22458676",
+    "text": "Volitional reduction of anterior cingulate cortex activity produces decreased cue craving in smoking cessation: a preliminary real-time fMRI study.",
+    "concepts": [
+      {
+        "concept_id": "C0441610",
+        "concept_name": "Reduction - action"
+      },
+      {
+        "concept_id": "C0007776",
+        "concept_name": "Cerebral cortex"
+      }
+    ]
+  },
+  {
+    "file": "22464253",
+    "text": "Identification of IRF8, TMEM39A, and IKZF3-ZPBP2 as susceptibility loci for systemic lupus erythematosus in a large-scale multiracial replication study.",
+    "concepts": [
+      {
+        "concept_id": "C0222045",
+        "concept_name": "Integumentary scale"
+      },
+      {
+        "concept_id": "C0598312",
+        "concept_name": "DNA Replication"
+      },
+      {
+        "concept_id": "C0409974",
+        "concept_name": "Lupus Erythematosus"
+      },
+      {
+        "concept_id": "C0020792",
+        "concept_name": "Identification (Psychology)"
+      },
+      {
+        "concept_id": "C0024141",
+        "concept_name": "Lupus Erythematosus, Systemic"
+      }
+    ]
+  },
+  {
+    "file": "22476155",
+    "text": "A functional haplotype of UBE2L3 confers risk for systemic lupus erythematosus.",
+    "concepts": [
+      {
+        "concept_id": "C0409974",
+        "concept_name": "Lupus Erythematosus"
+      },
+      {
+        "concept_id": "C0024141",
+        "concept_name": "Lupus Erythematosus, Systemic"
+      }
+    ]
+  },
+  {
+    "file": "22510352",
+    "text": "Vocal fold mucus aggregation in persons with voice disorders.",
+    "concepts": [
+      {
+        "concept_id": "C0042940",
+        "concept_name": "Voice Disorders"
+      },
+      {
+        "concept_id": "C0012634",
+        "concept_name": "Disease"
+      },
+      {
+        "concept_id": "C1280362",
+        "concept_name": "Entire vocal fold"
+      },
+      {
+        "concept_id": "C0042930",
+        "concept_name": "Vocal cord structure"
+      }
+    ]
+  },
+  {
+    "file": "22523428",
+    "text": "Variation in the ICAM1-ICAM4-ICAM5 locus is associated with systemic lupus erythematosus susceptibility in multiple ancestries.",
+    "concepts": [
+      {
+        "concept_id": "C0024141",
+        "concept_name": "Lupus Erythematosus, Systemic"
+      },
+      {
+        "concept_id": "C0409974",
+        "concept_name": "Lupus Erythematosus"
+      }
+    ]
+  },
+  {
+    "file": "22545725",
+    "text": "Association between ovarian hormones and smoking behavior in women.",
+    "concepts": [
+      {
+        "concept_id": "C0004083",
+        "concept_name": "Mental association"
+      }
+    ]
+  },
+  {
+    "file": "22692431",
+    "text": "Radiation exposure time during MBSS: influence of swallowing impairment severity, medical diagnosis, clinician experience, and standardized protocol use.",
+    "concepts": [
+      {
+        "concept_id": "C0011900",
+        "concept_name": "Diagnosis"
+      },
+      {
+        "concept_id": "C0684336",
+        "concept_name": "Impaired health"
+      },
+      {
+        "concept_id": "C0274281",
+        "concept_name": "Injury due to exposure to external cause"
+      },
+      {
+        "concept_id": "C1522449",
+        "concept_name": "Therapeutic radiology procedure"
+      }
+    ]
+  },
+  {
+    "file": "22706327",
+    "text": "A double-blind randomized controlled trial of N-acetylcysteine in cannabis-dependent adolescents.",
+    "concepts": [
+      {
+        "concept_id": "C0456909",
+        "concept_name": "Blind Vision"
+      },
+      {
+        "concept_id": "C0001047",
+        "concept_name": "Acetylcysteine"
+      }
+    ]
+  },
+  {
+    "file": "22707406",
+    "text": "Communication between host organism and cancer cells is transduced by systemic sphingosine kinase 1/sphingosine 1-phosphate signalling to regulate tumour metastasis.",
+    "concepts": [
+      {
+        "concept_id": "C2939419",
+        "concept_name": "Secondary Neoplasm"
+      },
+      {
+        "concept_id": "C1269647",
+        "concept_name": "Entire cell"
+      },
+      {
+        "concept_id": "C0027651",
+        "concept_name": "Neoplasms"
+      },
+      {
+        "concept_id": "C0007634",
+        "concept_name": "Cells"
+      },
+      {
+        "concept_id": "C0006826",
+        "concept_name": "Malignant Neoplasms"
+      },
+      {
+        "concept_id": "C0334227",
+        "concept_name": "Tumor cells, malignant"
+      },
+      {
+        "concept_id": "C0523826",
+        "concept_name": "Phosphate measurement"
+      },
+      {
+        "concept_id": "C1306459",
+        "concept_name": "Primary malignant neoplasm"
+      }
+    ]
+  },
+  {
+    "file": "22717491",
+    "text": "Laryngeal sensation before and after clearing behaviors.",
+    "concepts": [
+      {
+        "concept_id": "C0023078",
+        "concept_name": "Larynx"
+      },
+      {
+        "concept_id": "C0036658",
+        "concept_name": "Esthesia"
+      }
+    ]
+  },
+  {
+    "file": "22736507",
+    "text": "Diabetes-induced renal injury in rats is attenuated by suramin.",
+    "concepts": [
+      {
+        "concept_id": "C0160420",
+        "concept_name": "Injury of kidney"
+      },
+      {
+        "concept_id": "C0175677",
+        "concept_name": ""
+      },
+      {
+        "concept_id": "C0011849",
+        "concept_name": "Diabetes Mellitus"
+      },
+      {
+        "concept_id": "C0038880",
+        "concept_name": "Suramin"
+      },
+      {
+        "concept_id": "C0022646",
+        "concept_name": "Kidney"
+      }
+    ]
+  },
+  {
+    "file": "22764263",
+    "text": "Medial temporal lobe epilepsy is associated with neuronal fibre loss and paradoxical increase in structural connectivity of limbic structures.",
+    "concepts": [
+      {
+        "concept_id": "C0014556",
+        "concept_name": "Epilepsy, Temporal Lobe"
+      },
+      {
+        "concept_id": "C0014544",
+        "concept_name": "Epilepsy"
+      },
+      {
+        "concept_id": "C1268978",
+        "concept_name": "Entire temporal lobe"
+      },
+      {
+        "concept_id": "C0039485",
+        "concept_name": "Temporal Lobe"
+      }
+    ]
+  },
+  {
+    "file": "22802909",
+    "text": "Caveolin-1 signaling in lung fibrosis.",
+    "concepts": [
+      {
+        "concept_id": "C0037083",
+        "concept_name": "Signal Transduction"
+      },
+      {
+        "concept_id": "C0024109",
+        "concept_name": "Lung"
+      },
+      {
+        "concept_id": "C1278908",
+        "concept_name": "Entire lung"
+      },
+      {
+        "concept_id": "C0016059",
+        "concept_name": "Fibrosis"
+      }
+    ]
+  },
+  {
+    "file": "22803743",
+    "text": "Humoral immunity to cytomegalovirus and chronic graft-versus-host disease.",
+    "concepts": [
+      {
+        "concept_id": "C0332835",
+        "concept_name": "Transplanted tissue"
+      },
+      {
+        "concept_id": "C0012634",
+        "concept_name": "Disease"
+      },
+      {
+        "concept_id": "C0010823",
+        "concept_name": "Cytomegalovirus Infections"
+      },
+      {
+        "concept_id": "C0020964",
+        "concept_name": "Immunity"
+      }
+    ]
+  },
+  {
+    "file": "22833143",
+    "text": "Association of two independent functional risk haplotypes in TNIP1 with systemic lupus erythematosus.",
+    "concepts": [
+      {
+        "concept_id": "C0004083",
+        "concept_name": "Mental association"
+      },
+      {
+        "concept_id": "C1299583",
+        "concept_name": "Independently able"
+      },
+      {
+        "concept_id": "C0024141",
+        "concept_name": "Lupus Erythematosus, Systemic"
+      },
+      {
+        "concept_id": "C0409974",
+        "concept_name": "Lupus Erythematosus"
+      }
+    ]
+  },
+  {
+    "file": "22848194",
+    "text": "The emerging role of norepinephrine in cognitive dysfunctions of Parkinson's disease.",
+    "concepts": [
+      {
+        "concept_id": "C0030567",
+        "concept_name": "Parkinson Disease"
+      },
+      {
+        "concept_id": "C0012634",
+        "concept_name": "Disease"
+      },
+      {
+        "concept_id": "C0277785",
+        "concept_name": "Functional disorder"
+      },
+      {
+        "concept_id": "C0028351",
+        "concept_name": "Norepinephrine"
+      },
+      {
+        "concept_id": "C0338656",
+        "concept_name": "Impaired cognition"
+      },
+      {
+        "concept_id": "C0202145",
+        "concept_name": "Norepinephrine measurement"
+      }
+    ]
+  },
+  {
+    "file": "22933581",
+    "text": "Stroke assessment with diffusional kurtosis imaging.",
+    "concepts": [
+      {
+        "concept_id": "C0011923",
+        "concept_name": "Diagnostic Imaging"
+      },
+      {
+        "concept_id": "C0079595",
+        "concept_name": "Imaging Techniques"
+      },
+      {
+        "concept_id": "C0038454",
+        "concept_name": "Cerebrovascular accident"
+      }
+    ]
+  },
+  {
+    "file": "22955018",
+    "text": "Racial differences between blacks and whites with systemic sclerosis.",
+    "concepts": [
+      {
+        "concept_id": "C0036429",
+        "concept_name": "Sclerosis"
+      },
+      {
+        "concept_id": "C0036421",
+        "concept_name": "Systemic Scleroderma"
+      }
+    ]
+  },
+  {
+    "file": "23004679",
+    "text": "Loss of caveolin-1 from bronchial epithelial cells and monocytes in human subjects with asthma.",
+    "concepts": [
+      {
+        "concept_id": "C1269647",
+        "concept_name": "Entire cell"
+      },
+      {
+        "concept_id": "C1273342",
+        "concept_name": "Epithelial cell count (procedure)"
+      },
+      {
+        "concept_id": "C0007634",
+        "concept_name": "Cells"
+      },
+      {
+        "concept_id": "C0014597",
+        "concept_name": "Epithelial Cells"
+      },
+      {
+        "concept_id": "C0200637",
+        "concept_name": "Monocyte count procedure"
+      },
+      {
+        "concept_id": "C0026473",
+        "concept_name": "Monocytes"
+      },
+      {
+        "concept_id": "C0004096",
+        "concept_name": "Asthma"
+      },
+      {
+        "concept_id": "C0205039",
+        "concept_name": "Bronchial"
+      }
+    ]
+  },
+  {
+    "file": "23091303",
+    "text": "Training partnership dyads for community-based participatory research: strategies and lessons learned from the Community Engaged Scholars Program.",
+    "concepts": [
+      {
+        "concept_id": "C2728259",
+        "concept_name": "Program"
+      }
+    ]
+  },
+  {
+    "file": "23112091",
+    "text": "Comparison of autoantibody specificities between traditional and bead-based assays in a large, diverse collection of patients with systemic lupus erythematosus and family members.",
+    "concepts": [
+      {
+        "concept_id": "C1510438",
+        "concept_name": "Assay"
+      },
+      {
+        "concept_id": "C0005507",
+        "concept_name": "Biological Assay"
+      },
+      {
+        "concept_id": "C0024141",
+        "concept_name": "Lupus Erythematosus, Systemic"
+      },
+      {
+        "concept_id": "C0409974",
+        "concept_name": "Lupus Erythematosus"
+      }
+    ]
+  },
+  {
+    "file": "23260612",
+    "text": "The process associated with motivation of a home-based Wii Fit exercise program among sedentary African American women with systemic lupus erythematosus.",
+    "concepts": [
+      {
+        "concept_id": "C0026605",
+        "concept_name": "Motivation"
+      },
+      {
+        "concept_id": "C0424576",
+        "concept_name": "Fit and well"
+      },
+      {
+        "concept_id": "C0009951",
+        "concept_name": ""
+      },
+      {
+        "concept_id": "C0409974",
+        "concept_name": "Lupus Erythematosus"
+      },
+      {
+        "concept_id": "C2728259",
+        "concept_name": "Program"
+      },
+      {
+        "concept_id": "C0024141",
+        "concept_name": "Lupus Erythematosus, Systemic"
+      },
+      {
+        "concept_id": "C0015259",
+        "concept_name": "Exercise"
+      }
+    ]
+  },
+  {
+    "file": "23305649",
+    "text": "Patient attitudes toward mobile phone-based health monitoring: questionnaire study among kidney transplant recipients.",
+    "concepts": [
+      {
+        "concept_id": "C0040732",
+        "concept_name": "Transplantation"
+      },
+      {
+        "concept_id": "C1278978",
+        "concept_name": "Entire kidney"
+      },
+      {
+        "concept_id": "C0022671",
+        "concept_name": "Kidney Transplantation"
+      },
+      {
+        "concept_id": "C0332835",
+        "concept_name": "Transplanted tissue"
+      },
+      {
+        "concept_id": "C0022646",
+        "concept_name": "Kidney"
+      }
+    ]
+  },
+  {
+    "file": "23327468",
+    "text": "Structure-activity relationship study of vitamin k derivatives yields highly potent neuroprotective agents.",
+    "concepts": [
+      {
+        "concept_id": "C0042879",
+        "concept_name": "Vitamin K Assay"
+      },
+      {
+        "concept_id": "C0202194",
+        "concept_name": "Potassium measurement"
+      },
+      {
+        "concept_id": "C0042878",
+        "concept_name": "Vitamin K"
+      }
+    ]
+  },
+  {
+    "file": "23341932",
+    "text": "Perfusion network shift during seizures in medial temporal lobe epilepsy.",
+    "concepts": [
+      {
+        "concept_id": "C0039485",
+        "concept_name": "Temporal Lobe"
+      },
+      {
+        "concept_id": "C0014556",
+        "concept_name": "Epilepsy, Temporal Lobe"
+      },
+      {
+        "concept_id": "C0031001",
+        "concept_name": "Perfusion (procedure)"
+      },
+      {
+        "concept_id": "C0014544",
+        "concept_name": "Epilepsy"
+      },
+      {
+        "concept_id": "C0036572",
+        "concept_name": "Seizures"
+      },
+      {
+        "concept_id": "C1268978",
+        "concept_name": "Entire temporal lobe"
+      }
+    ]
+  },
+  {
+    "file": "23360332",
+    "text": "A mixed methods descriptive investigation of readiness to change in rural hospitals participating in a tele-critical care intervention.",
+    "concepts": [
+      {
+        "concept_id": "C1318963",
+        "concept_name": "Readiness"
+      }
+    ]
+  },
+  {
+    "file": "23411743",
+    "text": "Prior surgery determines islet yield and insulin requirement in patients with chronic pancreatitis.",
+    "concepts": [
+      {
+        "concept_id": "C0021641",
+        "concept_name": "Insulin"
+      },
+      {
+        "concept_id": "C0149521",
+        "concept_name": "Pancreatitis, Chronic"
+      },
+      {
+        "concept_id": "C0202098",
+        "concept_name": "Insulin measurement"
+      },
+      {
+        "concept_id": "C0543467",
+        "concept_name": "Operative Surgical Procedures"
+      },
+      {
+        "concept_id": "C0030305",
+        "concept_name": "Pancreatitis"
+      },
+      {
+        "concept_id": "C0455610",
+        "concept_name": "H/O: surgery"
+      }
+    ]
+  },
+  {
+    "file": "23414497",
+    "text": "A comparison of trauma profiles among individuals with prescription opioid, nicotine, or cocaine dependence.",
+    "concepts": [
+      {
+        "concept_id": "C0202362",
+        "concept_name": "Cocaine measurement"
+      },
+      {
+        "concept_id": "C0439857",
+        "concept_name": "Dependence"
+      },
+      {
+        "concept_id": "C0028040",
+        "concept_name": "Nicotine"
+      },
+      {
+        "concept_id": "C0175677",
+        "concept_name": ""
+      },
+      {
+        "concept_id": "C0043250",
+        "concept_name": "Injury wounds"
+      },
+      {
+        "concept_id": "C0009170",
+        "concept_name": "Cocaine"
+      },
+      {
+        "concept_id": "C0043251",
+        "concept_name": "Wounds and Injuries"
+      },
+      {
+        "concept_id": "C0524662",
+        "concept_name": "Opiate Addiction"
+      },
+      {
+        "concept_id": "C0028043",
+        "concept_name": "Nicotine Dependence"
+      },
+      {
+        "concept_id": "C0600427",
+        "concept_name": "Cocaine Dependence"
+      }
+    ]
+  },
+  {
+    "file": "23415658",
+    "text": "Association of elevated cytokines with childhood adversity in a sample of healthy adults.",
+    "concepts": [
+      {
+        "concept_id": "C0686750",
+        "concept_name": "Well adult"
+      },
+      {
+        "concept_id": "C0004083",
+        "concept_name": "Mental association"
+      }
+    ]
+  },
+  {
+    "file": "23421569",
+    "text": "Resisting the urge to smoke and craving during a smoking quit attempt on varenicline: results from a pilot fMRI study.",
+    "concepts": [
+      {
+        "concept_id": "C1569608",
+        "concept_name": "varenicline"
+      }
+    ]
+  },
+  {
+    "file": "23425628",
+    "text": "Invited commentary: the etiology of lung cancer in men compared with women.",
+    "concepts": [
+      {
+        "concept_id": "C1278908",
+        "concept_name": "Entire lung"
+      },
+      {
+        "concept_id": "C0027662",
+        "concept_name": "Multiple Endocrine Neoplasia"
+      },
+      {
+        "concept_id": "C0024109",
+        "concept_name": "Lung"
+      },
+      {
+        "concept_id": "C0242379",
+        "concept_name": "Malignant neoplasm of lung"
+      },
+      {
+        "concept_id": "C0006826",
+        "concept_name": "Malignant Neoplasms"
+      },
+      {
+        "concept_id": "C0684249",
+        "concept_name": "Carcinoma of lung"
+      },
+      {
+        "concept_id": "C1306459",
+        "concept_name": "Primary malignant neoplasm"
+      }
+    ]
+  },
+  {
+    "file": "23443736",
+    "text": "Donor brain death exacerbates complement-dependent ischemia/reperfusion injury in transplanted hearts.",
+    "concepts": [
+      {
+        "concept_id": "C0040744",
+        "concept_name": "Structure of transplanted heart"
+      },
+      {
+        "concept_id": "C0175677",
+        "concept_name": ""
+      },
+      {
+        "concept_id": "C1306577",
+        "concept_name": "Death (finding)"
+      },
+      {
+        "concept_id": "C1281570",
+        "concept_name": "Entire heart"
+      },
+      {
+        "concept_id": "C0040732",
+        "concept_name": "Transplantation"
+      },
+      {
+        "concept_id": "C0006104",
+        "concept_name": "Brain"
+      },
+      {
+        "concept_id": "C0022116",
+        "concept_name": "Ischemia"
+      },
+      {
+        "concept_id": "C0018787",
+        "concept_name": "Heart"
+      },
+      {
+        "concept_id": "C1269537",
+        "concept_name": "Entire brain"
+      },
+      {
+        "concept_id": "C1279380",
+        "concept_name": "Entire transplanted heart"
+      },
+      {
+        "concept_id": "C0011065",
+        "concept_name": "Cessation of life"
+      },
+      {
+        "concept_id": "C0332835",
+        "concept_name": "Transplanted tissue"
+      }
+    ]
+  },
+  {
+    "file": "23460266",
+    "text": "A double blind, placebo-controlled study of the effects of post-retrieval propranolol on reconsolidation of memory for craving and cue reactivity in cocaine dependent humans.",
+    "concepts": [
+      {
+        "concept_id": "C0202362",
+        "concept_name": "Cocaine measurement"
+      },
+      {
+        "concept_id": "C0456909",
+        "concept_name": "Blind Vision"
+      },
+      {
+        "concept_id": "C0009170",
+        "concept_name": "Cocaine"
+      },
+      {
+        "concept_id": "C0033497",
+        "concept_name": "Propranolol"
+      },
+      {
+        "concept_id": "C1696465",
+        "concept_name": "placebo"
+      },
+      {
+        "concept_id": "C0025260",
+        "concept_name": "Memory"
+      }
+    ]
+  },
+  {
+    "file": "23468661",
+    "text": "MicroRNA-3148 modulates allelic expression of toll-like receptor 7 variant associated with systemic lupus erythematosus.",
+    "concepts": [
+      {
+        "concept_id": "C0409974",
+        "concept_name": "Lupus Erythematosus"
+      },
+      {
+        "concept_id": "C0024141",
+        "concept_name": "Lupus Erythematosus, Systemic"
+      },
+      {
+        "concept_id": "C0185117",
+        "concept_name": "Expression procedure"
+      },
+      {
+        "concept_id": "C0017262",
+        "concept_name": "Gene Expression"
+      }
+    ]
+  },
+  {
+    "file": "23514936",
+    "text": "Access, use and completion of a brief disaster mental health intervention among Hispanics, African-Americans and Whites affected by Hurricane Ike.",
+    "concepts": []
+  },
+  {
+    "file": "23559454",
+    "text": "Preliminary investigation of the effect of pulse rate on judgments of swallowing impairment and treatment recommendations.",
+    "concepts": [
+      {
+        "concept_id": "C0087111",
+        "concept_name": "Therapeutic procedure"
+      },
+      {
+        "concept_id": "C1533734",
+        "concept_name": "Administration procedure"
+      },
+      {
+        "concept_id": "C0684336",
+        "concept_name": "Impaired health"
+      },
+      {
+        "concept_id": "C0022423",
+        "concept_name": "Judgment"
+      }
+    ]
+  },
+  {
+    "file": "23605292",
+    "text": "National trainers' perspectives on challenges to implementation of an empirically-supported mental health treatment.",
+    "concepts": [
+      {
+        "concept_id": "C0184647",
+        "concept_name": "Mental health treatment"
+      },
+      {
+        "concept_id": "C1533734",
+        "concept_name": "Administration procedure"
+      },
+      {
+        "concept_id": "C0087111",
+        "concept_name": "Therapeutic procedure"
+      }
+    ]
+  },
+  {
+    "file": "23637325",
+    "text": "Variable association of reactive intermediate genes with systemic lupus erythematosus in populations with different African ancestry.",
+    "concepts": [
+      {
+        "concept_id": "C0004083",
+        "concept_name": "Mental association"
+      },
+      {
+        "concept_id": "C0409974",
+        "concept_name": "Lupus Erythematosus"
+      },
+      {
+        "concept_id": "C0024141",
+        "concept_name": "Lupus Erythematosus, Systemic"
+      }
+    ]
+  },
+  {
+    "file": "23683344",
+    "text": "Reduction of cue-induced craving through realtime neurofeedback in nicotine users: the role of region of interest selection and multiple visits.",
+    "concepts": [
+      {
+        "concept_id": "C0543488",
+        "concept_name": "Interested"
+      },
+      {
+        "concept_id": "C2713543",
+        "concept_name": "Neurofeedback"
+      },
+      {
+        "concept_id": "C0441610",
+        "concept_name": "Reduction - action"
+      },
+      {
+        "concept_id": "C0028040",
+        "concept_name": "Nicotine"
+      }
+    ]
+  },
+  {
+    "file": "23700431",
+    "text": "Systemic lupus erythematosus and vitamin D deficiency are associated with shorter telomere length among African Americans: a case-control study.",
+    "concepts": [
+      {
+        "concept_id": "C0042870",
+        "concept_name": "Vitamin D Deficiency"
+      },
+      {
+        "concept_id": "C0042866",
+        "concept_name": "Vitamin D"
+      },
+      {
+        "concept_id": "C0919758",
+        "concept_name": "Vitamin D measurement"
+      },
+      {
+        "concept_id": "C1510471",
+        "concept_name": "Vitamin Deficiency"
+      },
+      {
+        "concept_id": "C0409974",
+        "concept_name": "Lupus Erythematosus"
+      },
+      {
+        "concept_id": "C0024141",
+        "concept_name": "Lupus Erythematosus, Systemic"
+      },
+      {
+        "concept_id": "C0162429",
+        "concept_name": "Malnutrition"
+      }
+    ]
+  },
+  {
+    "file": "23764885",
+    "text": "Rehabilitating walking speed poststroke with treadmill-based interventions: a systematic review of randomized controlled trials.",
+    "concepts": []
+  },
+  {
+    "file": "23791324",
+    "text": "Self-reported versus objectively assessed exercise adherence.",
+    "concepts": [
+      {
+        "concept_id": "C0015259",
+        "concept_name": "Exercise"
+      }
+    ]
+  },
+  {
+    "file": "23874208",
+    "text": "Trans-ancestral studies fine map the SLE-susceptibility locus TNFSF4.",
+    "concepts": [
+      {
+        "concept_id": "C0428886",
+        "concept_name": "Mean blood pressure"
+      },
+      {
+        "concept_id": "C0024141",
+        "concept_name": "Lupus Erythematosus, Systemic"
+      },
+      {
+        "concept_id": "C0014060",
+        "concept_name": "Encephalitis, St. Louis"
+      }
+    ]
+  },
+  {
+    "file": "23970121",
+    "text": "ABIN1 dysfunction as a genetic basis for lupus nephritis.",
+    "concepts": [
+      {
+        "concept_id": "C0277785",
+        "concept_name": "Functional disorder"
+      },
+      {
+        "concept_id": "C0409974",
+        "concept_name": "Lupus Erythematosus"
+      },
+      {
+        "concept_id": "C0027697",
+        "concept_name": "Nephritis"
+      },
+      {
+        "concept_id": "C1874451",
+        "concept_name": "Basis"
+      },
+      {
+        "concept_id": "C0024143",
+        "concept_name": "Lupus Nephritis"
+      }
+    ]
+  },
+  {
+    "file": "23996472",
+    "text": "Slug expression inhibits calcitriol-mediated sensitivity to radiation in colorectal cancer.",
+    "concepts": [
+      {
+        "concept_id": "C0427965",
+        "concept_name": "Antimicrobial susceptibility"
+      },
+      {
+        "concept_id": "C1522449",
+        "concept_name": "Therapeutic radiology procedure"
+      },
+      {
+        "concept_id": "C0017262",
+        "concept_name": "Gene Expression"
+      },
+      {
+        "concept_id": "C0006826",
+        "concept_name": "Malignant Neoplasms"
+      },
+      {
+        "concept_id": "C0312418",
+        "concept_name": "Personality Sensitivity"
+      },
+      {
+        "concept_id": "C0185117",
+        "concept_name": "Expression procedure"
+      },
+      {
+        "concept_id": "C0006674",
+        "concept_name": "Calcitriol"
+      },
+      {
+        "concept_id": "C1306459",
+        "concept_name": "Primary malignant neoplasm"
+      }
+    ]
+  },
+  {
+    "file": "24004517",
+    "text": "Mobile Health Medication Adherence and Blood Pressure Control in Renal Transplant Recipients: A Proof-of-Concept Randomized Controlled Trial.",
+    "concepts": [
+      {
+        "concept_id": "C1271104",
+        "concept_name": "Blood pressure finding"
+      },
+      {
+        "concept_id": "C1629505",
+        "concept_name": ""
+      },
+      {
+        "concept_id": "C1272641",
+        "concept_name": "Systemic arterial pressure"
+      },
+      {
+        "concept_id": "C0040732",
+        "concept_name": "Transplantation"
+      },
+      {
+        "concept_id": "C0460139",
+        "concept_name": "Pressure (finding)"
+      },
+      {
+        "concept_id": "C0005823",
+        "concept_name": "Blood Pressure"
+      },
+      {
+        "concept_id": "C0022671",
+        "concept_name": "Kidney Transplantation"
+      },
+      {
+        "concept_id": "C0005767",
+        "concept_name": "Blood"
+      },
+      {
+        "concept_id": "C0332835",
+        "concept_name": "Transplanted tissue"
+      },
+      {
+        "concept_id": "C0022646",
+        "concept_name": "Kidney"
+      }
+    ]
+  },
+  {
+    "file": "24032670",
+    "text": "Microstructural integrity of early- versus late-myelinating white matter tracts in medial temporal lobe epilepsy.",
+    "concepts": [
+      {
+        "concept_id": "C0014556",
+        "concept_name": "Epilepsy, Temporal Lobe"
+      },
+      {
+        "concept_id": "C0014544",
+        "concept_name": "Epilepsy"
+      },
+      {
+        "concept_id": "C1268978",
+        "concept_name": "Entire temporal lobe"
+      },
+      {
+        "concept_id": "C0039485",
+        "concept_name": "Temporal Lobe"
+      }
+    ]
+  },
+  {
+    "file": "24040012",
+    "text": "Suramin: a potential therapy for diabetic nephropathy.",
+    "concepts": [
+      {
+        "concept_id": "C0087111",
+        "concept_name": "Therapeutic procedure"
+      },
+      {
+        "concept_id": "C0011881",
+        "concept_name": "Diabetic Nephropathy"
+      },
+      {
+        "concept_id": "C0022658",
+        "concept_name": "Kidney Diseases"
+      },
+      {
+        "concept_id": "C0038880",
+        "concept_name": "Suramin"
+      }
+    ]
+  },
+  {
+    "file": "24042162",
+    "text": "cGMP-selective phosphodiesterase inhibitors stimulate mitochondrial biogenesis and promote recovery from acute kidney injury.",
+    "concepts": [
+      {
+        "concept_id": "C0026237",
+        "concept_name": "Mitochondria"
+      },
+      {
+        "concept_id": "C0175677",
+        "concept_name": ""
+      },
+      {
+        "concept_id": "C1278978",
+        "concept_name": "Entire kidney"
+      },
+      {
+        "concept_id": "C0022660",
+        "concept_name": "Kidney Failure, Acute"
+      },
+      {
+        "concept_id": "C0022646",
+        "concept_name": "Kidney"
+      }
+    ]
+  },
+  {
+    "file": "24059877",
+    "text": "Feasibility of delivering evidence-based HIV/STI prevention programming to a community sample of African American teen girls via the internet.",
+    "concepts": [
+      {
+        "concept_id": "C0199176",
+        "concept_name": "Prophylactic treatment"
+      }
+    ]
+  },
+  {
+    "file": "24107863",
+    "text": "Presurgical connectome and postsurgical seizure control in temporal lobe epilepsy.",
+    "concepts": [
+      {
+        "concept_id": "C0039485",
+        "concept_name": "Temporal Lobe"
+      },
+      {
+        "concept_id": "C0014556",
+        "concept_name": "Epilepsy, Temporal Lobe"
+      },
+      {
+        "concept_id": "C0014544",
+        "concept_name": "Epilepsy"
+      },
+      {
+        "concept_id": "C0036572",
+        "concept_name": "Seizures"
+      },
+      {
+        "concept_id": "C1268978",
+        "concept_name": "Entire temporal lobe"
+      }
+    ]
+  },
+  {
+    "file": "24130510",
+    "text": "Preferential binding to Elk-1 by SLE-associated IL10 risk allele upregulates IL10 expression.",
+    "concepts": [
+      {
+        "concept_id": "C0185117",
+        "concept_name": "Expression procedure"
+      },
+      {
+        "concept_id": "C0017262",
+        "concept_name": "Gene Expression"
+      },
+      {
+        "concept_id": "C0024141",
+        "concept_name": "Lupus Erythematosus, Systemic"
+      },
+      {
+        "concept_id": "C0014060",
+        "concept_name": "Encephalitis, St. Louis"
+      }
+    ]
+  },
+  {
+    "file": "24131708",
+    "text": "Management of postpartum depression.",
+    "concepts": [
+      {
+        "concept_id": "C0011581",
+        "concept_name": "Depressive disorder"
+      },
+      {
+        "concept_id": "C0011570",
+        "concept_name": "Mental Depression"
+      },
+      {
+        "concept_id": "C1273870",
+        "concept_name": "Management procedure"
+      },
+      {
+        "concept_id": "C0221074",
+        "concept_name": "Depression, Postpartum"
+      },
+      {
+        "concept_id": "C0001554",
+        "concept_name": "Administration occupational activities"
+      },
+      {
+        "concept_id": "C0344315",
+        "concept_name": "Depressed mood"
+      }
+    ]
+  },
+  {
+    "file": "24141489",
+    "text": "Resveratrol enhances ionizing radiation-induced premature senescence in lung cancer cells.",
+    "concepts": [
+      {
+        "concept_id": "C1278908",
+        "concept_name": "Entire lung"
+      },
+      {
+        "concept_id": "C1522449",
+        "concept_name": "Therapeutic radiology procedure"
+      },
+      {
+        "concept_id": "C0001792",
+        "concept_name": "Elderly (population group)"
+      },
+      {
+        "concept_id": "C1269647",
+        "concept_name": "Entire cell"
+      },
+      {
+        "concept_id": "C0073096",
+        "concept_name": "resveratrol"
+      },
+      {
+        "concept_id": "C0024109",
+        "concept_name": "Lung"
+      },
+      {
+        "concept_id": "C0007634",
+        "concept_name": "Cells"
+      },
+      {
+        "concept_id": "C0242379",
+        "concept_name": "Malignant neoplasm of lung"
+      },
+      {
+        "concept_id": "C0006826",
+        "concept_name": "Malignant Neoplasms"
+      },
+      {
+        "concept_id": "C0684249",
+        "concept_name": "Carcinoma of lung"
+      },
+      {
+        "concept_id": "C0231337",
+        "concept_name": "Senility"
+      },
+      {
+        "concept_id": "C0334227",
+        "concept_name": "Tumor cells, malignant"
+      },
+      {
+        "concept_id": "C1306459",
+        "concept_name": "Primary malignant neoplasm"
+      }
+    ]
+  },
+  {
+    "file": "24188687",
+    "text": "Prognostic factors in relation to racial disparity in advanced colorectal cancer survival.",
+    "concepts": [
+      {
+        "concept_id": "C0006826",
+        "concept_name": "Malignant Neoplasms"
+      },
+      {
+        "concept_id": "C1306459",
+        "concept_name": "Primary malignant neoplasm"
+      }
+    ]
+  },
+  {
+    "file": "24275386",
+    "text": "Suppressed mitochondrial biogenesis in folic acid-induced acute kidney injury and early fibrosis.",
+    "concepts": [
+      {
+        "concept_id": "C0026237",
+        "concept_name": "Mitochondria"
+      },
+      {
+        "concept_id": "C0175677",
+        "concept_name": ""
+      },
+      {
+        "concept_id": "C0016059",
+        "concept_name": "Fibrosis"
+      },
+      {
+        "concept_id": "C1278978",
+        "concept_name": "Entire kidney"
+      },
+      {
+        "concept_id": "C0016410",
+        "concept_name": "Folic Acid"
+      },
+      {
+        "concept_id": "C0523631",
+        "concept_name": "Folic acid measurement"
+      },
+      {
+        "concept_id": "C0022660",
+        "concept_name": "Kidney Failure, Acute"
+      },
+      {
+        "concept_id": "C0022646",
+        "concept_name": "Kidney"
+      }
+    ]
+  },
+  {
+    "file": "24291671",
+    "text": "Novel Vitamin K analogs suppress seizures in zebrafish and mouse models of epilepsy.",
+    "concepts": [
+      {
+        "concept_id": "C0014544",
+        "concept_name": "Epilepsy"
+      },
+      {
+        "concept_id": "C0042879",
+        "concept_name": "Vitamin K Assay"
+      },
+      {
+        "concept_id": "C0042878",
+        "concept_name": "Vitamin K"
+      },
+      {
+        "concept_id": "C0036572",
+        "concept_name": "Seizures"
+      },
+      {
+        "concept_id": "C0202194",
+        "concept_name": "Potassium measurement"
+      }
+    ]
+  },
+  {
+    "file": "24308511",
+    "text": "Autotransplantation of culture-positive islet product: is dirty always bad?",
+    "concepts": [
+      {
+        "concept_id": "C0040736",
+        "concept_name": "Transplantation, Autologous"
+      },
+      {
+        "concept_id": "C0430400",
+        "concept_name": "Laboratory culture"
+      },
+      {
+        "concept_id": "C2242979",
+        "concept_name": "Microbial culture (procedure)"
+      }
+    ]
+  },
+  {
+    "file": "24319654",
+    "text": "White matter tract integrity metrics reflect the vulnerability of late-myelinating tracts in Alzheimer's disease.",
+    "concepts": [
+      {
+        "concept_id": "C0002395",
+        "concept_name": "Alzheimer's Disease"
+      },
+      {
+        "concept_id": "C0012634",
+        "concept_name": "Disease"
+      }
+    ]
+  },
+  {
+    "file": "24423943",
+    "text": "Factors influencing hospital admissions and emergency department visits among children with complex chronic conditions: a qualitative study of parents' and providers' perspectives.",
+    "concepts": [
+      {
+        "concept_id": "C0012634",
+        "concept_name": "Disease"
+      }
+    ]
+  },
+  {
+    "file": "24424052",
+    "text": "Bilirubin increases insulin sensitivity in leptin-receptor deficient and diet-induced obese mice through suppression of ER stress and chronic inflammation.",
+    "concepts": [
+      {
+        "concept_id": "C0038435",
+        "concept_name": "Stress"
+      },
+      {
+        "concept_id": "C0427965",
+        "concept_name": "Antimicrobial susceptibility"
+      },
+      {
+        "concept_id": "C0221103",
+        "concept_name": "Visual Suppression"
+      },
+      {
+        "concept_id": "C0021376",
+        "concept_name": "Chronic inflammation"
+      },
+      {
+        "concept_id": "C0021641",
+        "concept_name": "Insulin"
+      },
+      {
+        "concept_id": "C0014239",
+        "concept_name": "Endoplasmic Reticulum"
+      },
+      {
+        "concept_id": "C0021368",
+        "concept_name": "Inflammation"
+      },
+      {
+        "concept_id": "C0312418",
+        "concept_name": "Personality Sensitivity"
+      },
+      {
+        "concept_id": "C0028754",
+        "concept_name": "Obesity"
+      },
+      {
+        "concept_id": "C0202098",
+        "concept_name": "Insulin measurement"
+      },
+      {
+        "concept_id": "C0201913",
+        "concept_name": "Bilirubin, total measurement"
+      },
+      {
+        "concept_id": "C1295176",
+        "concept_name": "Leptin measurement"
+      }
+    ]
+  },
+  {
+    "file": "24436362",
+    "text": "The 2014 Surgeon General's report: commemorating the 50th Anniversary of the 1964 Report of the Advisory Committee to the US Surgeon General and updating the evidence on the health consequences of cigarette smoking.",
+    "concepts": [
+      {
+        "concept_id": "C0041618",
+        "concept_name": "Ultrasonography"
+      }
+    ]
+  },
+  {
+    "file": "24504811",
+    "text": "End-stage renal disease in African Americans with lupus nephritis is associated with APOL1.",
+    "concepts": [
+      {
+        "concept_id": "C0012634",
+        "concept_name": "Disease"
+      },
+      {
+        "concept_id": "C2316810",
+        "concept_name": "Chronic kidney disease stage 5"
+      },
+      {
+        "concept_id": "C0022661",
+        "concept_name": "Kidney Failure, Chronic"
+      },
+      {
+        "concept_id": "C0409974",
+        "concept_name": "Lupus Erythematosus"
+      },
+      {
+        "concept_id": "C0027697",
+        "concept_name": "Nephritis"
+      },
+      {
+        "concept_id": "C0022658",
+        "concept_name": "Kidney Diseases"
+      },
+      {
+        "concept_id": "C0024143",
+        "concept_name": "Lupus Nephritis"
+      },
+      {
+        "concept_id": "C0022646",
+        "concept_name": "Kidney"
+      }
+    ]
+  },
+  {
+    "file": "24511124",
+    "text": "Formoterol restores mitochondrial and renal function after ischemia-reperfusion injury.",
+    "concepts": [
+      {
+        "concept_id": "C0160420",
+        "concept_name": "Injury of kidney"
+      },
+      {
+        "concept_id": "C0175677",
+        "concept_name": ""
+      },
+      {
+        "concept_id": "C0232804",
+        "concept_name": "Renal function"
+      },
+      {
+        "concept_id": "C0022116",
+        "concept_name": "Ischemia"
+      },
+      {
+        "concept_id": "C0060657",
+        "concept_name": "formoterol"
+      },
+      {
+        "concept_id": "C0022646",
+        "concept_name": "Kidney"
+      }
+    ]
+  },
+  {
+    "file": "24589213",
+    "text": "At-risk characteristics for hospital admissions and ED visits.",
+    "concepts": []
+  },
+  {
+    "file": "24607757",
+    "text": "Risk of late-preterm stillbirth and neonatal morbidity for monochorionic and dichorionic twins.",
+    "concepts": [
+      {
+        "concept_id": "C0220761",
+        "concept_name": "Dizygotic twins (disorder)"
+      },
+      {
+        "concept_id": "C0595939",
+        "concept_name": "Stillbirth"
+      }
+    ]
+  },
+  {
+    "file": "24608900",
+    "text": "Spatial environmental modeling of autoantibody outcomes among an African American population.",
+    "concepts": []
+  },
+  {
+    "file": "24609852",
+    "text": "Is a personal history of nonmelanoma skin cancer associated with increased or decreased risk of other cancers?",
+    "concepts": [
+      {
+        "concept_id": "C1278993",
+        "concept_name": "Entire skin"
+      },
+      {
+        "concept_id": "C0007114",
+        "concept_name": "Malignant neoplasm of skin"
+      },
+      {
+        "concept_id": "C0006826",
+        "concept_name": "Malignant Neoplasms"
+      },
+      {
+        "concept_id": "C0262926",
+        "concept_name": "Medical History"
+      },
+      {
+        "concept_id": "C1123023",
+        "concept_name": "Skin"
+      },
+      {
+        "concept_id": "C0424945",
+        "concept_name": "Social and personal history"
+      },
+      {
+        "concept_id": "C1306459",
+        "concept_name": "Primary malignant neoplasm"
+      }
+    ]
+  },
+  {
+    "file": "24619391",
+    "text": "Assessing the clinical effect of residual cortical disconnection after ischemic strokes.",
+    "concepts": [
+      {
+        "concept_id": "C0001613",
+        "concept_name": "Adrenal Cortex"
+      },
+      {
+        "concept_id": "C0948008",
+        "concept_name": "Ischemic stroke"
+      },
+      {
+        "concept_id": "C0007776",
+        "concept_name": "Cerebral cortex"
+      },
+      {
+        "concept_id": "C0022655",
+        "concept_name": "Structure of cortex of kidney"
+      },
+      {
+        "concept_id": "C0038454",
+        "concept_name": "Cerebrovascular accident"
+      }
+    ]
+  },
+  {
+    "file": "24620850",
+    "text": "Effects of Hatha yoga on blood pressure, salivary α-amylase, and cortisol function among normotensive and prehypertensive youth.",
+    "concepts": [
+      {
+        "concept_id": "C1271104",
+        "concept_name": "Blood pressure finding"
+      },
+      {
+        "concept_id": "C0232105",
+        "concept_name": ""
+      },
+      {
+        "concept_id": "C1272641",
+        "concept_name": "Systemic arterial pressure"
+      },
+      {
+        "concept_id": "C0201883",
+        "concept_name": "Amylase measurement"
+      },
+      {
+        "concept_id": "C0460139",
+        "concept_name": "Pressure (finding)"
+      },
+      {
+        "concept_id": "C0005823",
+        "concept_name": "Blood Pressure"
+      },
+      {
+        "concept_id": "C0005767",
+        "concept_name": "Blood"
+      },
+      {
+        "concept_id": "C0201968",
+        "concept_name": "Cortisol Measurement"
+      }
+    ]
+  },
+  {
+    "file": "24632412",
+    "text": "Selective inhibition of class I but not class IIb histone deacetylases exerts cardiac protection from ischemia reperfusion.",
+    "concepts": [
+      {
+        "concept_id": "C0151744",
+        "concept_name": "Myocardial Ischemia"
+      },
+      {
+        "concept_id": "C0022116",
+        "concept_name": "Ischemia"
+      },
+      {
+        "concept_id": "C0018787",
+        "concept_name": "Heart"
+      },
+      {
+        "concept_id": "C0021469",
+        "concept_name": "Metabolic Inhibition"
+      }
+    ]
+  },
+  {
+    "file": "24636721",
+    "text": "A feasibility pilot study on the use of text messages to track PTSD symptoms after a traumatic injury.",
+    "concepts": [
+      {
+        "concept_id": "C0175677",
+        "concept_name": ""
+      },
+      {
+        "concept_id": "C0038436",
+        "concept_name": "Post-Traumatic Stress Disorder"
+      },
+      {
+        "concept_id": "C1457887",
+        "concept_name": "Symptoms"
+      }
+    ]
+  },
+  {
+    "file": "24726861",
+    "text": "Peroxiredoxin VI oxidation in cerebrospinal fluid correlates with traumatic brain injury outcome.",
+    "concepts": [
+      {
+        "concept_id": "C0270611",
+        "concept_name": "Brain Injuries"
+      },
+      {
+        "concept_id": "C0175677",
+        "concept_name": ""
+      },
+      {
+        "concept_id": "C0876926",
+        "concept_name": "Traumatic Brain Injury"
+      },
+      {
+        "concept_id": "C0006104",
+        "concept_name": "Brain"
+      },
+      {
+        "concept_id": "C0030011",
+        "concept_name": "Oxidation"
+      },
+      {
+        "concept_id": "C1269537",
+        "concept_name": "Entire brain"
+      }
+    ]
+  },
+  {
+    "file": "24761006",
+    "text": "Invited commentary: Parental smoking as a risk factor for adult tobacco use: can maternal smoking during pregnancy be distinguished from the social environmental influence during childhood?",
+    "concepts": [
+      {
+        "concept_id": "C0032961",
+        "concept_name": "Pregnancy"
+      }
+    ]
+  },
+  {
+    "file": "24796428",
+    "text": "Diffusional kurtosis imaging reveals a distinctive pattern of microstructural alternations in idiopathic generalized epilepsy.",
+    "concepts": [
+      {
+        "concept_id": "C0014544",
+        "concept_name": "Epilepsy"
+      },
+      {
+        "concept_id": "C0270850",
+        "concept_name": "Idiopathic generalized epilepsy"
+      },
+      {
+        "concept_id": "C0079595",
+        "concept_name": "Imaging Techniques"
+      },
+      {
+        "concept_id": "C0011923",
+        "concept_name": "Diagnostic Imaging"
+      }
+    ]
+  },
+  {
+    "file": "24813546",
+    "text": "Laboratory-induced cue reactivity among individuals with prescription opioid dependence.",
+    "concepts": [
+      {
+        "concept_id": "C0524662",
+        "concept_name": "Opiate Addiction"
+      },
+      {
+        "concept_id": "C0439857",
+        "concept_name": "Dependence"
+      }
+    ]
+  },
+  {
+    "file": "24849926",
+    "text": "Agonism of the 5-hydroxytryptamine 1F receptor promotes mitochondrial biogenesis and recovery from acute kidney injury.",
+    "concepts": [
+      {
+        "concept_id": "C0026237",
+        "concept_name": "Mitochondria"
+      },
+      {
+        "concept_id": "C0175677",
+        "concept_name": ""
+      },
+      {
+        "concept_id": "C1278978",
+        "concept_name": "Entire kidney"
+      },
+      {
+        "concept_id": "C0022660",
+        "concept_name": "Kidney Failure, Acute"
+      },
+      {
+        "concept_id": "C0022646",
+        "concept_name": "Kidney"
+      }
+    ]
+  },
+  {
+    "file": "24948438",
+    "text": "The one-year attributable cost of post-stroke dysphagia.",
+    "concepts": [
+      {
+        "concept_id": "C0011168",
+        "concept_name": "Deglutition Disorders"
+      }
+    ]
+  },
+  {
+    "file": "24990892",
+    "text": "Renal cortical hexokinase and pentose phosphate pathway activation through the EGFR/Akt signaling pathway in endotoxin-induced acute kidney injury.",
+    "concepts": [
+      {
+        "concept_id": "C0001613",
+        "concept_name": "Adrenal Cortex"
+      },
+      {
+        "concept_id": "C0175677",
+        "concept_name": ""
+      },
+      {
+        "concept_id": "C1278978",
+        "concept_name": "Entire kidney"
+      },
+      {
+        "concept_id": "C0037083",
+        "concept_name": "Signal Transduction"
+      },
+      {
+        "concept_id": "C0007776",
+        "concept_name": "Cerebral cortex"
+      },
+      {
+        "concept_id": "C0022655",
+        "concept_name": "Structure of cortex of kidney"
+      },
+      {
+        "concept_id": "C0523826",
+        "concept_name": "Phosphate measurement"
+      },
+      {
+        "concept_id": "C0022660",
+        "concept_name": "Kidney Failure, Acute"
+      },
+      {
+        "concept_id": "C0022646",
+        "concept_name": "Kidney"
+      }
+    ]
+  },
+  {
+    "file": "25034899",
+    "text": "Pain management perceptions among prescription opioid dependent individuals.",
+    "concepts": [
+      {
+        "concept_id": "C0030193",
+        "concept_name": "Pain"
+      },
+      {
+        "concept_id": "C1273870",
+        "concept_name": "Management procedure"
+      },
+      {
+        "concept_id": "C0002766",
+        "concept_name": "Pain management"
+      },
+      {
+        "concept_id": "C2979984",
+        "concept_name": ""
+      },
+      {
+        "concept_id": "C0001554",
+        "concept_name": "Administration occupational activities"
+      },
+      {
+        "concept_id": "C0030971",
+        "concept_name": "Perception"
+      }
+    ]
+  },
+  {
+    "file": "25056757",
+    "text": "In vitro evaluation of the effects of perfluorooctanesulfonic acid (PFOS) and perfluorooctanoic acid (PFOA) on IL-2 production in human T-cells.",
+    "concepts": [
+      {
+        "concept_id": "C0427861",
+        "concept_name": "Human cells"
+      },
+      {
+        "concept_id": "C1269647",
+        "concept_name": "Entire cell"
+      },
+      {
+        "concept_id": "C0007634",
+        "concept_name": "Cells"
+      },
+      {
+        "concept_id": "C0039194",
+        "concept_name": "T-Lymphocyte"
+      },
+      {
+        "concept_id": "C0040715",
+        "concept_name": "Chromosomal translocation"
+      }
+    ]
+  },
+  {
+    "file": "25080585",
+    "text": "Orbitofrontal cortical neurons encode expectation-driven initiation of reward-seeking.",
+    "concepts": [
+      {
+        "concept_id": "C0001613",
+        "concept_name": "Adrenal Cortex"
+      },
+      {
+        "concept_id": "C0027882",
+        "concept_name": "Neurons"
+      },
+      {
+        "concept_id": "C0007776",
+        "concept_name": "Cerebral cortex"
+      },
+      {
+        "concept_id": "C0022655",
+        "concept_name": "Structure of cortex of kidney"
+      },
+      {
+        "concept_id": "C0589507",
+        "concept_name": "Cognitive function: initiation"
+      }
+    ]
+  },
+  {
+    "file": "25153568",
+    "text": "Growth failure associated with early neglect: pilot comparison of neglected US children and international adoptees.",
+    "concepts": [
+      {
+        "concept_id": "C0041618",
+        "concept_name": "Ultrasonography"
+      },
+      {
+        "concept_id": "C0521874",
+        "concept_name": "Victim of neglect (finding)"
+      }
+    ]
+  },
+  {
+    "file": "25205108",
+    "text": "The IRF5-TNPO3 association with systemic lupus erythematosus has two components that other autoimmune disorders variably share.",
+    "concepts": [
+      {
+        "concept_id": "C0004364",
+        "concept_name": "Autoimmune Diseases"
+      },
+      {
+        "concept_id": "C0012634",
+        "concept_name": "Disease"
+      },
+      {
+        "concept_id": "C0409974",
+        "concept_name": "Lupus Erythematosus"
+      },
+      {
+        "concept_id": "C0004083",
+        "concept_name": "Mental association"
+      },
+      {
+        "concept_id": "C0024141",
+        "concept_name": "Lupus Erythematosus, Systemic"
+      },
+      {
+        "concept_id": "C0443146",
+        "concept_name": "Autoimmune reaction"
+      }
+    ]
+  },
+  {
+    "file": "25224988",
+    "text": "A community-based participatory research approach to the development of a Peer Navigator health promotion intervention for people with spinal cord injury.",
+    "concepts": [
+      {
+        "concept_id": "C1278836",
+        "concept_name": "Entire spinal cord"
+      },
+      {
+        "concept_id": "C0037929",
+        "concept_name": "Spinal Cord Injuries"
+      },
+      {
+        "concept_id": "C0175677",
+        "concept_name": ""
+      },
+      {
+        "concept_id": "C0037937",
+        "concept_name": "Spinal Injuries"
+      },
+      {
+        "concept_id": "C0037925",
+        "concept_name": "Spinal Cord"
+      }
+    ]
+  },
+  {
+    "file": "25239477",
+    "text": "Human brain asymmetry in microstructural connectivity demonstrated by diffusional kurtosis imaging.",
+    "concepts": [
+      {
+        "concept_id": "C0011923",
+        "concept_name": "Diagnostic Imaging"
+      },
+      {
+        "concept_id": "C0079595",
+        "concept_name": "Imaging Techniques"
+      },
+      {
+        "concept_id": "C1269537",
+        "concept_name": "Entire brain"
+      },
+      {
+        "concept_id": "C0006104",
+        "concept_name": "Brain"
+      }
+    ]
+  },
+  {
+    "file": "25292181",
+    "text": "Atomoxetine prevents dexamethasone-induced skeletal muscle atrophy in mice.",
+    "concepts": [
+      {
+        "concept_id": "C0076823",
+        "concept_name": "atomoxetine"
+      },
+      {
+        "concept_id": "C0333641",
+        "concept_name": "Atrophic"
+      },
+      {
+        "concept_id": "C0026845",
+        "concept_name": "Muscle"
+      },
+      {
+        "concept_id": "C0242692",
+        "concept_name": "Skeletal muscle structure"
+      },
+      {
+        "concept_id": "C0037253",
+        "concept_name": "Skeletal system"
+      },
+      {
+        "concept_id": "C1280260",
+        "concept_name": "Entire skeletal muscle (organ)"
+      },
+      {
+        "concept_id": "C0011777",
+        "concept_name": "Dexamethasone"
+      },
+      {
+        "concept_id": "C0026846",
+        "concept_name": "Muscular Atrophy"
+      }
+    ]
+  },
+  {
+    "file": "25316192",
+    "text": "The association of individual and neighborhood social cohesion, stressors, and crime on smoking status among African-American women in southeastern US subsidized housing neighborhoods.",
+    "concepts": [
+      {
+        "concept_id": "C0041618",
+        "concept_name": "Ultrasonography"
+      },
+      {
+        "concept_id": "C0004083",
+        "concept_name": "Mental association"
+      }
+    ]
+  },
+  {
+    "file": "25364473",
+    "text": "Successes, Challenges and Lessons Learned: Community-engaged research with South Carolina's Gullah population.",
+    "concepts": []
+  },
+  {
+    "file": "25447550",
+    "text": "Quantitative analysis of mitochondrial morphology and membrane potential in living cells using high-content imaging, machine learning, and morphological binning.",
+    "concepts": [
+      {
+        "concept_id": "C0011923",
+        "concept_name": "Diagnostic Imaging"
+      },
+      {
+        "concept_id": "C0026237",
+        "concept_name": "Mitochondria"
+      },
+      {
+        "concept_id": "C0423896",
+        "concept_name": "Feeling content"
+      },
+      {
+        "concept_id": "C1269647",
+        "concept_name": "Entire cell"
+      },
+      {
+        "concept_id": "C0023185",
+        "concept_name": "Learning"
+      },
+      {
+        "concept_id": "C0007634",
+        "concept_name": "Cells"
+      },
+      {
+        "concept_id": "C0002778",
+        "concept_name": "Analysis of substances"
+      },
+      {
+        "concept_id": "C0079595",
+        "concept_name": "Imaging Techniques"
+      }
+    ]
+  },
+  {
+    "file": "25485543",
+    "text": "Sex differences in monocyte activation in systemic lupus erythematosus (SLE).",
+    "concepts": [
+      {
+        "concept_id": "C0026473",
+        "concept_name": "Monocytes"
+      },
+      {
+        "concept_id": "C1314687",
+        "concept_name": "Sexual intercourse - finding"
+      },
+      {
+        "concept_id": "C0024141",
+        "concept_name": "Lupus Erythematosus, Systemic"
+      },
+      {
+        "concept_id": "C0409974",
+        "concept_name": "Lupus Erythematosus"
+      }
+    ]
+  },
+  {
+    "file": "25503387",
+    "text": "Suppression of mitochondrial biogenesis through toll-like receptor 4-dependent mitogen-activated protein kinase kinase/extracellular signal-regulated kinase signaling in endotoxin-induced acute kidney injury.",
+    "concepts": [
+      {
+        "concept_id": "C0555903",
+        "concept_name": "Total protein measurement"
+      },
+      {
+        "concept_id": "C0026237",
+        "concept_name": "Mitochondria"
+      },
+      {
+        "concept_id": "C0221103",
+        "concept_name": "Visual Suppression"
+      },
+      {
+        "concept_id": "C0521119",
+        "concept_name": "Extracellular"
+      },
+      {
+        "concept_id": "C0175677",
+        "concept_name": ""
+      },
+      {
+        "concept_id": "C1278978",
+        "concept_name": "Entire kidney"
+      },
+      {
+        "concept_id": "C0037083",
+        "concept_name": "Signal Transduction"
+      },
+      {
+        "concept_id": "C0022660",
+        "concept_name": "Kidney Failure, Acute"
+      },
+      {
+        "concept_id": "C0022646",
+        "concept_name": "Kidney"
+      }
+    ]
+  },
+  {
+    "file": "25510273",
+    "text": "Novel immunotherapies for hematologic malignancies.",
+    "concepts": [
+      {
+        "concept_id": "C0021083",
+        "concept_name": "Immunotherapy"
+      },
+      {
+        "concept_id": "C0376545",
+        "concept_name": "Hematologic Neoplasms"
+      },
+      {
+        "concept_id": "C0006826",
+        "concept_name": "Malignant Neoplasms"
+      },
+      {
+        "concept_id": "C1306459",
+        "concept_name": "Primary malignant neoplasm"
+      }
+    ]
+  },
+  {
+    "file": "25569266",
+    "text": "Genetic association of CD247 (CD3ζ) with SLE in a large-scale multiethnic study.",
+    "concepts": [
+      {
+        "concept_id": "C0024141",
+        "concept_name": "Lupus Erythematosus, Systemic"
+      },
+      {
+        "concept_id": "C0014060",
+        "concept_name": "Encephalitis, St. Louis"
+      },
+      {
+        "concept_id": "C0222045",
+        "concept_name": "Integumentary scale"
+      },
+      {
+        "concept_id": "C0004083",
+        "concept_name": "Mental association"
+      }
+    ]
+  },
+  {
+    "file": "25819541",
+    "text": "Longitudinal measures of perfluoroalkyl substances (PFAS) in serum of Gullah African Americans in South Carolina: 2003-2013.",
+    "concepts": []
+  }
+]

@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?><CAS version="2">
+    <uima.cas.Sofa _indexed="0" _id="3" sofaNum="1" sofaID="_InitialView" mimeType="text" sofaString="A novel class of small molecule inhibitors of HDAC6."/>
+    <org.apache.ctakes.typesystem.type.structured.DocumentID _indexed="1" _id="1" documentID="22047054_title.txt"/>
+    <uima.tcas.DocumentAnnotation _indexed="1" _id="10" _ref_sofa="3" begin="0" end="52" language="x-unspecified"/>
+    <org.apache.ctakes.typesystem.type.textspan.Segment _indexed="1" _id="15" _ref_sofa="3" begin="0" end="52" id="SIMPLE_SEGMENT"/>
+    <org.apache.ctakes.typesystem.type.textspan.Sentence _indexed="1" _id="21" _ref_sofa="3" begin="0" end="52" sentenceNumber="0"/>
+    <org.apache.ctakes.typesystem.type.syntax.WordToken _indexed="1" _id="27" _ref_sofa="3" begin="0" end="1" tokenNumber="0" normalizedForm="A" partOfSpeech="DT" capitalization="3" numPosition="0" canonicalForm="A"/>
+    <org.apache.ctakes.typesystem.type.syntax.WordToken _indexed="1" _id="39" _ref_sofa="3" begin="2" end="7" tokenNumber="1" normalizedForm="novel" partOfSpeech="JJ" capitalization="0" numPosition="0" canonicalForm="novel"/>
+    <org.apache.ctakes.typesystem.type.syntax.WordToken _indexed="1" _id="51" _ref_sofa="3" begin="8" end="13" tokenNumber="2" normalizedForm="class" partOfSpeech="NN" capitalization="0" numPosition="0" canonicalForm="class"/>
+    <org.apache.ctakes.typesystem.type.syntax.WordToken _indexed="1" _id="63" _ref_sofa="3" begin="14" end="16" tokenNumber="3" normalizedForm="of" partOfSpeech="IN" capitalization="0" numPosition="0"/>
+    <org.apache.ctakes.typesystem.type.syntax.WordToken _indexed="1" _id="75" _ref_sofa="3" begin="17" end="22" tokenNumber="4" normalizedForm="small" partOfSpeech="JJ" capitalization="0" numPosition="0" canonicalForm="small"/>
+    <org.apache.ctakes.typesystem.type.syntax.WordToken _indexed="1" _id="87" _ref_sofa="3" begin="23" end="31" tokenNumber="5" normalizedForm="molecule" partOfSpeech="NN" capitalization="0" numPosition="0" canonicalForm="molecule"/>
+    <org.apache.ctakes.typesystem.type.syntax.WordToken _indexed="1" _id="99" _ref_sofa="3" begin="32" end="42" tokenNumber="6" normalizedForm="inhibitor" partOfSpeech="NNS" capitalization="0" numPosition="0" canonicalForm="inhibitor"/>
+    <org.apache.ctakes.typesystem.type.syntax.WordToken _indexed="1" _id="111" _ref_sofa="3" begin="43" end="45" tokenNumber="7" normalizedForm="of" partOfSpeech="IN" capitalization="0" numPosition="0"/>
+    <org.apache.ctakes.typesystem.type.syntax.WordToken _indexed="1" _id="123" _ref_sofa="3" begin="46" end="51" tokenNumber="8" normalizedForm="hdac6" partOfSpeech="NN" capitalization="2" numPosition="3" canonicalForm="hdac6"/>
+    <org.apache.ctakes.typesystem.type.syntax.PunctuationToken _indexed="1" _id="135" _ref_sofa="3" begin="51" end="52" tokenNumber="9" normalizedForm="." partOfSpeech="."/>
+    <org.apache.ctakes.typesystem.type.syntax.NP _indexed="1" _id="143" _ref_sofa="3" begin="0" end="51" chunkType="NP"/>
+    <org.apache.ctakes.typesystem.type.syntax.NP _indexed="1" _id="153" _ref_sofa="3" begin="17" end="42" chunkType="NP"/>
+    <org.apache.ctakes.typesystem.type.syntax.NP _indexed="1" _id="163" _ref_sofa="3" begin="46" end="51" chunkType="NP"/>
+    <org.apache.ctakes.typesystem.type.syntax.PP _indexed="1" _id="148" _ref_sofa="3" begin="14" end="16" chunkType="PP"/>
+    <org.apache.ctakes.typesystem.type.syntax.PP _indexed="1" _id="158" _ref_sofa="3" begin="43" end="45" chunkType="PP"/>
+    <org.apache.ctakes.typesystem.type.textspan.LookupWindowAnnotation _indexed="1" _id="168" _ref_sofa="3" begin="0" end="51"/>
+    <org.apache.ctakes.typesystem.type.syntax.ConllDependencyNode _indexed="1" _id="180" _ref_sofa="3" begin="0" end="52" id="0"/>
+    <org.apache.ctakes.typesystem.type.syntax.ConllDependencyNode _indexed="1" _id="194" _ref_sofa="3" begin="0" end="1" id="1" form="A" lemma="a" cpostag="DT" postag="DT" feats="_" _ref_head="222" deprel="det" pdeprel="_"/>
+    <org.apache.ctakes.typesystem.type.syntax.ConllDependencyNode _indexed="1" _id="208" _ref_sofa="3" begin="2" end="7" id="2" form="novel" lemma="novel" cpostag="JJ" postag="JJ" feats="_" _ref_head="222" deprel="amod" pdeprel="_"/>
+    <org.apache.ctakes.typesystem.type.syntax.ConllDependencyNode _indexed="1" _id="222" _ref_sofa="3" begin="8" end="13" id="3" form="class" lemma="class" cpostag="NN" postag="NN" feats="_" _ref_head="320" deprel="csubj" pdeprel="_"/>
+    <org.apache.ctakes.typesystem.type.syntax.ConllDependencyNode _indexed="1" _id="236" _ref_sofa="3" begin="14" end="16" id="4" form="of" lemma="of" cpostag="IN" postag="IN" feats="_" _ref_head="222" deprel="prep" pdeprel="_"/>
+    <org.apache.ctakes.typesystem.type.syntax.ConllDependencyNode _indexed="1" _id="250" _ref_sofa="3" begin="17" end="22" id="5" form="small" lemma="small" cpostag="JJ" postag="JJ" feats="_" _ref_head="278" deprel="amod" pdeprel="_"/>
+    <org.apache.ctakes.typesystem.type.syntax.ConllDependencyNode _indexed="1" _id="264" _ref_sofa="3" begin="23" end="31" id="6" form="molecule" lemma="molecule" cpostag="NN" postag="NN" feats="_" _ref_head="278" deprel="nn" pdeprel="_"/>
+    <org.apache.ctakes.typesystem.type.syntax.ConllDependencyNode _indexed="1" _id="278" _ref_sofa="3" begin="32" end="42" id="7" form="inhibitors" lemma="inhibitor" cpostag="NNS" postag="NNS" feats="_" _ref_head="236" deprel="pobj" pdeprel="_"/>
+    <org.apache.ctakes.typesystem.type.syntax.ConllDependencyNode _indexed="1" _id="292" _ref_sofa="3" begin="43" end="45" id="8" form="of" lemma="of" cpostag="IN" postag="IN" feats="_" _ref_head="278" deprel="prep" pdeprel="_"/>
+    <org.apache.ctakes.typesystem.type.syntax.ConllDependencyNode _indexed="1" _id="306" _ref_sofa="3" begin="46" end="51" id="9" form="HDAC6" lemma="hdac0" cpostag="NN" postag="NN" feats="_" _ref_head="292" deprel="pobj" pdeprel="_"/>
+    <org.apache.ctakes.typesystem.type.syntax.ConllDependencyNode _indexed="1" _id="320" _ref_sofa="3" begin="51" end="52" id="10" form="." lemma="." cpostag="." postag="." feats="_" _ref_head="180" deprel="punct" pdeprel="_"/>
+    <org.apache.ctakes.typesystem.type.syntax.TerminalTreebankNode _indexed="1" _id="488" _ref_sofa="3" begin="0" end="1" nodeType="DT" nodeValue="A" leaf="true" _ref_parent="654" headIndex="0" index="0" tokenIndex="0"/>
+    <org.apache.ctakes.typesystem.type.syntax.TerminalTreebankNode _indexed="1" _id="501" _ref_sofa="3" begin="2" end="7" nodeType="NN" nodeValue="novel" leaf="true" _ref_parent="654" headIndex="0" index="1" tokenIndex="1"/>
+    <org.apache.ctakes.typesystem.type.syntax.TerminalTreebankNode _indexed="1" _id="514" _ref_sofa="3" begin="8" end="13" nodeType="NN" nodeValue="class" leaf="true" _ref_parent="654" headIndex="0" index="2" tokenIndex="2"/>
+    <org.apache.ctakes.typesystem.type.syntax.TerminalTreebankNode _indexed="1" _id="527" _ref_sofa="3" begin="14" end="16" nodeType="IN" nodeValue="of" leaf="true" _ref_parent="672" headIndex="0" index="3" tokenIndex="3"/>
+    <org.apache.ctakes.typesystem.type.syntax.TerminalTreebankNode _indexed="1" _id="540" _ref_sofa="3" begin="17" end="22" nodeType="JJ" nodeValue="small" leaf="true" _ref_parent="706" headIndex="0" index="4" tokenIndex="4"/>
+    <org.apache.ctakes.typesystem.type.syntax.TerminalTreebankNode _indexed="1" _id="553" _ref_sofa="3" begin="23" end="31" nodeType="NN" nodeValue="molecule" leaf="true" _ref_parent="706" headIndex="0" index="5" tokenIndex="5"/>
+    <org.apache.ctakes.typesystem.type.syntax.TerminalTreebankNode _indexed="1" _id="566" _ref_sofa="3" begin="32" end="42" nodeType="NNS" nodeValue="inhibitors" leaf="true" _ref_parent="706" headIndex="0" index="6" tokenIndex="6"/>
+    <org.apache.ctakes.typesystem.type.syntax.TerminalTreebankNode _indexed="1" _id="579" _ref_sofa="3" begin="43" end="45" nodeType="IN" nodeValue="of" leaf="true" _ref_parent="724" headIndex="0" index="7" tokenIndex="7"/>
+    <org.apache.ctakes.typesystem.type.syntax.TerminalTreebankNode _indexed="1" _id="592" _ref_sofa="3" begin="46" end="51" nodeType="NN" nodeValue="HDAC6" leaf="true" _ref_parent="741" headIndex="0" index="8" tokenIndex="8"/>
+    <org.apache.ctakes.typesystem.type.syntax.TerminalTreebankNode _indexed="1" _id="605" _ref_sofa="3" begin="51" end="52" nodeType="." nodeValue="." leaf="true" _ref_parent="636" headIndex="0" index="9" tokenIndex="9"/>
+    <org.apache.ctakes.typesystem.type.syntax.TreebankNode _indexed="1" _id="636" _ref_sofa="3" begin="0" end="52" nodeType="NP" leaf="false" _ref_parent="618" _ref_children="649" _ref_nodeTags="647" headIndex="2"/>
+    <org.apache.ctakes.typesystem.type.syntax.TreebankNode _indexed="1" _id="654" _ref_sofa="3" begin="0" end="13" nodeType="NP" leaf="false" _ref_parent="636" _ref_children="667" _ref_nodeTags="665" headIndex="2"/>
+    <org.apache.ctakes.typesystem.type.syntax.TreebankNode _indexed="1" _id="672" _ref_sofa="3" begin="14" end="51" nodeType="PP" leaf="false" _ref_parent="636" _ref_children="685" _ref_nodeTags="683" headIndex="3"/>
+    <org.apache.ctakes.typesystem.type.syntax.TreebankNode _indexed="1" _id="689" _ref_sofa="3" begin="17" end="51" nodeType="NP" leaf="false" _ref_parent="672" _ref_children="702" _ref_nodeTags="700" headIndex="6"/>
+    <org.apache.ctakes.typesystem.type.syntax.TreebankNode _indexed="1" _id="706" _ref_sofa="3" begin="17" end="42" nodeType="NP" leaf="false" _ref_parent="689" _ref_children="719" _ref_nodeTags="717" headIndex="6"/>
+    <org.apache.ctakes.typesystem.type.syntax.TreebankNode _indexed="1" _id="724" _ref_sofa="3" begin="43" end="51" nodeType="PP" leaf="false" _ref_parent="689" _ref_children="737" _ref_nodeTags="735" headIndex="7"/>
+    <org.apache.ctakes.typesystem.type.syntax.TreebankNode _indexed="1" _id="741" _ref_sofa="3" begin="46" end="51" nodeType="NP" leaf="false" _ref_parent="724" _ref_children="754" _ref_nodeTags="752" headIndex="8"/>
+    <org.apache.ctakes.typesystem.type.syntax.TopTreebankNode _indexed="1" _id="618" _ref_sofa="3" begin="0" end="52" nodeType="TOP" leaf="false" _ref_children="633" _ref_nodeTags="631" headIndex="0" treebankParse="(TOP (NP (NP (DT A) (NN novel) (NN class)) (PP (IN of) (NP (NP (JJ small) (NN molecule) (NNS inhibitors)) (PP (IN of) (NP (NN HDAC6)))))(. .)))" _ref_terminals="476"/>
+    <uima.cas.FSArray _id="476" size="10">
+        <i>488</i>
+        <i>501</i>
+        <i>514</i>
+        <i>527</i>
+        <i>540</i>
+        <i>553</i>
+        <i>566</i>
+        <i>579</i>
+        <i>592</i>
+        <i>605</i>
+    </uima.cas.FSArray>
+    <uima.cas.StringArray _id="631" size="0"/>
+    <uima.cas.FSArray _id="633" size="1">
+        <i>636</i>
+    </uima.cas.FSArray>
+    <uima.cas.StringArray _id="752" size="0"/>
+    <uima.cas.FSArray _id="754" size="1">
+        <i>592</i>
+    </uima.cas.FSArray>
+    <uima.cas.StringArray _id="735" size="0"/>
+    <uima.cas.FSArray _id="737" size="2">
+        <i>579</i>
+        <i>741</i>
+    </uima.cas.FSArray>
+    <uima.cas.StringArray _id="717" size="0"/>
+    <uima.cas.FSArray _id="719" size="3">
+        <i>540</i>
+        <i>553</i>
+        <i>566</i>
+    </uima.cas.FSArray>
+    <uima.cas.StringArray _id="700" size="0"/>
+    <uima.cas.FSArray _id="702" size="2">
+        <i>706</i>
+        <i>724</i>
+    </uima.cas.FSArray>
+    <uima.cas.StringArray _id="683" size="0"/>
+    <uima.cas.FSArray _id="685" size="2">
+        <i>527</i>
+        <i>689</i>
+    </uima.cas.FSArray>
+    <uima.cas.StringArray _id="665" size="0"/>
+    <uima.cas.FSArray _id="667" size="3">
+        <i>488</i>
+        <i>501</i>
+        <i>514</i>
+    </uima.cas.FSArray>
+    <uima.cas.StringArray _id="647" size="0"/>
+    <uima.cas.FSArray _id="649" size="3">
+        <i>654</i>
+        <i>672</i>
+        <i>605</i>
+    </uima.cas.FSArray>
+</CAS>

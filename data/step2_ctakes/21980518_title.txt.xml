@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?><CAS version="2">
+    <uima.cas.Sofa _indexed="0" _id="3" sofaNum="1" sofaID="_InitialView" mimeType="text" sofaString="Bioenergetic profiling of zebrafish embryonic development."/>
+    <org.apache.ctakes.typesystem.type.structured.DocumentID _indexed="1" _id="1" documentID="21980518_title.txt"/>
+    <uima.tcas.DocumentAnnotation _indexed="1" _id="10" _ref_sofa="3" begin="0" end="58" language="x-unspecified"/>
+    <org.apache.ctakes.typesystem.type.textspan.Segment _indexed="1" _id="15" _ref_sofa="3" begin="0" end="58" id="SIMPLE_SEGMENT"/>
+    <org.apache.ctakes.typesystem.type.textspan.Sentence _indexed="1" _id="21" _ref_sofa="3" begin="0" end="58" sentenceNumber="0"/>
+    <org.apache.ctakes.typesystem.type.syntax.WordToken _indexed="1" _id="27" _ref_sofa="3" begin="0" end="12" tokenNumber="0" normalizedForm="bioenergetic" partOfSpeech="JJ" capitalization="1" numPosition="0" canonicalForm="bioenergetic"/>
+    <org.apache.ctakes.typesystem.type.syntax.WordToken _indexed="1" _id="39" _ref_sofa="3" begin="13" end="22" tokenNumber="1" normalizedForm="profile" partOfSpeech="NN" capitalization="0" numPosition="0" canonicalForm="profile"/>
+    <org.apache.ctakes.typesystem.type.syntax.WordToken _indexed="1" _id="51" _ref_sofa="3" begin="23" end="25" tokenNumber="2" normalizedForm="of" partOfSpeech="IN" capitalization="0" numPosition="0"/>
+    <org.apache.ctakes.typesystem.type.syntax.WordToken _indexed="1" _id="63" _ref_sofa="3" begin="26" end="35" tokenNumber="3" normalizedForm="zebrafish" partOfSpeech="NN" capitalization="0" numPosition="0" canonicalForm="zebrafish"/>
+    <org.apache.ctakes.typesystem.type.syntax.WordToken _indexed="1" _id="75" _ref_sofa="3" begin="36" end="45" tokenNumber="4" normalizedForm="embryonic" partOfSpeech="JJ" capitalization="0" numPosition="0" canonicalForm="embryonic"/>
+    <org.apache.ctakes.typesystem.type.syntax.WordToken _indexed="1" _id="87" _ref_sofa="3" begin="46" end="57" tokenNumber="5" normalizedForm="development" partOfSpeech="NN" capitalization="0" numPosition="0" canonicalForm="development"/>
+    <org.apache.ctakes.typesystem.type.syntax.PunctuationToken _indexed="1" _id="99" _ref_sofa="3" begin="57" end="58" tokenNumber="6" normalizedForm="." partOfSpeech="."/>
+    <org.apache.ctakes.typesystem.type.syntax.NP _indexed="1" _id="107" _ref_sofa="3" begin="0" end="57" chunkType="NP"/>
+    <org.apache.ctakes.typesystem.type.syntax.NP _indexed="1" _id="117" _ref_sofa="3" begin="26" end="57" chunkType="NP"/>
+    <org.apache.ctakes.typesystem.type.syntax.PP _indexed="1" _id="112" _ref_sofa="3" begin="23" end="25" chunkType="PP"/>
+    <org.apache.ctakes.typesystem.type.textspan.LookupWindowAnnotation _indexed="1" _id="122" _ref_sofa="3" begin="0" end="57"/>
+    <org.apache.ctakes.typesystem.type.syntax.ConllDependencyNode _indexed="1" _id="130" _ref_sofa="3" begin="0" end="58" id="0"/>
+    <org.apache.ctakes.typesystem.type.syntax.ConllDependencyNode _indexed="1" _id="144" _ref_sofa="3" begin="0" end="12" id="1" form="Bioenergetic" lemma="bioenergetic" cpostag="JJ" postag="JJ" feats="_" _ref_head="158" deprel="amod" pdeprel="_"/>
+    <org.apache.ctakes.typesystem.type.syntax.ConllDependencyNode _indexed="1" _id="158" _ref_sofa="3" begin="13" end="22" id="2" form="profiling" lemma="profiling" cpostag="NN" postag="NN" feats="_" _ref_head="130" deprel="root" pdeprel="_"/>
+    <org.apache.ctakes.typesystem.type.syntax.ConllDependencyNode _indexed="1" _id="172" _ref_sofa="3" begin="23" end="25" id="3" form="of" lemma="of" cpostag="IN" postag="IN" feats="_" _ref_head="158" deprel="prep" pdeprel="_"/>
+    <org.apache.ctakes.typesystem.type.syntax.ConllDependencyNode _indexed="1" _id="186" _ref_sofa="3" begin="26" end="35" id="4" form="zebrafish" lemma="zebrafish" cpostag="NN" postag="NN" feats="_" _ref_head="214" deprel="nn" pdeprel="_"/>
+    <org.apache.ctakes.typesystem.type.syntax.ConllDependencyNode _indexed="1" _id="200" _ref_sofa="3" begin="36" end="45" id="5" form="embryonic" lemma="embryonic" cpostag="JJ" postag="JJ" feats="_" _ref_head="214" deprel="amod" pdeprel="_"/>
+    <org.apache.ctakes.typesystem.type.syntax.ConllDependencyNode _indexed="1" _id="214" _ref_sofa="3" begin="46" end="57" id="6" form="development" lemma="development" cpostag="NN" postag="NN" feats="_" _ref_head="172" deprel="pobj" pdeprel="_"/>
+    <org.apache.ctakes.typesystem.type.syntax.ConllDependencyNode _indexed="1" _id="228" _ref_sofa="3" begin="57" end="58" id="7" form="." lemma="." cpostag="." postag="." feats="_" _ref_head="158" deprel="punct" pdeprel="_"/>
+    <org.apache.ctakes.typesystem.type.syntax.TerminalTreebankNode _indexed="1" _id="351" _ref_sofa="3" begin="0" end="12" nodeType="JJ" nodeValue="Bioenergetic" leaf="true" _ref_parent="478" headIndex="0" index="0" tokenIndex="0"/>
+    <org.apache.ctakes.typesystem.type.syntax.TerminalTreebankNode _indexed="1" _id="364" _ref_sofa="3" begin="13" end="22" nodeType="NN" nodeValue="profiling" leaf="true" _ref_parent="478" headIndex="0" index="1" tokenIndex="1"/>
+    <org.apache.ctakes.typesystem.type.syntax.TerminalTreebankNode _indexed="1" _id="377" _ref_sofa="3" begin="23" end="25" nodeType="IN" nodeValue="of" leaf="true" _ref_parent="495" headIndex="0" index="2" tokenIndex="2"/>
+    <org.apache.ctakes.typesystem.type.syntax.TerminalTreebankNode _indexed="1" _id="390" _ref_sofa="3" begin="26" end="35" nodeType="NN" nodeValue="zebrafish" leaf="true" _ref_parent="512" headIndex="0" index="3" tokenIndex="3"/>
+    <org.apache.ctakes.typesystem.type.syntax.TerminalTreebankNode _indexed="1" _id="403" _ref_sofa="3" begin="36" end="45" nodeType="JJ" nodeValue="embryonic" leaf="true" _ref_parent="512" headIndex="0" index="4" tokenIndex="4"/>
+    <org.apache.ctakes.typesystem.type.syntax.TerminalTreebankNode _indexed="1" _id="416" _ref_sofa="3" begin="46" end="57" nodeType="NN" nodeValue="development" leaf="true" _ref_parent="512" headIndex="0" index="5" tokenIndex="5"/>
+    <org.apache.ctakes.typesystem.type.syntax.TerminalTreebankNode _indexed="1" _id="429" _ref_sofa="3" begin="57" end="58" nodeType="." nodeValue="." leaf="true" _ref_parent="460" headIndex="0" index="6" tokenIndex="6"/>
+    <org.apache.ctakes.typesystem.type.syntax.TreebankNode _indexed="1" _id="460" _ref_sofa="3" begin="0" end="58" nodeType="NP" leaf="false" _ref_parent="442" _ref_children="473" _ref_nodeTags="471" headIndex="1"/>
+    <org.apache.ctakes.typesystem.type.syntax.TreebankNode _indexed="1" _id="478" _ref_sofa="3" begin="0" end="22" nodeType="NP" leaf="false" _ref_parent="460" _ref_children="491" _ref_nodeTags="489" headIndex="1"/>
+    <org.apache.ctakes.typesystem.type.syntax.TreebankNode _indexed="1" _id="495" _ref_sofa="3" begin="23" end="57" nodeType="PP" leaf="false" _ref_parent="460" _ref_children="508" _ref_nodeTags="506" headIndex="2"/>
+    <org.apache.ctakes.typesystem.type.syntax.TreebankNode _indexed="1" _id="512" _ref_sofa="3" begin="26" end="57" nodeType="NP" leaf="false" _ref_parent="495" _ref_children="525" _ref_nodeTags="523" headIndex="5"/>
+    <org.apache.ctakes.typesystem.type.syntax.TopTreebankNode _indexed="1" _id="442" _ref_sofa="3" begin="0" end="58" nodeType="TOP" leaf="false" _ref_children="457" _ref_nodeTags="455" headIndex="0" treebankParse="(TOP (NP (NP (JJ Bioenergetic) (NN profiling)) (PP (IN of) (NP (NN zebrafish) (JJ embryonic) (NN development)))(. .)))" _ref_terminals="342"/>
+    <uima.cas.FSArray _id="342" size="7">
+        <i>351</i>
+        <i>364</i>
+        <i>377</i>
+        <i>390</i>
+        <i>403</i>
+        <i>416</i>
+        <i>429</i>
+    </uima.cas.FSArray>
+    <uima.cas.StringArray _id="455" size="0"/>
+    <uima.cas.FSArray _id="457" size="1">
+        <i>460</i>
+    </uima.cas.FSArray>
+    <uima.cas.StringArray _id="523" size="0"/>
+    <uima.cas.FSArray _id="525" size="3">
+        <i>390</i>
+        <i>403</i>
+        <i>416</i>
+    </uima.cas.FSArray>
+    <uima.cas.StringArray _id="506" size="0"/>
+    <uima.cas.FSArray _id="508" size="2">
+        <i>377</i>
+        <i>512</i>
+    </uima.cas.FSArray>
+    <uima.cas.StringArray _id="489" size="0"/>
+    <uima.cas.FSArray _id="491" size="2">
+        <i>351</i>
+        <i>364</i>
+    </uima.cas.FSArray>
+    <uima.cas.StringArray _id="471" size="0"/>
+    <uima.cas.FSArray _id="473" size="3">
+        <i>478</i>
+        <i>495</i>
+        <i>429</i>
+    </uima.cas.FSArray>
+</CAS>
